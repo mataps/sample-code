@@ -1,0 +1,836 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+
+
+
+
+
+    <Style id="style_HISTORICALMONUMENT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HISTORICAL-MONUMENT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_CONVENTION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/CONVENTION-CENTER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_PLACEOFWORSHIP">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/PLACEOFWORSHIP.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_BORDERCROSSING">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/BORDER CROSSING.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PARK">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/PARK.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_GOVERMENTOFFICE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/GOVERNMENT OFFICE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_CAMPGROUND">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/CAMP GROUND.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id='tabbed'>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<ul class="nm_tabnav">
+			<li class="nm_tab_current">Excerpt</li>
+			<li class="nm_tab">Combatants</li>
+			</ul><h2>$[name]</h2><br/>$[description]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+    <Style id="style_TOURISTATTRACTION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/TOURISTATTRACTION.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_CONVENSION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/CONVENTION-CENTER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_BUSINESSFACILITY">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/BUSINESS FACILITY.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+    <Style id="style_MUSEUM">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/MUSEUM.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PARK">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/PARK.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+
+
+    <Style id="style_TOURISTINFORMATION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/TOURIST INFORMATION.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_RESTAURANT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/RESTAURANT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_SHOPPING">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/SHOPPING.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_AMUSEMENTPARK">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/AMUSEMENT PARK.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_HOSPITAL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HOSPITAL.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+    <Style id="style_INDUSTRIALZONE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/INDUSTRIAL ZONE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+    <Style id="style_HIGHEREDUCATION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HIGHER EDUCATION.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+    <Style id="style_SCHOOL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/SCHOOL.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_RESIDENTIAL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/RESIDENTIAL AREA-BUILDING.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_SPECIALTYSTORE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/SPECIALTY STORE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_HOTEL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HOTEL.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_GOLFCOURSE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/GOLF COURSE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+
+
+
+
+                    <Placemark>						
+						
+            <name>						
+              Dept. of Agriculture - Alfonso						
+            </name>						
+            <description>						
+              <![CDATA[<div align="center"> 						
+     <iframe src="http://prezi.com/embed/yximl_4seye9/?						
+						
+bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" 						
+						
+frameBorder="0"></iframe> </div>						
+      <div><br /><br />						
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry 			
+						
+Title:</strong> Doon Po Sa Amin Nasa Pait ang Buhay<br />						
+          <strong>Location:</strong> Cavite<br />						
+          <strong>Subtitle:</strong> Beyond the Coffee Beans of Amadeo<br />						
+          <strong>Category:</strong> Community products to support</p>						
+<p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 						
+						
+Doon Po Sa Amin Nasa Pait ang Buhay tackles the team’s investigation of Cavite’s finest coffee 						
+						
+products.						
+		  Given this great opportunity to introduce Kapeng Amadeo to the world as one of 				
+						
+the riches of Cavite, the topic was explored, 						
+		  surveys and interviews were conducted. Written articles and videos document the 				
+						
+struggles of the coffee industry and its 						
+		  significance to people. The team now hopes for a brighter tomorrow for the 				
+						
+people of Amadeo and the success of their						
+		  coffee industry.</p><br /> 				
+						
+<p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Cavite National Science High School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Jennylou A. Pangilinan<br />						
+          <strong>School Team: </strong>						
+          <ul>Maria Beatriz L. Fojas<br />						
+              Darlene Joie C. Tigcal<br />						
+              Zyrah Regina R. Baltazar<br />						
+              Erica Michelle C. Miranda<br />						
+              Roxanne P. Reyes<br />						
+              Justine James P. Ledesma<br />						
+              Khyleri B. Gancayco<br />						
+              Christine Senan C. Pechay<br />						
+              Kristel Marie B. Naca<br />						
+             </ul></font></p><br /></div>						
+      ]]>						
+            </description>						
+            <Point>						
+              <coordinates>						
+120.9226885						
+                ,14.16985478						
+                ,0.000000						
+              </coordinates>						
+            </Point>						
+            <styleUrl>#style_GOVERMENTOFFICE</styleUrl>						
+          </Placemark>						
+	
+
+
+   <Placemark >						
+						
+      <name>						
+        Camarines Sur Provincial Capitol						
+      </name>						
+      <description>						
+        <![CDATA[<div align="center"> 						
+             <iframe src="http://prezi.com/embed/1gedxzqsitdh/?bgcolor=ffffff&amp" width='600' 						
+						
+height='600' style='border: 0px; overflow: hidden;' scrolling='no'></iframe> </div>						
+        						
+          <div>						
+			     <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" 			
+						
+size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: An Puno ng Pili, Punong Pinili<br />						
+              <strong>Location:</strong> Naga City<br />						
+              <strong>Subtitle:</strong> In a Nutshell, Success is a Choice<br />						
+              <strong>Category:</strong> Community products to support</p>						
+<p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 						
+						
+Pili is the flagship crop of the Bicol Region. It plays a significant role in the economy as it 						
+						
+generates						
+                                         employment and provides income to all walks of life. 						
+						
+This is because almost, if not all the parts of the						
+                                         PILI TREE has various uses. Through this community 						
+						
+mapping, our team desires to show the world its rightful						
+                                         place in the international market. Thus, Bicolanos will 						
+						
+be encouraged to plant and nurture more pili trees.</p><br /> 						
+						
+<p style="margin-left: 20px; "> 						
+              <strong>School Name:</strong> Naga Central School 1<br />						
+              <strong>School Type:</strong> Public<br />						
+              <strong>School Level:</strong> Primary<br />						
+              <strong>Teacher Coach:</strong> Mr. Francis Andrew P. Conde, Dawn Obligacion, 						
+						
+Charina Factor<br />						
+              <strong>School Team: </strong>						
+              <ul> Mary Katherine Balane<br />						
+                   Julma Escol, Vina Marie Aurellano<br />						
+                   Gabriel Jean San Joaquin<br />						
+                   Lorefei Boniface Acabado<br />						
+                   Christine Anne Balcueva<br />						
+                   Nicole Palmeda<br/>						
+                 </ul></font></p><br /></div>						
+          ]]>						
+      </description>						
+      <Point>						
+        <coordinates>						
+123.2488685						
+          ,13.59636259						
+          ,0.000000						
+        </coordinates>						
+      </Point>						
+      <styleUrl>#style_TOURISTINFORMATION</styleUrl>						
+    </Placemark>	
+
+
+
+
+    <Placemark >						
+						
+      <name>						
+        Koi Fish Industry						
+      </name>						
+      <description>						
+        <![CDATA[<div align="center"> 						
+             <iframe src="http://www.youtube.com/embed/HYWQmgcQq7I" width='600' height='400' 						
+						
+style='border: 0px; overflow: hidden;' scrolling='yes'></iframe> </div>						
+        						
+          <div>						
+			     <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" 			
+						
+size="2"><strong>Entry Title:</strong> Doon Po sa Amin: May Minahan ng Gintong Isda!!!<br />						
+              <strong>Location:</strong> Rizal<br />						
+              <strong>Subtitle:</strong> Pililla's Gold Fish Mine<br />						
+              <strong>Category:</strong> Community products to support</p>						
+<p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 						
+						
+Doon Po Sa Amin: May Minahan ng Gintong Isda is Pililla National High School’s official entry to 						
+						
+the DPSA 						
+				 Community Mapping Competition under the category   Community 		
+						
+products to support. This is about the Koi Fish 						
+				 Industry in Pililla which serves as a great means of business 		
+						
+because of its importance and uniqueness. Many 						
+			         people usually thought that koi fish and gold fish are just the 			
+						
+same. But these are their common mistakes. 						
+				 Gold fish is so different than a koi, it is smaller and comes 		
+						
+from different body figures. Koi fish can be 						
+				 eaten but due to its expensive price, it is rarely found on 		
+						
+dishes.  This fish can cost a hundred dollars or 						
+                                 thousand pesos, so it’s really a “Gintong Isda”.  Our Team 						
+						
+wanted to inform the people of something about koi 						
+			         fish in the Municipality of Pililla and be inspired with story 			
+						
+behind the success of a great man.</p><br /> 						
+						
+<p style="margin-left: 20px; "> 						
+              <strong>School Name:</strong> Pililla National High School<br />						
+              <strong>School Type:</strong> Public<br />						
+              <strong>School Level:</strong> Primary<br />						
+              <strong>Teacher Coach:</strong> Christopher Olaya<br />						
+              <strong>School Team: </strong>						
+              <ul>  John Mark Abanes<br />						
+                    Diana Navarrete<br />						
+                    Sherry Mae Marasigan<br />						
+                    Francess Ann Guinto<br />						
+                    Irene Basa<br />						
+                    Ver Anthony Maala<br />						
+                    Merari Uzziel Ain Dizon<br />						
+                    Mr. Roger L. Bodegon<br />						
+                 </ul></font></p><br /></div>						
+          ]]>						
+      </description>						
+      <Point>						
+        <coordinates>						
+121.3269294						
+          ,14.4621						
+          ,0.000000						
+        </coordinates>						
+      </Point>						
+      <styleUrl>#style_RESTAURANT</styleUrl>						
+    </Placemark>				
+
+
+
+
+
+
+
+
+
+  </Document>
+</kml>

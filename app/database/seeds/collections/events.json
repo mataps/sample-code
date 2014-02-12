@@ -1,0 +1,58 @@
+[
+    {
+        "month": "December",
+        "date": 25,
+        "title": "Christmas Day",
+        "imageFilename": "Philippines_Events_Christmas",
+        "bodydescription": "One of the largest Christian countries in the world, the Philippines boasts of the longest and merriest Christmas celebration in the world. The Christmas season begins in September and ends during the Feast of the Epiphany or Three Kings, which falls on the first Sunday of January. This is also the time of the year when many families get together, exchange gifts, and the feast on the traditional Noche Buena.",
+        "tagsPlaces": "Philippines"
+    },
+    {
+        "month": "December",
+        "date": 30,
+        "title": "Rizal Day",
+        "imageFilename": "Philippines_Events_RizalDay",
+        "bodydescription": "On this day, Filipinos observe the death anniversary of national hero and patriot Jose Rizal. The whole country commemorates the nationalism of Rizal who fought for freedom and independence Spanish colonial rule.",
+        "tagsPlaces": "Philippines"
+    },
+    {
+        "month": "December",
+        "date": 31,
+        "title": "New Year's Eve",
+        "imageFilename": "Philippines_Events_NewYearEve",
+        "bodydescription": "Many Filipino families unite on New Year’s Eve for a midnight feast called Media Noche. It is also common to stay awake to welcome the new year and observe many rituals and folk beliefs such as Filipino kids jumping as high as they can to make them taller, dressing in polka-dots and scattering coins around the house because round objects signifies prosperity.",
+        "tagsPlaces": "Philippines"
+    },
+    {
+        "month": "January",
+        "date": 1,
+        "title": "New Year",
+        "imageFilename": "Philippines_Events_NewYear",
+        "bodydescription": "One of the most festive celebrations in the Philippines, New Year’s Day is celebrated by setting off fireworks and making a lot of noise to scare away evil spirits, a Filipino belief which originated from the Chinese. It is also common for families, relatives, and close friends to gather for a reunion.",
+        "tagsPlaces": "Philippines"
+    },
+    {
+        "month": "January",
+        "date": 9,
+        "title": "Feast of the Black Nazarene",
+        "imageFilename": "Manila_Events_Nazarene",
+        "bodydescription": "Celebrated every 9th of January, the Feast of the Black Nazarene is one of the most anticipated events by Catholic devotees. Believed to be miraculous, the image of the Black Nazarene is ushered outside the streets of Quiapo in Manila  to be carried by devotees in a procession. The feast is highly noted for its millions of devotees who patiently brave the streets barefoot.",
+        "tagsPlaces": "NCR, Manila"
+    },
+    {
+        "month": "January",
+        "date": 10,
+        "title": "Ati-atihan Festival",
+        "imageFilename": "Aklan_Events_AtiAtihan",
+        "bodydescription": "Regarded as the \"Mother of All Philippine Festivals\" and \"The Filipino Mardi Gras,\" the Ati-atihan Festival is celebrated annually in Kalibo, Aklan in honor of  Santo Niño. Held annualy in January, the festival is characterized by a  colorful celebration that comes alive with the beating of drums and with celebrants dressing up like the Ati, the indigenious natives of the island.",
+        "tagsPlaces": "Region 6 - Western Visayas Region, Aklan, Kalibo"
+    },
+    {
+        "month": "January",
+        "date": 19,
+        "title": "Sinulog Festival",
+        "imageFilename": "Sinulog_1",
+        "bodydescription": "The grandest festival in Cebu and the country’s biggest cultural event, Sinulog Festival is celebrated every third Sunday of January. Millions of people from all over the country gather in Cebu to honor the Holy Child Jesus, Sto. Nino, during the celebration. Revelers show their devotion by participating in a long procession and singing praises. One of the highlight of the festival is the Grand Parade where several contingents from different parts of the country compete in a street dance.",
+        "tagsPlaces": "Region 7 - Central Visayas Region, Cebu, Cebu City"
+    }
+]

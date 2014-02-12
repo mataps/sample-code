@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>            
+<kml xmlns='//www.opengis.net/kml/2.2'>           
+  <Document>            
+            
+    <Style id="style_PLANTSANIMALSTODISCOVER">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLANTSANIMALSTODISCOVER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+  
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+    
+      </BalloonStyle>
+    </Style>
+
+<Placemark id="4 ">
+   <name>Dapdap, Barobo, Surigao del Sur</name>
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src="//www.youtube.com/embed/KZG3bZd32d0" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, May Isdang Simo't Sarap<BR><BR/><strong>Location: </strong>Barobo, Surigao del Sur<BR><BR/><strong>Category: </strong>Plants and Animals to Discover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Barobo National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Barobo is a place were marine product is abundant. Blessed with creative people where they utilize the product to the fullest. Because of this, they were able to innovate and make some fleshly waste to be useful for consumption.  Danggit for instance is the justification of how eco-rich the marine resources of Barobo which made the barobohanons to make an innovation of an exquisite dish and make variety of culinary menu to a mouth watering food to eat.  Danggit is truly a piece of God&#8217;s gift to the native people of Barobo. Every part of it, Danggit is the fish to eat. <BR><BR/><strong>Team Members: </strong><ul>Clarence G. Cortez</br>Mathem Havana</br>Johoche Trimidal</br>Roche Ann Iligan</br>Jovhen Ramirez</br>Lady Vanessa Claveria</br>Somerado Racman</br>Recmea Rose Jiminez</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>126.1377344,8.5277622,0</coordinates></Point>
+    <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+</Placemark>
+
+
+<Placemark id="14 ">
+   <name>Doon Po Sa Amin: Mula Sa Kalabaw ang Inihahain</name>
+   <description><![CDATA[<div align ="center"><q><iframe src="//prezi.com/embed/qzvbi-nqw7hi/" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Lumalangoy ang mga Bahay<BR><BR/><strong>Location: </strong>Maragondon, Cavite<BR><BR/><strong>Category: </strong>Plants and Animals to Discover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National Science High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Olive Ridley Turtles are one of the most ancient creatures live in the Earth&#8217;s oceans.  It is the most abundant type of sea turtle but now they became endangered.  This study entitled &#8220;Doon Po Sa Amin: Lumalangoy ang mga Bahay&#8221;  aimed to inform citizens and to promote the Pawikan Conservation Project in Labac, Naic, Cavite.  The researchers observed, gathered information, and investigated thoroughly through the means of online research,  attendance to the town&#8217;s activities, surveys and interviews with the barangay officials  and the Municipal Environment and Natural Resources Office (MENRO) officers. The community map contains interactive  videos, trivia, and photographs and provides information about the unique features of the Olive Ridley turtles,  its benefit to the place, and ways to conserve them. It also provides facts that raise the awareness of the citizens about the existence of these marine turtles. <BR><BR/><strong>Team Members: </strong><ul>Alvin Jehiel V. Acosta</br>Alieza Monique T. Garcia</br>Janelle J. Javier</br>Ederleen G. Escallar</br>Erika Mae P. Lucerna</br>John Edward C. Cayas</br>Katherine Faye C. dela Cruz</br>Jessa M. Sori&#241;o</br>Angelo B. Cabrera</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.9028606,14.3497472,0</coordinates></Point>
+    <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+</Placemark>
+
+
+<Placemark id="78 ">
+  <name>Tarsier Sanctuary in Brgy. Linan, Tupi</name>
+   <description><![CDATA[<div align ="center"><q><iframe src=//prezi.com/embed/6ldftjpugf9k/?bgcolor=ffffff&#38;lock_to_path=0&#38;autoplay=0&#38;autohide_ctrls=0&#38;features=undefined&#38;disabled_features=undefined width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, May Tarsier din!<BR><BR/><strong>Location: </strong>Tupi, South Cotabato<BR><BR/><strong>Category: </strong>Plants and Animals to Discover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Stratford International School<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Learn to love and take care of one of the most sensitive  endangered yet gentle animals in their secret sanctuary located at Brgy. Linan, Tupi,  South Cotabato. It has been said to be a secret sanctuary to protect the Tarsiers  from being captured and sold by people as pets. Tarsiers should be preserved  and should not be touched by human hands because of the tendency of Tarsiers to  commit suicide. Let it not be an extinct specie in the future. <BR><BR/><strong>Team Members: </strong><ul>Angelica M. Tagolabong</br>Lykha Mae R. Gaborne</br>Allyssa Mari P. Morales</br>Monique April Sanchez</br>Janica Bea R. Domantay</br>Yvette M. Montealegre</br>Jose Miguel E. Villamor</br>Bai Angel Unaysah S. Abutazil</ul></p><BR><BR/></div>]]></description>
+
+    <Point><coordinates>124.94988,6.33369,0</coordinates></Point>
+    <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+</Placemark>
+
+
+<Placemark id="92 ">
+   <name>SEAMANCOR Office/ Model Site</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME src="//prezi.com/embed/sryflha3rmko/?bgcolor=ffffff&#38;amp;amp;lock_to_path=0&#38;amp;amp;autoplay=0&#38;amp;amp;autohide_ctrls=0&#38;amp;amp;features=undefined&#38;amp;amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Tinatagong Kinang, Kislap ng Brgy. Diamante<BR><BR/><strong>Location: </strong>Naga City, Camarines Sur<BR><BR/><strong>Category: </strong>Plants and Animals to Discover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Naga City Science High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Just what kind of unexplored wonders and undiscovered treasure lie in wait for our heroes as they chase down Mr. Evil at Prieto Diaz, Sorsogon? Join the adventures of these nature warriors as they explore the  hidden wonders of Prieto Diaz, Sorsogon and protect the natural jewels of Brgy. Diamante in Naga City Science High School&#8217;s entry for the sixth Doon Po Sa Amin Community Mapping Competition with entry  title &#8220;Doon Po Sa Amin: Yamang Higit Pa Sa Ginto, Sa Diamante&#8217;y Di Maitatago&#8221;. <BR><BR/><strong>Team Members: </strong><ul>Margaret Ann O. Zaragagoza</br>Kate P. Sarmiento</br>Patricia Anne L. Bongulto</br>Og S. Locaba</br>Ian Paolo V. Ombao</br>Gabriel P. Zamudio</br>Helen V. Aureus</br>Joretze S. Carandang</br>Catherine Q. Ramos</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>124.19329,13.03932,0</coordinates></Point>
+    <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+</Placemark>
+
+
+</Document></kml>

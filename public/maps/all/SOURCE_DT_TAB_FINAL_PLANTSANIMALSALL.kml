@@ -1,0 +1,618 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+
+    <Style id="style_ACTIVITIES">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/ACTIVITIES.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_FOODTOEAT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/FOODTOEAT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_HISTORY">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/HISTORY.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+	
+	
+    <Style id="style_PEOPLETOMEET">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PEOPLETOMEET.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+	
+	
+
+    <Style id="style_PLACESTOGO">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLACESTOGO.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PRODUCTS">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PRODUCTS.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_PLANTSANIMALSTODISCOVER">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLANTSANIMALSTODISCOVER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id='tabbed'>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<ul class="nm_tabnav">
+			<li class="nm_tab_current">Excerpt</li>
+			<li class="nm_tab">Combatants</li>
+			</ul><h2>$[name]</h2><br/>$[description]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Placemark >
+
+      <name>
+        Holy Cross Chapel
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="500" height="450" src="http://www.youtube.com/embed/aM-hc5HM30w" frameborder="0" allowfullscreen></iframe><br/></div>
+        						
+             <div><br /><br />						
+			              <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon po sa amin, Dahon si Tekla<br />						
+                    <strong>Location:</strong> Rizal<br/>						
+                    <strong>Subtitle:</strong> Tekla, The Healing Leaves<br />						
+                    <strong>Category:</strong> Plants and Animals to discover</p>
+                    
+                    
+
+                    
+                        <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 
+                        Doon Po sa Amin .. Dahon si Tekla is a story of a quest of a group of kids who wondered about the tea or the origin of the tea partnered with "Puto Bumbong", 
+                        their search about the origin of that tea become tiring and when they are exhausted they meet a biker who knows an expert that has knowledge about it who 
+                        can help them know important things about the tea and everything's. The group came up with this entry because Tekla tea is original and very famous in Tanay and 
+                        it also helps its people in many ways including livelihood, tourism and its healing effects.
+                        </p><br /> 	
+
+              <p style="margin-left: 20px;"> 						
+                    <strong>School Name:</strong> Ilaya Elementary School<br />						
+                    <strong>School Type:</strong> Public<br />						
+                    <strong>School Level:</strong> Primary<br />		
+                    <strong>Teacher Coach:</strong> Mrs. Priscilla I. Miranda<br />			
+                    <strong>School Team:</strong>						
+                    <ul>    Priscilla I. Miranda<br/>
+                            Aero Joi J. Damaso<br/>
+                            Nickolai Sabastian Jugo<br/>
+                            John Solomhon O. Sales<br/>
+                            Jealeanne R. Pabalan<br/>
+                            Aizeyah L. Gonzales<br/>
+                            Cayehart Jher S. Garcia<br/>
+                            Chris Adrian Jesuitas<br/>
+                    </ul></font></p><br /></div>						
+                ]]>
+      </description>
+      <Point>
+        <coordinates>
+          121.2894713
+          ,	14.5113493
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+    <Placemark>
+      <name>
+        Ato Belen's Farm
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="750" height=400" src="http://prezi.com/embed/6eaca81694a201748290fe5be0ffb20791a31537/?bgcolor=ffffff&amp"></iframe><br/>
+        
+      
+        </div>
+        						
+             <div><br /><br />						
+			              <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Farmer Scientist sa Livestock at Organic Farming, In na In!<br />						
+                    <strong>Location:</strong> Laguna<br/>						
+                    <strong>Subtitle:</strong> Renato Belen: San Pablo City's Farmer-Scientist<br />						
+                    <strong>Category:</strong> Plants and animals to discover</p>
+                    
+                    
+
+                    
+                        <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 
+                        This a science-educational oriented show featuring Ato Belen's Farm - a successful agriculturist in the City of San Pablo.
+                        </p><br /> 	
+
+              <p style="margin-left: 20px;"> 						
+                    <strong>School Name:</strong> Kintner Christian Academy<br />						
+                    <strong>School Type:</strong> Private<br />						
+                    <strong>School Level:</strong> Secondary<br />		
+                    <strong>Teacher Coach:</strong> Ronald Dungo<br />			
+                    <strong>School Team:</strong>						
+                    <ul>    QUIROZ, Patricia Anne G.<BR/>
+                            GARCIA, Chat Allaine D.<BR/>
+                            LALU, Hazel C.<BR/>
+                            CASTILLO, Ivy Vanessa I.<BR/>
+                            MAGPANTAY, Ivan Henris A.<BR/>
+                            BONDAD, Baltazar Jr, B.<BR/>
+                            MOJICA, Kristine P.<BR/>
+                            BONDAD, Leandro L. <BR/>
+                            DUNGO, Ronald L. <BR/>
+                    </ul></font></p><br /></div>								
+                ]]>
+      </description>
+      <Point>
+        <coordinates>
+          121.2957916
+
+
+
+          ,	14.09136244
+
+
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+    </Placemark>
+
+
+
+
+
+    <Placemark>
+      <name>
+        Golden Frog
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+         <iframe src="http://simplebooklet.com/embed.php?wpKey=ulxk0mumaoTgjGoYVAXPAo" width='750' height='400'></iframe></q>
+         
+         
+           <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/embed.php?wpKey=ulxk0mumaoTgjGoYVAXPAo"  target="_blank">HERE</a></Strong></h2></div>						
+     
+         
+         
+         
+         </div>
+        
+      <div><br/><br />		
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Mga Manggad sa Banwa, Usa-usa Ila-ilaha</br>
+          <strong>Location:</strong> Negros Oriental<br/>
+          <strong>Subtitle:</strong> Be Acquainted of the Town's Treasure</br>
+          <strong>Category:</strong> Plants and animals to discover</p></br>
+            <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">          
+          <strong>Summary: </strong> The Municipality of Basay is blessed with its abundant and charming creatures in the different scenic barangays.One of these is the Negros Cave Frog, 
+                                     known scientifically as platimantis spelaeus. A cave inhabitant specie endemic only in the two limestone caves on the southern most part of Negros Oriental, 
+                                     particularly in Basay. Another is the Visayan Spotted Deer (Rusa alfredi), commonly found on forested areas and on grasslands in some Visayan islands, 
+                                     like Panay and Negros.</br>
+          <strong>School Name:</strong> Basay National High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Cherryl D. Torreda</br>
+          <strong>School Team:</strong>
+          <ul>James Z. Gabales</br>
+              Bless O. Gaga-a</br>
+              Grace O. Gaga-a</br>
+              Jacob T. Morados</br>
+              Hector Philippe P. Plame</br>
+              Al John M. Suyao</br>
+              Nerissa Glyne Suyao</br> 
+              Conchita Kaye Q.Taleon </br>
+              Cherryl D. Torreda <br/>
+             </ul></font></p></br></div>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          122.6398736
+          ,9.406939391
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+    </Placemark>
+
+
+
+    <Placemark>
+      <name>
+        Spotted Deer
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+         <iframe src="http://simplebooklet.com/embed.php?wpKey=0xlSMrs2XOC4CbHdlZogLU" width='750' height='400'></iframe></q>
+         
+         
+         
+         <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/embed.php?wpKey=0xlSMrs2XOC4CbHdlZogLU"  target="_blank">HERE</a></Strong></h2></div>						
+     
+         
+         </div>
+        
+      <div><br/><br />		
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Ang Nakatagong Gasa ni Bathala</br>
+          <strong>Location:</strong> Negros Oriental<br/>
+          <strong>Subtitle:</strong> God's Hidden Gift</br>
+          <strong>Category:</strong> Plants and animals to discover</p></br>
+           <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">          
+          <strong>Summary: </strong> The Municipality of Basay is blessed with its abundant and charming creatures in the different scenic barangays.One of these is the Negros Cave Frog, 
+                                     known scientifically as platimantis spelaeus. A cave inhabitant specie endemic only in the two limestone caves on the southern most part of Negros Oriental, 
+                                     particularly in Basay. Another is the Visayan Spotted Deer (Rusa alfredi), commonly found on forested areas and on grasslands in some Visayan islands,
+                                     like Panay and Negros.</p></br>
+          <strong>School Name:</strong> Basay National High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Cherryl D. Torreda</br>
+          <strong>School Team:</strong>
+          <ul>James Zerna Gabales</br>
+              Hector Philippe Ponce Plame</br>
+              Jacob Taborada Morados</br>
+              Al john Monicado Suyao</br>
+              Bless Omale Gaga-a</br>
+              Grace Omale Gaga-a</br>
+              Nerissa Glyne Monicado Suyao</br>
+              Conchita Kaye Quitoy Taleon</br>
+              Cherryl Delicana Torreda<br/>
+             </ul></font></p></br></div>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          122.6398736
+          ,9.406939391
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+    </Placemark>
+
+
+
+
+
+    <Placemark >
+
+      <name>DPSA - Lumuluhod kay Eba ang Ahas</name>
+      <description>
+        <![CDATA[<div align="center"><q>
+            <iframe src='http://simplebooklet.com/publish.php?wpKey=fstmwLKtX7foFe2n7x9Ydy' width='750' height='714'></iframe></q>
+            
+            
+             <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/publish.php?wpKey=fstmwLKtX7foFe2n7x9Ydy"  target="_blank">HERE</a></Strong></h2></div>						
+     
+            
+            
+            </div>
+          <div> <br/><br/>
+			    <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> DPSA: Pinaluhod ni Eba ang Ahas</br>
+              <strong>Location:</strong> Davao<br/>
+              <strong>Subtitle:</strong> Young Eve Slays King Cobra</br>
+              <strong>Category:</strong> Plants and animals to discover</br></br>
+              <strong>School Name:</strong> Doña Carmen Denia National High School</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Secondary</br>
+			        <strong>Teacher Coach:</strong> Stephen Pascual</br>
+              <strong>School Team: </strong>
+              <ul>  Shiela Alemania</br>
+                    Roel del Cruz</br>
+                    Riza Lea Resane</br>
+                    Maria Clarisza Soccoro Pacleb</br>
+                    Junnica Lopez</br>
+                    Harlene</br>
+                    Merquita</br>
+                    Marayag</br>
+                    Stephen R. Pascual<br/>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.4640449
+          ,7.067003535
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+    </Placemark>
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Philippine Eagle (DPSA)
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+        <iframe src='http://simplebooklet.com/embed.php?wpKey=YiOVWfxxsXm2agZ6uliDso' width='606' height='616'></iframe></q>
+        
+        
+         <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/embed.php?wpKey=YiOVWfxxsXm2agZ6uliDso"  target="_blank">HERE</a></Strong></h2></div>						
+     
+        
+        
+        
+        </div>
+          <div> <br/><br/>
+			    <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:Doon Po Sa Amin: Lumilipad ang Hari The Philippine Eagle at the Heights of Davao</strong></br>
+              <strong>Location:</strong> Davao<br/>
+              <strong>Subtitle:</strong> The Philippine Eagle at the Heights of Davao.</br>
+              <strong>Category:</strong> Plants and animals to discover</p></br>
+               <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">          
+
+              <strong>Summary: </strong> The Philippine Eagle also known as “haring ibon” (king eagle) is unquestionably worthy to be named as the national bird of the 
+                                         Philippines for its might and glory. It is one of the largest eagles in the world that this country can definitely be proud of. This
+                                         creature is also an endangered species in the planet today. But in the land of promise Davao, it still soars high, protected and 
+                                         taken cared of for preservation.</p></br>
+                  <p style="margin-left: 20px;"> 	
+                                  
+              <strong>School Name:</strong> Doña Carmen Denia National High School</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Secondary</br>
+			        <strong>Teacher Coach:</strong> Stephen Pascual</br>
+              <strong>School Team: </strong>
+              <ul>  Mimilanie Maboloc</br>
+                    Stephen R. Pascual</br>
+                    Dindo Agad</br>
+                    Mary Grace Cataytay</br>
+                    Rick Carlo Miller</br>
+                    Jessa Mae Payot</br>
+                    Genevieve Dulay</br>
+                    Wilbur Carlobos<br/>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.4172601
+          ,7.183442123
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Susan's Beach
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+           <iframe src="http://prezi.com/embed/8p_zzrtdeei4/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe></q></div>
+          <div><br/><br/>
+			    <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Ss Amin: May Paraisong Nagbabalat-Kayo</br>
+              <strong>Location:</strong> South Cotabato<br/>
+              <strong>Subtitle:</strong> Turtles Haven</br>
+              <strong>Category:</strong> Plants and animals to discover</p></br>
+                <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">          
+
+              <strong>Summary: </strong> It is entitled as Doon po sa Amin: Isang Paraiso ang nagbabalat-kayo because the project is about featuring Susan’s beach and 
+                                         Cesma cliff, the hidden paradise-like beaches in Saranggani. The road you need to take before going there makes you think that
+                                         there’s no such a stunning place waiting for you. And if you’re already there, at first glimpse, those beaches might be like 
+                                         any other tourist attractions in Saranggani but, it’s striking scenes makes you realize, a paradise exist.</p></br>
+             <p style="margin-left: 20px;"> 	
+       
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Secondary</br>
+              <strong>Teacher Coach:</strong> Marivic Delmo</br>
+              <strong>School Team: </strong>
+              <ul>  Jude Martin Seminio</br>
+                    Honey Grace Sario</br>
+                    Ruby Jean Monton</br>
+                    Edmar Andang</br>
+                    Christine Joy Paulio</br>
+                    Phoebe Mamalateo</br>
+                    Vizzelle John Baliguat</br>
+                    Suzanne Grae Nabre</br>
+                    Melanie Daan</br>
+                    Aida Nale</br>
+             </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.0837521
+          ,5.878321237
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+    </Placemark>
+
+
+    <!-- year 6 -->
+
+
+<Placemark id="4 ">
+   <name>Dapdap, Barobo, Surigao del Sur</name>
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src="//www.youtube.com/embed/KZG3bZd32d0" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, May Isdang Simo't Sarap<BR><BR/><strong>Location: </strong>Barobo, Surigao del Sur<BR><BR/><strong>Category: </strong>Plants and Animals to Discover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Barobo National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Barobo is a place were marine product is abundant. Blessed with creative people where they utilize the product to the fullest. Because of this, they were able to innovate and make some fleshly waste to be useful for consumption.  Danggit for instance is the justification of how eco-rich the marine resources of Barobo which made the barobohanons to make an innovation of an exquisite dish and make variety of culinary menu to a mouth watering food to eat.  Danggit is truly a piece of God&#8217;s gift to the native people of Barobo. Every part of it, Danggit is the fish to eat. <BR><BR/><strong>Team Members: </strong><ul>Clarence G. Cortez</br>Mathem Havana</br>Johoche Trimidal</br>Roche Ann Iligan</br>Jovhen Ramirez</br>Lady Vanessa Claveria</br>Somerado Racman</br>Recmea Rose Jiminez</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>126.1377344,8.5277622,0</coordinates></Point>
+    <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+</Placemark>
+
+
+<Placemark id="14 ">
+   <name>Doon Po Sa Amin: Mula Sa Kalabaw ang Inihahain</name>
+   <description><![CDATA[<div align ="center"><q><iframe src="//prezi.com/embed/qzvbi-nqw7hi/" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Lumalangoy ang mga Bahay<BR><BR/><strong>Location: </strong>Maragondon, Cavite<BR><BR/><strong>Category: </strong>Plants and Animals to Discover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National Science High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Olive Ridley Turtles are one of the most ancient creatures live in the Earth&#8217;s oceans.  It is the most abundant type of sea turtle but now they became endangered.  This study entitled &#8220;Doon Po Sa Amin: Lumalangoy ang mga Bahay&#8221;  aimed to inform citizens and to promote the Pawikan Conservation Project in Labac, Naic, Cavite.  The researchers observed, gathered information, and investigated thoroughly through the means of online research,  attendance to the town&#8217;s activities, surveys and interviews with the barangay officials  and the Municipal Environment and Natural Resources Office (MENRO) officers. The community map contains interactive  videos, trivia, and photographs and provides information about the unique features of the Olive Ridley turtles,  its benefit to the place, and ways to conserve them. It also provides facts that raise the awareness of the citizens about the existence of these marine turtles. <BR><BR/><strong>Team Members: </strong><ul>Alvin Jehiel V. Acosta</br>Alieza Monique T. Garcia</br>Janelle J. Javier</br>Ederleen G. Escallar</br>Erika Mae P. Lucerna</br>John Edward C. Cayas</br>Katherine Faye C. dela Cruz</br>Jessa M. Sori&#241;o</br>Angelo B. Cabrera</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.9028606,14.3497472,0</coordinates></Point>
+    <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+</Placemark>
+
+
+<Placemark id="78 ">
+  <name>Tarsier Sanctuary in Brgy. Linan, Tupi</name>
+   <description><![CDATA[<div align ="center"><q><iframe src=//prezi.com/embed/6ldftjpugf9k/?bgcolor=ffffff&#38;lock_to_path=0&#38;autoplay=0&#38;autohide_ctrls=0&#38;features=undefined&#38;disabled_features=undefined width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, May Tarsier din!<BR><BR/><strong>Location: </strong>Tupi, South Cotabato<BR><BR/><strong>Category: </strong>Plants and Animals to Discover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Stratford International School<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Learn to love and take care of one of the most sensitive  endangered yet gentle animals in their secret sanctuary located at Brgy. Linan, Tupi,  South Cotabato. It has been said to be a secret sanctuary to protect the Tarsiers  from being captured and sold by people as pets. Tarsiers should be preserved  and should not be touched by human hands because of the tendency of Tarsiers to  commit suicide. Let it not be an extinct specie in the future. <BR><BR/><strong>Team Members: </strong><ul>Angelica M. Tagolabong</br>Lykha Mae R. Gaborne</br>Allyssa Mari P. Morales</br>Monique April Sanchez</br>Janica Bea R. Domantay</br>Yvette M. Montealegre</br>Jose Miguel E. Villamor</br>Bai Angel Unaysah S. Abutazil</ul></p><BR><BR/></div>]]></description>
+
+    <Point><coordinates>124.94988,6.33369,0</coordinates></Point>
+    <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+</Placemark>
+
+
+<Placemark id="92 ">
+   <name>SEAMANCOR Office/ Model Site</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME src="//prezi.com/embed/sryflha3rmko/?bgcolor=ffffff&#38;amp;amp;lock_to_path=0&#38;amp;amp;autoplay=0&#38;amp;amp;autohide_ctrls=0&#38;amp;amp;features=undefined&#38;amp;amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Tinatagong Kinang, Kislap ng Brgy. Diamante<BR><BR/><strong>Location: </strong>Naga City, Camarines Sur<BR><BR/><strong>Category: </strong>Plants and Animals to Discover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Naga City Science High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Just what kind of unexplored wonders and undiscovered treasure lie in wait for our heroes as they chase down Mr. Evil at Prieto Diaz, Sorsogon? Join the adventures of these nature warriors as they explore the  hidden wonders of Prieto Diaz, Sorsogon and protect the natural jewels of Brgy. Diamante in Naga City Science High School&#8217;s entry for the sixth Doon Po Sa Amin Community Mapping Competition with entry  title &#8220;Doon Po Sa Amin: Yamang Higit Pa Sa Ginto, Sa Diamante&#8217;y Di Maitatago&#8221;. <BR><BR/><strong>Team Members: </strong><ul>Margaret Ann O. Zaragagoza</br>Kate P. Sarmiento</br>Patricia Anne L. Bongulto</br>Og S. Locaba</br>Ian Paolo V. Ombao</br>Gabriel P. Zamudio</br>Helen V. Aureus</br>Joretze S. Carandang</br>Catherine Q. Ramos</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>124.19329,13.03932,0</coordinates></Point>
+    <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+</Placemark>
+
+
+  </Document>
+</kml>

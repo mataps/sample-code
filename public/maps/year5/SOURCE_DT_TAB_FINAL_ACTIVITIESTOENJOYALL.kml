@@ -1,0 +1,1024 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+
+
+    <Style id="style_ACTIVITIES">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/ACTIVITIES.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_FOODTOEAT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/FOODTOEAT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_HISTORY">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/HISTORY.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+	
+	
+    <Style id="style_PEOPLETOMEET">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PEOPLETOMEET.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+	
+	
+
+    <Style id="style_PLACESTOGO">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLACESTOGO.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PRODUCTS">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PRODUCTS.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_PLANTSANIMALSTODISCOVER">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLANTSANIMALSTODISCOVER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id='tabbed'>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<ul class="nm_tabnav">
+			<li class="nm_tab_current">Excerpt</li>
+			<li class="nm_tab">Combatants</li>
+			</ul><h2>$[name]</h2><br/>$[description]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+    <Placemark >
+
+      <name>
+        Zumba at Mall
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+         <iframe src="http://prezi.com/embed/ftu6oyqlaaf3/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe></div>						
+        						
+             <div><br /><br />						
+			              <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Kalusuga'y Sinasayaw, Katawa'y Hinahataw<br />						
+                    <strong>Location:</strong> General Santos City<br/>						
+                    <strong>Subtitle:</strong> Choose Wellness, Choose Fitness<br />						
+                    <strong>Category:</strong> Activities to enjoy</p>						
+                        
+                        <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 						
+                         Zumba is a Colombian dance fitness program created by dancer Alberto Perez in 1986.
+                         It involves dance and aerobic elements.  It incorporates hip-hop, soca, samba, salsa, merengue, martial arts, and etc.
+                         This dance activity started here in Gensan on January 2012 at Robinson's Place by the dance instructor Mrs. Ofelia "Babes" Ferolin.
+                         It started when Robinson's Place offered  Ms. “Babes” to teach Zumba every Saturdays and Sundays for free! It started with 8 people until it filled the place."
+                          </p><br /> 	
+
+              <p style="margin-left: 20px;"> 						
+                    <strong>School Name:</strong> General Santos City National High School<br />						
+                    <strong>School Type:</strong> Public<br />						
+                    <strong>School Level:</strong> Secondary<br />						
+                    <strong>Teacher Coach:</strong> Aida D. Nale<br />						
+                    <strong>School Team:</strong>						
+                    <ul>Anne Gabrielle Che<BR/>
+                        Melvin Jhon Lugod<BR/>
+                        Jeselle Tebag<BR/>
+                        Karen Mae Perez<BR/>
+                        Justine Roi Galang<BR/>
+                        Clonidine Jead Makagansa<BR/>
+                        Van Paul Erbina<BR/>
+                        Sarah Che<BR/>
+                        Clotilde Libo-on<BR/>
+                        Aida D. Nale<br/>						
+                       </ul></font></p><br /></div>						
+                ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.1904535
+          ,6.12154319
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_ACTIVITIES</styleUrl>
+    </Placemark>
+
+
+
+
+    <Placemark >
+
+      <name>
+        Cybersanity
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+       <iframe src="http://prezi.com/embed/grp1kb-qosfm/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe></div>						
+        						
+             <div><br /><br />						
+			              <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: Cyber Sanity<br />						
+                    <strong>Location:</strong> General Santos City<br/>						
+                    <strong>Subtitle:</strong> Gensan's rising Cyber Gaming Industry<br />						
+                    <strong>Category:</strong> Activities to enjoy</p>						
+                
+                        <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 
+                       This presentation entitled Cybersanity is an entry for the Doon Po Sa Amin. This features the cybergaming industry of General Santos City, 
+                       the skills of gamers and their achievements in their passion. It also provides the story of every gamer as they struggled and strived hard
+                       to reach the top, to be the champion of their chosen game. This project aims to showcase of General Santos’ High Skilled Gamers and the
+                       internet café that holds prestigious events.
+                       </p><br /> 	
+
+              <p style="margin-left: 20px;"> 						
+                    <strong>School Name:</strong> General Santos City National High School<br />						
+                    <strong>School Type:</strong> Public<br />						
+                    <strong>School Level:</strong> Secondary<br />						
+                    <strong>Teacher Coach:</strong> Dante Arboleda<br />						
+                    <strong>School Team:</strong>						
+                    <ul>   Alfon Sabido<BR/>
+                           Shiela Mantilla<BR/>
+                           Pearl Descuatan<BR/>
+                           Leslie Jane Belais<BR/>
+                           Evangeline Varela<BR/>
+                           Ian Camasura<BR/>
+                           Vienna Echalar<BR/>
+                           Melanie Daan<BR/>
+                           Albert Balongoy<BR/>
+                           Dante Arboleda<BR/>
+                       </ul></font></p><br /></div>						
+                ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.1685313
+          ,6.112881923
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_ACTIVITIES</styleUrl>
+    </Placemark>
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Bakasyunan Hotel and Resort
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="500" height="450" src="http://www.youtube.com/embed/4skoanWXJUo" frameborder="0" allowfullscreen></iframe><br/></div>
+        						
+             <div><br /><br />						
+			              <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon po sa amin, Lilipad Tayo<br />						
+                    <strong>Location:</strong> Rizal<br/>						
+                    <strong>Subtitle:</strong> Let's Zip to Tanay! (A Zipline Adventure)<br />						
+                    <strong>Category:</strong> Activities to enjoy</p>
+                    
+                        <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 
+                        This entry is like a short film that interact with its audience by means of cracking jokes and giving them information  in a casual way 
+                        so it will catch their attention easily. We chose this topic because we want to promote and let other people see the best zip lines here in 
+                        Tanay. The kids  went to different resorts in Tanay that have zip line including; adventure camp, Sierra Madre, Pranjetto and Bakasyunan, 
+                        all of the student participant in this entry tried and enjoyed zip line that's why they really know what their entry is all about.
+                        </p><br /> 	
+
+              <p style="margin-left: 20px;"> 						
+                    <strong>School Name:</strong> Ilaya Elementary School<br />						
+                    <strong>School Type:</strong> Public<br />						
+                    <strong>School Level:</strong> Primary<br />		
+                    <strong>Teacher Coach:</strong> Mrs. Norberta R. Jarlego<br />			
+                    <strong>School Team:</strong>						
+                    <ul>    Leonora D.V. Tibay<br/>
+                            Jhaira Mae T. Zapanta<br/>
+                            Jen Mark Louie R. Chualong<br/>
+                            Janelle Maxine I. Galinato<br/>
+                            Aaron Jethro J. Cerillo<br/>
+                            Kate A. Boca<br/>
+                            Randell D. Delgado<br/>
+                            Jhon Venric A. Corral<br/>
+                            Mica Mae San Felipe<br/>
+                    </ul></font></p><br /></div>						
+                ]]>
+      </description>
+      <Point>
+        <coordinates>
+          121.3352288
+          ,14.5321252
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_ACTIVITIES</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Tanay Adventure Camp
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="500" height="450" src="http://www.youtube.com/embed/4skoanWXJUo" frameborder="0" allowfullscreen></iframe><br/></div>
+        						
+             <div><br /><br />						
+			              <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon po sa amin, Lilipad Tayo<br />						
+                    <strong>Location:</strong> Rizal<br/>						
+                    <strong>Subtitle:</strong> Let's Zip to Tanay! (A Zipline Adventure)<br />						
+                    <strong>Category:</strong> Activities to enjoy</p>
+                    
+                        <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 
+                        This entry is like a short film that interact with its audience by means of cracking jokes and giving them information  in a casual way 
+                        so it will catch their attention easily. We chose this topic because we want to promote and let other people see the best zip lines here in 
+                        Tanay. The kids  went to different resorts in Tanay that have zip line including; adventure camp, Sierra Madre, Pranjetto and Bakasyunan, 
+                        all of the student participant in this entry tried and enjoyed zip line that's why they really know what their entry is all about.
+                        </p><br /> 	
+
+              <p style="margin-left: 20px;"> 						
+                    <strong>School Name:</strong> Ilaya Elementary School<br />						
+                    <strong>School Type:</strong> Public<br />						
+                    <strong>School Level:</strong> Primary<br />		
+                    <strong>Teacher Coach:</strong> Mrs. Norberta R. Jarlego<br />			
+                    <strong>School Team:</strong>						
+                    <ul>    Leonora D.V. Tibay<br/>
+                            Jhaira Mae T. Zapanta<br/>
+                            Jen Mark Louie R. Chualong<br/>
+                            Janelle Maxine I. Galinato<br/>
+                            Aaron Jethro J. Cerillo<br/>
+                            Kate A. Boca<br/>
+                            Randell D. Delgado<br/>
+                            Jhon Venric A. Corral<br/>
+                            Mica Mae San Felipe<br/>
+                    </ul></font></p><br /></div>						
+                ]]>
+      </description>
+      <Point>
+        <coordinates>
+          121.371027
+          ,14.56756501
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_ACTIVITIES</styleUrl>
+    </Placemark>
+
+
+    <Placemark >
+
+      <name>
+        Pranjetto Hills Hotel
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="500" height="450" src="http://www.youtube.com/embed/4skoanWXJUo" frameborder="0" allowfullscreen></iframe><br/></div>
+        						
+             <div><br /><br />						
+			              <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon po sa amin, Lilipad Tayo<br />						
+                    <strong>Location:</strong> Rizal<br/>						
+                    <strong>Subtitle:</strong> Let's Zip to Tanay! (A Zipline Adventure)<br />						
+                    <strong>Category:</strong> Activities to enjoy</p>
+                    
+                        <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 
+                        This entry is like a short film that interact with its audience by means of cracking jokes and giving them information  in a casual way 
+                        so it will catch their attention easily. We chose this topic because we want to promote and let other people see the best zip lines here in 
+                        Tanay. The kids  went to different resorts in Tanay that have zip line including; adventure camp, Sierra Madre, Pranjetto and Bakasyunan, 
+                        all of the student participant in this entry tried and enjoyed zip line that's why they really know what their entry is all about.
+                        </p><br /> 	
+
+              <p style="margin-left: 20px;"> 						
+                    <strong>School Name:</strong> Ilaya Elementary School<br />						
+                    <strong>School Type:</strong> Public<br />						
+                    <strong>School Level:</strong> Primary<br />		
+                    <strong>Teacher Coach:</strong> Mrs. Norberta R. Jarlego<br />			
+                    <strong>School Team:</strong>						
+                    <ul>    Leonora D.V. Tibay<br/>
+                            Jhaira Mae T. Zapanta<br/>
+                            Jen Mark Louie R. Chualong<br/>
+                            Janelle Maxine I. Galinato<br/>
+                            Aaron Jethro J. Cerillo<br/>
+                            Kate A. Boca<br/>
+                            Randell D. Delgado<br/>
+                            Jhon Venric A. Corral<br/>
+                            Mica Mae San Felipe<br/>
+                    </ul></font></p><br /></div>						
+                ]]>
+      </description>
+      <Point>
+        <coordinates>
+          121.3697099
+          ,	14.57010372
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_ACTIVITIES</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+
+
+      <Placemark >
+
+        <name>
+          Don Ramon E. Costales Memorial NHS
+        </name>
+        <description>
+          <![CDATA[<div align="center"><q>
+         <iframe src="http://www.youtube.com/embed/wG5Wbxghm1g" width='600' height='400' style='border: 0px; overflow: hidden;' scrolling='yes'></iframe></q></div>
+        
+      <div><br/></br/>
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Maipagmamalaki ang mga Guro at Estudyante</br>
+          <strong>Location:</strong> Pangasinan<br/>
+          <strong>Subtitle:</strong> The teachers and students of  Don Ramon E. Costales Memorial National High School are Talented</br>
+          <strong>Category:</strong> Activities to enjoy</br></p>
+          
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "><strong>Summary: </strong> 
+                                     The 50th Founding Anniversary was a big success due to the exceptional presentations showed by talented teachers 
+                                     and students of Don Ramon E. Costales Memorial National High School.  The culminating activity was held at SM-Rosales
+                                     which each year level got to compete with another.</p><br/>
+          <p style="margin-left: 20px;">                           
+          <strong>School Name:</strong> Don Ramon E. Costales Memorial NHS</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Johann B. Rabino</br>
+          <strong>School Team:</strong>
+          <ul>Emil John A. Jao<br/>
+           </ul></font></p></br></div>
+      ]]>
+        </description>
+        <Point>
+          <coordinates>
+            120.5842868
+            ,15.89743911
+            ,0.000000
+          </coordinates>
+        </Point>
+        <styleUrl>#style_ACTIVITIES</styleUrl>
+      </Placemark>
+
+
+    <Placemark>
+      <name>
+        BLUROZE FARM, PARK AND WILDLIFE
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="420" height="315" src="http://www.youtube.com/embed/xfy1B8LWGvk" frameborder="0" allowfullscreen></iframe><br/>
+        
+      
+        </div>
+        						
+             <div><br /><br />						
+			              <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon po sa Amin: may asul na rosas<br />						
+                    <strong>Location:</strong> Batangas<br/>						
+                    <strong>Subtitle:</strong> The Touch of BlueRoze Experience<br />						
+                    <strong>Category:</strong> Activities to enjoy</p>
+                    
+                
+
+                    
+                        <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 
+                        This video intends to show different activities that every family can enjoy while they are in Bluroze Farm, Park and Wildlife. 
+                        The tranquility brought about by the surrounding’s natural beauty transformed Bluroze into an ideal place for recollections, 
+                        retreats, team building seminars, and camping. It believes in the power of nature to renew mind, body, soul and spirit through 
+                        suitable activities. Seeing this kind of unbelievable spots will surely make you a proud lipeno and a true Filipino.
+                        </p><br /> 	
+
+              <p style="margin-left: 20px;"> 						
+                    <strong>School Name:</strong> Lipa Montessori School of Learning, Inc.<br />						
+                    <strong>School Type:</strong> Private<br />						
+                    <strong>School Level:</strong> Secondary<br />		
+                    <strong>Teacher Coach:</strong> Rachelle T. Jovellanos<br />			
+                    <strong>School Team:</strong>						
+                    <ul>    
+                    </ul></font></p><br /></div>								
+                ]]>
+      </description>
+      <Point>
+        <coordinates>
+          121.1403714
+          ,	13.92966349
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_ACTIVITIES</styleUrl>
+    </Placemark>
+
+
+
+
+    <Placemark>
+      <name>
+        Nilo Dabalmat
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="750" height="500" src="http://simplebooklet.com/publish.php?wpKey=zfjPjtcVQFCkfuJOSjhc3N  " frameborder="0" allowfullscreen></iframe></iframe><br/>
+        
+      <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/publish.php?wpKey=zfjPjtcVQFCkfuJOSjhc3N  "  target="_blank">HERE</a></Strong></h2></div>						
+        
+        </div>
+        				
+                
+                
+                
+              <div><br/><br />						
+			  <p style="margin-left: 20px;"><font face="tahoma" size="2">
+          <strong>Entry Title:</strong> Doon Po Sa Amin May Dinamulag Festival<br />						
+          <strong>Location:</strong> Olongapo City<br/>						
+          <strong>Subtitle:</strong>  The Celebration of Mango Festival in Iba, Zambales<br />						
+          <strong>Category:</strong> Activities to enjoy</p>						
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 		
+          </p><br /> 						
+						
+          <p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> OLONGAPO CITY NATIONAL HIGH SCHOOL<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> MAUREEN TIPAY<br />						
+          <strong>School Team:</strong>						
+          <ul>
+              KARLA IMEE AMOR LEGASPI<br/>
+              KRISTINE PALO<br/>
+              RAFAEL ECLE<br/>
+              ALEXIS TORLAO<br/>
+              JELINE GUTIERREZ<br/>
+              PATRICIA MONTEALTO<br/>
+              MARICRIS TAC-AN<br/>
+              ANGELIQUE JOY PIELAGO<br/>
+              CHRISTOPHER REYES<br/>
+              MARIDELLE ZO<br/>
+          </ul></font></p><br /></div>						
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          119.9907579
+          ,15.31750489
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_ACTIVITIES</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+
+    <Placemark>
+      <name>
+        Provincial Oval
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe src="http://prezi.com/embed/t-xdvlghtlo8/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe><br/>
+        
+        
+        
+        
+        </div>
+        				
+                
+                
+                
+              <div><br/><br />						
+			  <p style="margin-left: 20px;"><font face="tahoma" size="2">
+          <strong>Entry Title:</strong> Doon Po sa Amin. Mais ay Pumaparada n Rumarampa pa<br />						
+          <strong>Location:</strong> Nueva Ecija<br/>						
+          <strong>Subtitle:</strong>  The Celebration of Mais Festival <br />						
+          <strong>Category:</strong> Activities to enjoy</p>						
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 		
+         This research study focuses on the unique celebration of "Mais Festival" in Nueva Ecija.  It Features enjoyable 
+         activities leading to promotions of Corn Crops. Products and healthy tips involving corns are also presented.
+         Corny envasions as well as trivia are also done by the team to enhance the research project.
+          </p><br /> 						
+						
+          <p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Nueva Ecija High school<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Leonides E. Bulalayao<br />						
+          <strong>School Team:</strong>						
+          <ul>
+                  Leonides E. Bulalayao<br/>
+                  Marius Ramones<br/>
+                  Ivan Cordova<br/>
+                  Dulcea Dyan Villanueva<br/>
+                  Michael Sanchez<br/>
+                  Byron Arcega<br/>
+                  Dannah Refe<br/>
+                  Marimar Rillera<br/>
+                  Jemima Batongbacal<br/>
+          </ul></font></p><br /></div>						
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          120.9704564
+          ,15.48926217
+
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_ACTIVITIES</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+    <Placemark>
+      <name>
+        Nueva Ecija High School
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe src="http://prezi.com/embed/1dcox3fpwqnt/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe>><br/>
+        
+        
+        
+        
+        </div>
+        				
+                
+                
+                
+              <div><br/><br />						
+			  <p style="margin-left: 20px;"><font face="tahoma" size="2">
+          <strong>Entry Title:</strong> Doon Po Sa Amin: Paaralang Hinubog ng Panahon, Gintong Tagahubog ng Isipan Hanggang Ngayon<br />						
+          <strong>Location:</strong> Nueva Ecija<br/>						
+          <strong>Subtitle:</strong> Nueva Ecija High School: Its History.... Fame..... Glory.... <br />						
+          <strong>Category:</strong> History to Uncover</p>						
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 		
+           Doon Po Sa Amin: Paaralang Hinubog ng Panahon, Gintong Tagahubog ng Isipan Hanggang Ngayon' is about the history of Nueva Ecija High School. 
+           This entry unravels the achievements of the school that had led her to this point; give past information for the present generation to 
+           emulate those successes and recognize her achievements. It also gives information about personalities that had contributed to her fame 
+           and to her story of her golden age. This entry is a one way ticket to the past of one of the most outstanding schools in the Philippines 
+           up to the present time and until tomorrow.
+          </p><br /> 						
+						
+          <p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Nueva Ecija High school<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Leonides E. Bulalayao<br />						
+          <strong>School Team:</strong>						
+          <ul>
+                  Jomari Angel Jacinto<br/>
+                  Rico Quirrez Niel<br/>
+                  Jerome Rivera<br/>
+                  Andei Jane Gavino<br/>
+                  Tyrone Diaz<br/>
+                  Frya Lora Javier<br/>
+                  Virgie Bulalayao<br/>
+
+          </ul></font></p><br /></div>						
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          120.9706625
+
+          ,15.49075764
+
+
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_ACTIVITIES</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+
+    <Placemark>
+      <name>
+        Fun Activities in Cainta
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe src="http://prezi.com/embed/a05pxoevoqsj/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe><br/>
+        
+        
+       
+        
+        </div>
+        				
+                
+                
+                
+              <div><br/><br />						
+			  <p style="margin-left: 20px;"><font face="tahoma" size="2">
+          <strong>Entry Title:</strong> Doon Po Sa Amin, Maraming Aktibidad na Kasiya-siya<br />						
+          <strong>Location:</strong> Rizal<br/>						
+          <strong>Subtitle:</strong> Many Activities to Enjoy<br />						
+          <strong>Category:</strong> Activities to Enjoy</p>						
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 		
+            Rizal is a province in which there are many activities to enjoy. Some of these are the Higantes Festival of Angono,
+            Ang Tipulo Festival of Antipolo City, Sikaran Festival of Baras, Binalayan Festival of Binangonan, Bibingka Festival 
+            of Cainta, Sapao-an Festival of Cardona, D'dlaylay Festival of Jala-Jala, Kordero of Morong, Pineapple Festival of
+            Pililla, Swimming at Puray Falls of Rodriguez, Santo Niño Festival of San Mateo, Swimming at CME of Taytay, Hane 
+            Festival of Tanay, and Turumba Festival of Teresa.
+          </p><br /> 						
+						
+          <p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Rizal National Science High School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Marilyn M. Arcilla<br />						
+          <strong>School Team:</strong>						
+          <ul>
+                Ralph Joshua P. Macarasig<br/>
+                Carlo Anton D. Concepcion<br/>
+                Jan Marinelle M. Andres<br/>
+                Anne Paola D. Aragoncillo<br/>
+                Andrea Mikaela E. Latina<br/>
+                Faith M. Peralta<br/>
+                Trisha S. Gallego<br/>
+                Danielle Therese E. Echegoyen<br/>
+
+          </ul></font></p><br /></div>						
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          121.1192896
+
+          ,14.57613256
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_ACTIVITIES</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Villasis Public Auditorium
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+         <iframe src="http://simplebooklet.com/embed.php?wpKey=i1EYzL2PYAGmC1TKilTabj" width='750' height='450'></iframe></q>
+         
+          <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/embed.php?wpKey=i1EYzL2PYAGmC1TKilTabj"  target="_blank">HERE</a></Strong></h2></div>						
+       
+         
+         </div>
+        
+      <div><br /><br />	
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Amin, Nag-iindakan ang mga Talong</br>
+          <strong>Location:</strong> Pangasinan<br/>
+          <strong>Subtitle:</strong> The Celebration of Annual Eggplant Festival in the Feast of Saint Anthony Abbot</br>
+          <strong>Category:</strong> Activities to enjoy</br></p>
+          
+           <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 
+          <strong>Summary: </strong> Calapan City is located in the province of Oriental Mindoro. This renowned “Gateway to the Golden Isle” is one of the 
+                                     developing cities in the Philippines. Also known as “The Discipline City”, Calapan has various ordinances that keep the 
+                                     citizens safe.</p> </br>
+          
+          <p style="margin-left: 20px;"> 	
+          <strong>School Name:</strong> Don Ramon E. Costales Memorial NHS</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Ulysses M. Bañaga</br>
+          <strong>School Team:</strong>
+          <ul>Romel A.Pascua<br/>
+           </ul></font></p></br></div>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          120.5883684
+          ,15.90121762
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_ACTIVITIES</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+    <Placemark>
+
+      <name>
+        Doon Po Sa Amin: Biyaya ang Basura
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+    <iframe src="http://prezi.com/embed/mu9zqkv-tkxo/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe></q></div>
+      <div><br/><br/>
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin Biyaya ang Basura</br>
+          <strong>Location:</strong> Cavite<br/>
+          <strong>Subtitle:</strong> The Blessings from Garbage</br>
+          <strong>Category:</strong> Activities to enjoy</p></br>
+           <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">
+          <strong>Summary: </strong>Proper disposal of garbage is one of the many problems several countries have to deal with, especially the Philippines. This 
+                                    inspired the team to make a study entitled “Doon Po Sa Amin: Biyaya ang Basura”. It was conducted to advocate the Earthwatch Project, 
+                                    an environmental protection program. With the goal of promoting waste management, this showcases the efficient way of dealing with
+                                    trashes within the school. Through the presentation the team hopes to influence others and help clean mother earth.</p></BR>
+             <p style="margin-left: 20px;"> 	                         
+          <strong>School Name:</strong> Cavite National Science High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Jennylou A. Pangilinan</br>
+          <strong>School Team: </strong>
+          <ul>Jennylou A. Pangilinan</BR>
+              Armar E. Pagkaliwangan</BR>
+              Ainah O. Salcedo</BR>
+              Francine Ann C. Diño</BR>
+              Alexis Romero</BR>
+              Justine James Ledesma</BR>
+              Shelley Sundae Naparota</BR>
+              Christine Senan Pechay</BR>
+             </ul></font></p></br></div>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          120.7347392
+          ,14.277018
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_ACTIVITIES</styleUrl>
+    </Placemark>
+
+
+
+
+
+    <Placemark>
+
+      <name>
+        DPSA: Binubuhay ang mga Banal
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+   <iframe src="http://prezi.com/embed/qwobcmnbduhs/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe></q></div>
+      <div><br/><br/>
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> DPSA: Binubuhay ang mga Banal</br>
+          <strong>Location:</strong> Cavite<br/>
+          <strong>Subtitle:</strong> Celebrating the Maytinis Festival</br>
+          <strong>Category:</strong> Activities to enjoy</p></br>
+            <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">          
+
+          <strong>Summary: </strong>Given the citizens lack of awareness of biblical events, we decided to conduct a research study utilizing the Maytinis Festival to educate people 
+                                    and promote tourism in Kawit. Through the internet, we created and promoted a Prezi presentation containing various facts about the festival.
+                                    The presentation features the various religious stories that were highlighted in the festival.  Through the presentation, more people gained knowledge 
+                                    about the festival as well as the teachings of the bible</p></BR>
+                <p style="margin-left: 20px;"> 	                        
+          <strong>School Name:</strong> Cavite National Science High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Emmanuel B. Ces</br>
+          <strong>School Team: </strong>
+          <ul>Chealsea Allanah S. Saño</BR>
+              Eula Marie A. Pacumio</BR>
+              Alessandra Therese L. Matro</BR>
+              Patricia Marie A. Gutierrez</BR>
+              Jazzel Joy G. Reyes</BR>
+              Cherlene Mae A. Cabunton</BR>
+              Carlo Miguelle S. Manalo</BR>
+              Elyanna Amor M. Quintella</BR>
+              Jennylou A. Pangilinan </BR>
+             </ul></font></p></br></div>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          120.9034923
+          ,14.44468707
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_ACTIVITIES</styleUrl>
+    </Placemark>
+
+
+
+
+
+    <Placemark>
+      <name>
+        Tahanan ng mga matamis na Lanzones
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+         <iframe src="http://simplebooklet.com/embed.php?wpKey=OQyB7O0ThDTaZ7r6Mj9oXO" width='750' height='450'></iframe></q>
+         
+         
+            <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/embed.php?wpKey=OQyB7O0ThDTaZ7r6Mj9oXO"  target="_blank">HERE</a></Strong></h2></div>						
+     
+         
+         
+         </div>
+        
+      <div><br/><br/>
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: Magsauog ta Pista ta Buwahan</br>
+          <strong>Location:</strong> Camiguin<br/>
+          <strong>Subtitle:</strong> Celebrating the bountiful harvest of  Lanzones Festival</br>
+          <strong>Category:</strong> Activities to enjoy</p></br>
+           <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">          
+
+          <strong>Summary: </strong> Our titled entry “Magsauog ta pista ta buwahan” is all about the tradition and cultures of Kamigingnons. It is celebrated every October.
+                                     “Buwahan” or the Lanzones fruit which is abundant in Camiguin has distinct raw due to the volcanic soil of the island. This site aims to uplift
+                                     grandeurs of tourism within the island, through the means of its pride – Lanzones. Kamigingnons celebrate Lanzones Festival to gain tourist and 
+                                     promote the festivity not just locally but internationally.</p></br>
+               <p style="margin-left: 20px;"> 	
+       
+          <strong>School Name:</strong> Camiguin National High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Lorette D. Caduyac</br>
+          <strong>School Team:</strong>
+          <ul>Beocheride Ma. C. Banaag</br>
+              John Christian R. Borres</br>
+              Meshullmeth M. Amontos</br>
+              Maria Kristina G. Abing</br>
+              Jovan R. Mabilin</br>
+              Jon Michael M. Semilla</br>
+              Reyna Mae M. Sagocsoc</br>
+              Rogelio M. Dagaraga Jr<br/>
+             </ul></font></p></br></div>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          124.7338245
+          ,9.242067169
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_ACTIVITIES</styleUrl>
+    </Placemark>
+
+
+
+  </Document>
+</kml>

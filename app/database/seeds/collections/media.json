@@ -1,0 +1,103 @@
+[
+{
+  "path": "/img/boracay.jpg",
+  "type": "image",
+  "tags": ["boracay", "beach", "white-sand", "region1"]
+},
+{
+  "path": "/img/car.jpg",
+  "type": "image",
+  "tags": ["car", "rice terraces", "bagio", "region2"]
+},
+{
+  "path": "/img/cebu.jpg",
+  "type": "image",
+  "tags": ["cebu", "beach", "white-sand", "region3"]
+},
+{
+  "path": "/img/davao.jpg",
+  "type": "image",
+  "tags": ["davao", "beach", "white-sand", "region4"]
+},
+{
+  "path": "/img/fiesteval.jpg",
+  "type": "image",
+  "tags": ["fiesteval", "davao", "region5"]
+},
+{
+  "path": "/img/longganisa.jpg",
+  "type": "image",
+  "tags": ["food", "region5", "longganisa"]
+},
+{
+  "path": "/img/mangyan.jpg",
+  "type": "image",
+  "tags": ["mangyan", "region6", "human", "native"]
+},
+{
+  "path": "/img/rafflesia.jpg",
+  "type": "image",
+  "tags": ["rafflesia", "flower", "nature"]
+},
+{
+  "path": "/img/region1.jpg",
+  "type": "image",
+  "tags": ["vigan", "house", "ilocos"]
+},
+{
+  "path": "/img/region2.jpg",
+  "type": "image",
+  "tags": ["region6", "white-sand"]
+},
+{
+  "path": "/img/region8.jpg",
+  "type": "image",
+  "tags": ["region8", "mountains", "floating-house"]
+},
+{
+  "path": "/img/siege.jpg",
+  "type": "image",
+  "tags": ["siege", "people", "history"]
+},
+{
+  "path": "/img/uling.jpg",
+  "type": "image",
+  "tags": ["uling", "product", "black"]
+},
+{
+  "path": "/img/Photos/icon_food_to_eat.jpg",
+  "type": "image",
+  "tags": ["food_to_eat", "food", "Food to Eat"]
+
+},
+{
+  "path": "/img/Photos/Icon_Activities.jpg",
+  "type": "image",
+  "tags": ["activities_to_do", "activities", "Activities to Enjoy"]
+},
+{
+  "path": "/img/Photos/Icon_History.jpg",
+  "type": "image",
+  "tags": ["hystory_to_uncover", "history", "History to Uncover"]
+},
+{
+  "path": "/img/Photos/Icon_People.jpg",
+  "type": "image",
+  "tags": ["people_to_meet", "people", "People to Meet"]
+},
+{
+  "path": "/img/Photos/Icon_Places.jpg",
+  "type": "image",
+  "tags": ["places_to_go", "places", "Places to Go"]
+},
+{
+  "path": "/img/Photos/Icon_PnA.jpg",
+  "type": "image",
+  "tags": ["pna", "icon", "Plants and Animals to Discover"]
+},
+{
+  "path": "/img/Photos/Icon_Products.jpg",
+  "type": "image",
+  "tags": ["produ", "products", "Community Products to Support"]
+}
+]

@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8'?>            
+<kml xmlns='//www.opengis.net/kml/2.2'>           
+  <Document>            
+            
+<Style id="style_ACTIVITIES">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/ACTIVITIES.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+          </div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+<Placemark id="1 ">
+   <description><![CDATA[<div align ="center"><q><iframe src=https://prezi.com/embed/v__zolqngenz/?bgcolor=ffffff&#38;lock_to_path=0&#38;autoplay=0&#38;autohide_ctrls=0&#38;features=undefined&#38;disabled_features=undefined" width="550" height="400"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Nagkakapaa ang Uling<BR><BR/><strong>Location: </strong>Alfonso, Cavite<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Alfonso National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">In Alfonso, Cavite, there is a ritual called Sayaw sa Apoy  which is performed by firedancers called "BARCO". There are three stages before a  person become a "barco:" first, ang pag-aabot ng timbangan; second is the pagpapaspas,  and; third is the coronation.The Fire Dancers use a special formula of prayer  which I am not supposed to reveal and indeed, there is more to this show than just fire,  smoke and glowing coals. To see is to believe and to believe is to accept  and to surrender. Whatever is behind this rite is a reality that we have to accept.  There is a POWER BEYOND OUR COMPREHENSION and anything beyond  our comprehension is something no one can attempt to fully explain. <BR><BR/></div>]]></description>
+   <address>Alfonso, Cavite</address>
+    <Point><coordinates>120.8619,14.12655,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+<Placemark id="4 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/V4ZrcRB1zHY frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Bantayog ng Adbokasiya at Tagumpay<BR><BR/><strong>Location: </strong>Barobo, Surigao del Sur<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Barobo National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Doon Po Sa Amin: DPSA, Bantayog ng Adbokasiya at Tagumpay is one  of the official entries of Barobo National High School to  the Doon Po Sa Amin Learning Challenge Year 6. This documentary film unveils the learning experiences,  challenges, and successes of the BNHS DPSA Researchers and  Stakeholders as they together work for the different advocacies on environment, politics,  and continuous literacy. This also features the significant impact of these  advocacies to the lives of the Barobohanons. Their experiences inspires the new  DPSA Researchers to sustain the legacy started in the past years. <BR><BR/><strong>Team Members: </strong><ul>Judy Ann F. Yurong</br>Regene Laica C. Ronquillo</br>Sheira Lou M. Mercader</br>Azil Jane M. Guingguing</br>Ella Mae P. Diapana</br>Ronmar Angelo Lim</br>Jhon Louise L. Dogoldogol</ul></p><BR><BR/></div>]]></description>
+   <address>Barobo, Surigao del Sur</address>
+    <Point><coordinates>126.12078,8.52131,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+<Placemark id="7 ">
+   <description><![CDATA[<div align ="center"><q><iframe src=https://prezi.com/embed/hsri1l633wbw/?bgcolor=ffffff&#38;amp;lock_to_path=0&#38;amp;autoplay=0&#38;amp;autohide_ctrls=0&#38;amp;features=undefined&#38;amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Ngani Butuan, Basura Lain-lainon Ug Magsagol-sagol Dili Kolektahon<BR><BR/><strong>Location: </strong>Butuan City, Agusan del Norte<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Butuan Central Elementary School - Science and Technology Education Center<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Primary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">The Clean Ground Zero Waste Management an environmental  project led by Mayor Ferdinand M. Amante Jr. that aims the Butuan City to  manifest the desired behavior of segregating waste at source , cleaning the surroundings and  converting wastes into money. A program that helps reduce waste to make  Butuan CLEAN and GREEN. It includes participating offices especially the city government.  Eco Marshalls are deployed to barangays and public places to  maintain the cleanliness in these places. CENRO is the one who implement rules and  regulations to make the city clean, especially the Anti-littering Law that advocates  to avoid collecting tons of trash a day. <BR><BR/><strong>Team Members: </strong><ul>Samantha Claire F. More</br>Jannie Marie D. Go</br>Deborah Beatriz E. Santos</br>Ali Bani Sixto O. Martinez III</br>April Grace U. Lazarito</br>Mily Shey C. Gata</br>Ivan R. Decamotan</br>Kyle Christine Y. Ormita</br>Rosanne Ann P. Momo</ul></p><BR><BR/></div>]]></description>
+   <address>Butuan City, Agusan del Norte</address>
+    <Point><coordinates>125.54591,8.89459,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+
+<Placemark id="10 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src=https://www.youtube.com/v/E5xEU79_euw?hl=en_US&#38;version=3"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Buhay na Buhay ang Hanapbuhay<BR><BR/><strong>Location: </strong>Cavite City<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Cavite city is a place where hardworking people live. People here find  ways to make a living, even to the most unusual job you could think of,  but of course, it still involves honesty, submission to the authority,  and self-respect. This documentary introduces Cavitenos&#8217; as a hardworking people, dedicated in giving their families a better future, and contributing to the growth of the city.  Let&#8217;s take a look at the city&#8217;s extraordinary people with extraordinary jobs  that would result in an extraordinary city &#8211; Cavite city. <BR><BR/><strong>Team Members: </strong><ul>Michael D.C. Jornadal</br>Zairyl N. Rodolfo</br>Famela Kaila N. Telo</br>Jenny Rose B. Bacud</br>Camille E. Morales</br>Errol R. De Guzman</br>Mark Angelo R. Sebastian</br>Chris John L. Quijano</br>Raymond B. Dayday</ul></p><BR><BR/></div>]]></description>
+   <address>Cavite City</address>
+    <Point><coordinates>120.90866,14.48286,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+<Placemark id="17 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="600" height="338" src=https://www.youtube.com/embed/ZYQzpwmgeXc?rel=0" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, May Paru Paro Festival<BR><BR/><strong>Location: </strong>Dasmari&#241;as City, Cavite<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Congressional National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This video presentation shows the celebration of good transformation as  Das, Mar, Yna and City unravel the rich chronicle of PARU PARO FESTIVAL  to a student named Christine for the completion of her project.  From a typical classroom of Congressional National High School, they  accompanied her on a journey to different places while they discuss the history of the annual festivity.  They also answered the questions of the curios girl on how Dasmari&#241;as started,  why did we choose butterfly as our official symbol and what are  Dasmari&#241;as&#39; progress after becoming a city. Hence, these are all associated with the  METAMORPHOSIS of Dasmari&#241;as City. <BR><BR/><strong>Team Members: </strong><ul>Archel Y. Tapia</br>Anna Melissa H. Sta. Cruz</br>Daniela C. Bombeza</br>Cristel P. Lanzuela</br>Christine Mae S. Irlandez</br>Rizelle G. Gabriel</br>John Joshua A. Borrinaga</br>Eunice Faith P. Abriz</br>Maxine Agatha G. Cervantes</ul></p><BR><BR/></div>]]></description>
+   <address>Dasmari&amp;#241;as City, Cavite</address>
+    <Point><coordinates>120.95441,14.30025,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+
+<Placemark id="34 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="480" height="360" src=https://www.youtube.com/embed/Ut3QLe5H9Vk?rel=0 frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Kalihukan sa Yes-O para sa Kinaiyahan<BR><BR/><strong>Location: </strong>Buenavista, Agusan del Norte<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Guinabsan National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">The Yes-O of Guinabsan National High School in Buenavista,  Agusan del Norte envisions to promote to the students the environmental  protection by implementing the Dep Ed Programs, Projects and Activities as embodied  in Dep Ed order No.73 series of 2003. It&#8217;s the only curricular organization  which is having concern for nature&#8230;..and achieve the following objectives: .  To awaken the consciousness of all students, parents, and the community about the  status of environment in the locality, country and globally. Plan doable  activities that will help preserve the environment.Establish linkages with the  Local Government Unit, NGO. Develop among members and all stakeholders proper  environmental values, skills and Instill LOVE OF NATURE and extends the same TO  THEIR COMMUNITY AND FAMILY Because of such noble act of protecting the  nature that we have decided to present this as our entry to the 6th Doon Po Sa Amin  Community Mapping Competition of Smart Communication. <BR><BR/><strong>Team Members: </strong><ul>Sweet Aiben Z. Licayan</br>Judy Ann Delauro</br>Nikki Caryl Zafra</br>Jean Uayan</br>Lorena Balicoco</br>Rosemarie Baclayo</br>Joy Amoy</br>Annie Marie Paylangco</br>Chevin Puerta</ul></p><BR><BR/></div>]]></description>
+   <address>Buenavista, Agusan del Norte</address>
+    <Point><coordinates>125.42436,8.87864,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+<Placemark id="56 ">
+   <description><![CDATA[<div align ="center"><q><img src="/img/Icon_Activities.jpg" style="width:100%;"></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Star City at Enchanted Kingdom Mayroon Din<BR><BR/><strong>Location: </strong>Cabanatuan City, Nueva Ecija<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Nueva Ecija High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Carron Dreampark is a really nice amusement park in Nueva Ecija Philippines,  perfect for family get together. Join  now and enjoy all types of fun and exciting rides. Carron Dreampark offers fun for the  entire family; enjoy the Carron Dream Wheel, Dream Liner, Voyager, Carousel of Dreams,  Nessi Roller Coaster, Convoy Tours, Smash, Bumper Boats, Carron Express, Twirly Cups,  Gear Shifter, Picaroon, Vortex, Frosty Train, City Blaster and Nightmare.  This amusement park is envisioned to be the top of mind destination of families, friends,  officemates and classmates alike who want to enjoy and experience exciting  rides and attractions, in a special setting that can only compare to one&#8217;s  happy dreams. Carron Dreampark is built for the enjoyment and happiness of  young and old alike, as the place Where Dreams Are Real! Invite your friends and relatives.  I&#8217;m pretty sure you will enjoy, And this will be the best moment you&#8221;ve ever had. <BR><BR/><strong>Team Members: </strong><ul>Flyn Basa</br>Alyssa Gregorio</br>Allyssa Marie Santos</br>Jamie Rose Pineda</br>Jessa Diaz</br>Lhinette Castro</br>Micah Joanne Baybayan</br>Angelica Maxino</br>Leonides Bulalayao</ul></p><BR><BR/></div>]]></description>
+   <address>Cabanatuan City, Nueva Ecija</address>
+    <Point><coordinates>120.96866,15.48466,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+<Placemark id="62 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/ACCPPBPSXKg frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Gintong Maskara ay Pinupugay<BR><BR/><strong>Location: </strong>Oton, Iloilo<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Oton National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">The Katagman Festival aims to promote the rich cultural  and historical heritage to the Ogtonganons as well as to the local and foreign tourists.  Filipino culture and arts are also promoted through some of the activities featured  on the said festival. Through Katagman Festival the talents, skills and artistry  of its local choreographers musical directors and dancers  and dancers are tapped. Katagman Festival is also one way to refresh and keep alive th e history of how Oton started way back in 13th century in the minds of the future Ogtonganon generations to come. <BR><BR/><strong>Team Members: </strong><ul>Michael Angelo Dejando</br>Jonelyn Lilia</br>Kent Lemuel Espaltero</br>Althea Mae Torremoro</br>Feacehs Pearl Cabrobias</br>Febb Ellen Lou Japitana</br>Doreen Grace Magapa</br>GV Marie Haro</br>Sandra Marie Haro</ul></p><BR><BR/></div>]]></description>
+   <address>Oton, Iloilo</address>
+    <Point><coordinates>122.47739,10.69429,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+
+<Placemark id="68 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src=https://www.youtube.com/embed/WHaV2lQOuB8 frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Mekeni Munta Ca Cacu Caluguran<BR><BR/><strong>Location: </strong>San Fernando, Pampanga<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>San Fernando Elementary School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Primary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">The project is created to promote the City of San Fernando  Culture and activities including the Sinukwan Festival, Maleldo, Giant Lantern  Festival, Fiestang Tugak (Frog Festival), Cityhood (Kaganapan), and other activities  and food to enjoy. The music video is inspired by Basilyo and adapted the  format of the song "Lord Patawad". The song is composed by the Grade  6 SPED and collaborated to  E-club members. In the creation of  the music video, the pupils learned the 21st century skills such as social skills, collaboration,  cultural awareness and civic literacy, problem- solving, ICT skills and management of their project plan. <BR><BR/><strong>Team Members: </strong><ul>Miriam Sandico</br>Cheryl Pelayo</br>Prica Vien Pineda</br>Louise Nicole Mallari</br>Javen Silvestre</br>Jacques Silvino</br>Paolo Gabriel David</br>Carla Mae Razon</br>Dawn Nicole Fabian</ul></p><BR><BR/></div>]]></description>
+   <address>San Fernando, Pampanga</address>
+    <Point><coordinates>120.65497,15.06137,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+<Placemark id="72 ">
+   <description><![CDATA[<div align ="center"><q><img src="/img/Icon_Activities.jpg" style="width:100%;"></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Sari-saring Gawain Nagpapatatag ng Mithiin<BR><BR/><strong>Location: </strong>Batangas City, Batangas<BR><BR/><strong>Category: </strong>Activities to Enjoy</p></br><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Sovereign Shepherd School of Values and Learning<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Doon po sa amin sari-saring gawain nagpapatatag  ng mithiin (Activities that strangthens a group) is all about activities and  some stuff that everyone can enjoy here in Batangas that will certainly make  you wanna scream in extreme happiness. This is to promote Batangas City not just its beautiful places  but also its hidden attractions where you can have family  gatherings, campings, celebrate different occasions and special events.  So come, visit and explore this exciting adventure here in Batangas. Ala eh! Kaganda! <BR><BR/><strong>Team Members: </strong><ul>Jeanine Bagui</br>Ciela Mae Dimaano</br>Mariz Dimaano</br>Louise Jane Dimasacat</br>Lyzandra Duran</br>Jo Jamaica Belle Festijo</br>Charlene Ochoa</br>Queenie Philina Ramos</br>Sophia Isabelle</ul></p><BR><BR/></div>]]></description>
+   <address>Batangas City, Batangas</address>
+    <Point><coordinates>121.05709,13.76229,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="23 ">
+   <name>Sumilihon Central Elementary School</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="560" height="315" src="//www.youtube.com/embed/51AdTpMofiQ" frameborder="0" ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Mimagtanum Kami Hong Kinaraan Nga Pamaagi<BR><BR/><strong>Location: </strong>Butuan City, Agusan del Norte<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Sumilihon Central Elementary School<BR><BR/><strong>School Type: </strong>Public <BR><BR/><strong>School Level: </strong> Primary<BR><BR/> </p><BR><BR/></div>]]></description>
+    <Point><coordinates>125.6423678,8.9952186,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+
+<Placemark id="79 ">
+   <name>Camarines Sur Watersports Complex</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="560" height="315" src="//www.youtube.com/embed/fMvsR_fmpGI" frameborder="0" ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Inyong Mamahalin, Fun, Extreme na mga Gawain!<BR><BR/><strong>Location: </strong>Naga City, Camarines Sur<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Naga City Science High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">A group teenagers were bored. A newspaper flew over and they got curious where it came from and what it&#39;s all about. Reading the newspaper, they discovered a fun and extreme world of activities in the  province of Camarines Sur (CamSur) when a photo turned into a music video. They became interested and went to CamSur to try the said activities (Wakeboarding, Spelunking, All-terrain Vehicle, Boating,  Rappeling, and Zipline) and the same time, to unwind. They left the newspaper on the ground, and the adventure continues. <BR><BR/><strong>Team Members: </strong><ul>Maffeth C. Opiana</br>Stephanie Joy O.Bernales</br>Katrina Kaye N.Estrada</br>Ingrid Isabelle C.Valenzuela</br>Colyn Mary V. Brizuela</br>Nicole Ericka P. Isorena</br>John Jeshurun C. Samonte</br>Edbert Ian M. Abundabar</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>123.2523426,13.5965382,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+<Placemark id="95 ">
+   <name>Iligan City East National High School, Sta. Filomena, Iligan City</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="420" height="315" src="//www.youtube.com/embed/9K11SrqPrO8" frameborder="0" ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, ang Puno Nakatanim sa Puso<BR><BR/><strong>Location: </strong>Iligan City, Lanao del Norte<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Iligan City East National High School<BR><BR/><strong>School Type: </strong>Public <BR><BR/><strong>School Level: </strong> Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Aside from pursuing their so called “love” (i.e., puppy love ), the students of Iligan City East National High School (ICENHS) enjoy tree growing activities which involves nature trekking, planting, and picture taking. Watch ICENHS’ full support to local and global tree growing activities to mitigate the adverse effects of climate change. This video teaches nature’s law of planting and reaping. The love for Mother Earth planted by the teachers in the hearts of the students by integrating in their lessons the importance of tree growing and demonstrating the right attitude in the field. It also showcases the desired fruit : the joy in receiving local and global recognition, and the joy in seeing thousands of mangrove trees growing in Bayug Island, Iligan City. <BR><BR/><strong>Team Members: </strong> <ul>Ace H. Escol</br>Vanessa V. Destura</br>Louise Mari E. Enriquez</br>Zairelyn C. Sarte</br>Ismael P. Taib</br>Jumari S. Sapio</br>Jemimah J. Morales</br>Albert M. Wade</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>124.2598779,8.2687235,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+<Placemark id="103 ">
+   <name>Botanical and Zoological Supply</name>
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src="//www.youtube.com/embed/p4QAhB0qdxY" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Mga Kabataan ay Pasisiyahin<BR><BR/><strong>Location: </strong>Cavite City, Cavite<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Advancement of technology and the wide development of gadgets entice many young people. You can see a teenager  wearing headset, playing games in their tablet pc, texting via android phones and surfing the net using their laptops.  However, they miss going outdoors and enjoying the beauty of nature. But here in this entry, the enjoyable activities for the youth are introduced.  The youth can try many enjoyable things such as going to mini zoo,  taking pictures in the park, playing skateboard and swimming. <BR><BR/><strong>Team Members: </strong><ul>Bianca Mae D.C.Trinidad</br>Ni&#241;a Andrea A. Panganiban</br>Ricalyn C. Nocum</br>Renalyn M. Velasquez</br>Arissa Nichole Rodil</br>Juaniance Mary V. Mendoza</br>Dorina Grace D. Dulce</br>Meryle T. Guiriba</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.8909688,14.4700809,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+<Placemark id="12 ">
+   <name>Doon Po Sa Amin: Bawat Gulong at Padyak May Tulong na Tiyak</name>
+   <description><![CDATA[<div align ="center"><q><iframe src="//prezi.com/embed/lhh-ygl6ih2c/?bgcolor=ffffff&#38;amp;lock_to_path=0&#38;amp;autoplay=0&#38;amp;autohide_ctrls=0&#38;amp;features=undefined&#38;amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Bawat Gulong at Padyak May Tulong na Tiyak<BR><BR/><strong>Location: </strong>Maragondon, Cavite<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National Science High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">The entry titled: &#8220;Doon Po Sa Amin: Bawat Gulong at Padyak may Tulong na Tiyak&#8221;  (Enjoying the Health Benefits of Biking and the Challenging Trails of Maragondon and Ternate Cavite) wants to inform the viewers about biking  and to promote the Maragondon and Ternate. This on-line presentation aims to promote Maragondon and Ternate biking  trails as some of the most interesting biking capitals here in the Philippines.  It includes dependable information about the biking trails and other trivia.  It aims to emphasize knowledge about the benefits in biking in terms of health, environment as well as  tourist for the town of Ternate and Maragondon. Information were collected and discovered through the  use of surveys and interviews. The information were utilized for the online presentation. Photographs were edited through  Photoshop while Sony Vegas and Powtoon were used for the videos. <BR><BR/><strong>Team Members: </strong><ul>Michaella B. Cabrera</br>Marx Faith Sean R. Andaya</br>Rennard M. Marquez</br>Jessa M. Sori&#241;o</br>Mary Margareth A. Diroy</br>Joycelyn P. Alday</br>Lourdess Gem P. Cuevas</br>Geline Lontoc</br>Joyce Nuesca</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.7513018,14.2910067,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+<Placemark id="23 ">
+   <name>Sumilihon Central Elementary School</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="560" height="315" src="//www.youtube.com/embed/51AdTpMofiQ" frameborder="0" ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Mimagtanum Kami Hong Kinaraan Nga Pamaagi<BR><BR/><strong>Location: </strong>Butuan City, Agusan del Norte<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Sumilihon Central Elementary School<BR><BR/><strong>School Type: </strong>Public <BR><BR/><strong>School Level: </strong> Primary<BR><BR/> </p><BR><BR/></div>]]></description>
+    <Point><coordinates>125.6423678,8.9952186,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+
+<Placemark id="79 ">
+   <name>Camarines Sur Watersports Complex</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="560" height="315" src="//www.youtube.com/embed/fMvsR_fmpGI" frameborder="0" ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Inyong Mamahalin, Fun, Extreme na mga Gawain!<BR><BR/><strong>Location: </strong>Naga City, Camarines Sur<BR><BR/><strong>Category: </strong>Activities to Enjoy</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Naga City Science High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">A group teenagers were bored. A newspaper flew over and they got curious where it came from and what it&#39;s all about. Reading the newspaper, they discovered a fun and extreme world of activities in the  province of Camarines Sur (CamSur) when a photo turned into a music video. They became interested and went to CamSur to try the said activities (Wakeboarding, Spelunking, All-terrain Vehicle, Boating,  Rappeling, and Zipline) and the same time, to unwind. They left the newspaper on the ground, and the adventure continues. <BR><BR/><strong>Team Members: </strong><ul>Maffeth C. Opiana</br>Stephanie Joy O.Bernales</br>Katrina Kaye N.Estrada</br>Ingrid Isabelle C.Valenzuela</br>Colyn Mary V. Brizuela</br>Nicole Ericka P. Isorena</br>John Jeshurun C. Samonte</br>Edbert Ian M. Abundabar</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>123.2523426,13.5965382,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+<Placemark id="8">
+   <name> Balanghayan Grow A Million Tree Project</name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+        <iframe src="//prezi.com/embed/jfce1h3-giio/?bgcolor=ffffff&lock_to_path=0&autoplay=0&autohide_ctrls=0&features=undefined&disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"> <strong>Entry Title: </strong>Doon Po Sa Amin, Ngani Butuan , Daghang Punoan, Ampay sa Kiniyahan <BR><BR/><strong>Location: </strong>Butuan<BR><BR/><strong>
+          Category: </strong>Activities to Enjoy</p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Butuan CES - Science and Technology Education Center<BR><BR/><strong>
+          School Type: </strong>Private<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+          Balanghayan Grow A Million Tree Project” of the City Mayor Ferdinand M. Amante Jr. A government priority project to reduce poverty, environmental stability ,promote food security and stop global warming . It is a tree conversion project that aims to reduce the vulnerability of Butuan City to natural disaster .This In support of the national government’s efforts in mitigating the impact of climate change through the “Billion Trees Project” of President Benigno S. Aquino III. Be ready for the challenge. So, lets plant trees for our future.
+        </br><BR>
+<Placemark id="19">
+   <name>Activities to Enjoy in Mabini Plaza</name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+      <iframe width="560" height="315" src="//www.youtube.com/embed/os0dA5AkuHE" frameborder="0" allowfullscreen></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"> <strong>Entry Title: </strong>Doon Po Sa Amin, Si Mabini Busog sa Tingin!<BR><BR/><strong>
+           Location: </strong>Batangas City<BR><BR/><strong>
+          Category: </strong>Activities to Enjoy</p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Sovereign Shepherd School of Values and Learning
+          <BR><BR/><strong>
+          School Type: </strong>Private<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+          Plaza Mabini is a public park situated at the heart of Batangas City. You will be surprised with all the great "Activities to Enjoy" here and discover what this wonderful park has to offer for all ages from sunrise and even after sunset! Be filled with awe as how it caters the Batangueños with their basic needs and simple wants.From morning exercise to animated displays and lot's of mouth-watering foods to choose from - the Mabini Plaza is definitely a place to go for! So, come and experience Plaza Mabini! :)
+
+           </br>
+        </br>
+       <strong>Team Members: </strong>
+        <ul>
+        Johnson Ralph Perez</br>
+        Matthew Culiat</br>
+        John Alexis Tolentino</br>
+        Cedric Peterson Miraflor</br>
+        Renniel Maala</br>
+        Jan Ivan De Castro</br>
+        Jovi Nerius Fortu
+
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>121.05709,13.76229,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+        <strong>Team Members: </strong>
+        <ul>
+            Anna Meriam Dancy Naranjo</br>
+            Hannah Trisha Cena </br>
+            Missy  Angel  Angulo </br>
+            Yna Marie Sanez </br>
+            Carl Zendy  Malagar </br>
+            Christian d. Asilo </br>
+            Tirsha Palma </br>
+            Lianna Alissandra  Caponpon"
+
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>125.54591,8.89459,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+<Placemark id="19">
+   <name>Activities to Enjoy in Mabini Plaza</name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+      <iframe width="560" height="315" src="//www.youtube.com/embed/os0dA5AkuHE" frameborder="0" allowfullscreen></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"> <strong>Entry Title: </strong>Doon Po Sa Amin, Si Mabini Busog sa Tingin!<BR><BR/><strong>
+           Location: </strong>Batangas City<BR><BR/><strong>
+          Category: </strong>Activities to Enjoy</p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Sovereign Shepherd School of Values and Learning
+          <BR><BR/><strong>
+          School Type: </strong>Private<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+          Plaza Mabini is a public park situated at the heart of Batangas City. You will be surprised with all the great "Activities to Enjoy" here and discover what this wonderful park has to offer for all ages from sunrise and even after sunset! Be filled with awe as how it caters the Batangueños with their basic needs and simple wants.From morning exercise to animated displays and lot's of mouth-watering foods to choose from - the Mabini Plaza is definitely a place to go for! So, come and experience Plaza Mabini! :)
+
+           </br>
+        </br>
+       <strong>Team Members: </strong>
+        <ul>
+        Johnson Ralph Perez</br>
+        Matthew Culiat</br>
+        John Alexis Tolentino</br>
+        Cedric Peterson Miraflor</br>
+        Renniel Maala</br>
+        Jan Ivan De Castro</br>
+        Jovi Nerius Fortu
+
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>121.05709,13.76229,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+</Document></kml>
+

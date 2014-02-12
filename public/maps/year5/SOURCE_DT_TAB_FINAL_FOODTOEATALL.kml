@@ -1,0 +1,803 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+
+    <Style id="style_ACTIVITIES">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/ACTIVITIES.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_FOODTOEAT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/FOODTOEAT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_HISTORY">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/HISTORY.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+	
+	
+    <Style id="style_PEOPLETOMEET">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PEOPLETOMEET.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+	
+	
+
+    <Style id="style_PLACESTOGO">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLACESTOGO.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PRODUCTS">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PRODUCTS.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_PLANTSANIMALSTODISCOVER">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLANTSANIMALSTODISCOVER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id='tabbed'>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<ul class="nm_tabnav">
+			<li class="nm_tab_current">Excerpt</li>
+			<li class="nm_tab">Combatants</li>
+			</ul><h2>$[name]</h2><br/>$[description]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Placemark >
+
+      <name>
+        Pastil
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+       <iframe src="http://prezi.com/embed/7xsqnlihmzs6/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe></div>						
+        						
+             <div><br /><br />						
+			              <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: Flipside Story<br />						
+                    <strong>Location:</strong> General Santos City<br/>						
+                    <strong>Subtitle:</strong> Stories Inside a Banana Leaf<br />						
+                    <strong>Category:</strong> Food to eat</p>						
+                
+                        <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 
+                          This project entitled “Doon Po Sa Amin: Flipside Story: Stories Inside a Banana leaf (Pastil)” is an official entry to the Doon Po Sa Amin Community 
+                          Mapping Competition of Smart Schools. This features the magnificent food made by the muslim community called “Pastil”. Pastil (Maguindanao) or Patir 
+                          (Maranao) is a Muslim delicacy which is basically steamed rice topped with meat flakes (chicken, fish, beef) and wrapped in banana leaf. This project 
+                          aims to support the local foods of the Philippines.
+                        </p><br /> 	
+
+              <p style="margin-left: 20px;"> 						
+                    <strong>School Name:</strong> General Santos City National High School<br />						
+                    <strong>School Type:</strong> Public<br />						
+                    <strong>School Level:</strong> Secondary<br />						
+                    <strong>Teacher Coach:</strong> Maychelou Castillo<br />						
+                    <strong>School Team:</strong>						
+                    <ul>   Peter John Hatulan<br/>
+                           Kristine Boston<br/>
+                           Trisha dela Cruz<br/>
+                           Gliezel Ferro<br/>
+                           Ma. Angeli Carnalna<br/>
+                           Raven Dave Suarez<br/>
+                           Ronuel Abayan<br/>
+                           Aida Nale<br/>
+                           Melanie Daan<br/>
+                           Maychelou Castillo<br/>		
+                       </ul></font></p><br /></div>						
+                ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.1358369
+          ,6.046566218
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_FOODTOEAT</styleUrl>
+    </Placemark>
+
+
+    <Placemark >
+
+      <name>
+        Cupcakes
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+       <iframe src="http://prezi.com/embed/sxxsxmgaoesl/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe></div>						
+        						
+             <div><br /><br />						
+			              <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin May Enchanted Edibles<br />						
+                    <strong>Location:</strong> General Santos City<br/>						
+                    <strong>Subtitle:</strong> Treats that Fill you with Magic<br />						
+                    <strong>Category:</strong> Food to eat</p>
+                    
+                        <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 
+                        "May Mahiko Mula sa Hurno” features the hidden magic in making such delectable cupcakes. Our group decided to put into detail the secrets of ‘Confections by Liezl’ 
+                        because her baking business is one of the very few in General Santos City.  Showcasing an array of colorful creativity, elegant schemes, and lovely detailing, 
+                        Liezl’s creations are defined as uncommon and enticing to the residents around the area. That’s what encouraged us to make the study about her small but
+                        growing establishment.
+                        </p><br /> 	
+
+              <p style="margin-left: 20px;"> 						
+                    <strong>School Name:</strong> General Santos City National High School<br />						
+                    <strong>School Type:</strong> Public<br />						
+                    <strong>School Level:</strong> Secondary<br />						
+                    <strong>Teacher Coach:</strong> Melanie V. Daan<br />						
+                    <strong>School Team:</strong>						
+                    <ul>  Loverlie Jane Ramada<BR/>
+                          Sharadenn Jian Seblos<BR/>
+                          Prime Rose Diaz<BR/>
+                          Novie Ann Ferro<BR/>
+                          Angel Nicole Guadalupe<BR/>
+                          Queenie Danielle Estallo<BR/>
+                          Christine Fernandez<BR/>
+                          Lalaine Biboso<BR/>
+                          Shirley Regalado<BR/>
+                          Melanie Daan<BR/>
+                       </ul></font></p><br /></div>						
+                ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.1710166
+          ,6.1277213
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_FOODTOEAT</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+    <Placemark>
+      <name>
+        Robert Bautista
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="750" height="500" src="http://simplebooklet.com/sanfelipelongchi" frameborder="0" allowfullscreen></iframe></iframe><br/>
+        
+      <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/sanfelipelongchi"  target="_blank">HERE</a></Strong></h2></div>						
+        
+        </div>
+        				
+                
+                
+                
+              <div><br/><br />						
+			  <p style="margin-left: 20px;"><font face="tahoma" size="2">
+          <strong>Entry Title:</strong> Doon Po Sa Amin May Chicharrong Super Crunchy at Longanizang Oh! So Yummy<br />						
+          <strong>Location:</strong> Olongapo City<br/>						
+          <strong>Subtitle:</strong>  The Delicious  Chicharron and Longanizaof San Felipe, Zambales<br />						
+          <strong>Category:</strong> Food to eat</p>						
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 		
+           San Felipe, Zambales was known for its mouth-watering delicacies that satisfy each one’s tummy. The best products that make 
+           the place so popular are the chicharon and longganisa. The Chicharon is mainly made of liempo, additives , and the said secret 
+           ingredient the “Mantika ng Baboy”. It’s crunchiness, crispiness, and it’s size make it so unique. Meanwhile, the longganisa 
+           of San Felipe is mainly made of meat, pepper, atsuete, salt, vinegar, and a lot of garlic that makes the longganisa very delicious.
+          </p><br /> 						
+						
+          <p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> OLONGAPO CITY NATIONAL HIGH SCHOOL<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> ROBERT BAUTISTA<br />						
+          <strong>School Team:</strong>						
+          <ul>
+              JUSTINE PASIA<BR/>
+              CHERRY GRACE FABIALA<BR/>
+              RHEAN DESOLOC<BR/>
+              ALVIN APILADO<BR/>
+              CHARLENE ROSE GONZALES<BR/>
+              JAMES EARL COLOMA<BR/>
+              BRENT EARL BARTOLOME<BR/>
+              JOAN OSEÑA<BR/>
+              REUEL PAYURAN<BR/>
+              ROBERT BAUTISTA<BR/>
+          </ul></font></p><br /></div>						
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          120.0668329
+          ,15.07839587
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_FOODTOEAT</styleUrl>
+    </Placemark>
+
+
+
+
+    <Placemark>
+      <name>
+        House of the Puto Maker
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="750" height="500" src="HTTP://simplebooklet.com/kakaibangputo"></iframe></iframe><br/>
+        
+        
+        
+        <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="HTTP://simplebooklet.com/kakaibangputo"  target="_blank">HERE</a></Strong></h2></div>						
+        
+        
+        
+        </div>
+        				
+                
+                
+                
+              <div><br/><br />						
+			  <p style="margin-left: 20px;"><font face="tahoma" size="2">
+          <strong>Entry Title:</strong> Doon Po sa Amin, Kakaiba ang Puto<br />						
+          <strong>Location:</strong> Ceby<br/>						
+          <strong>Subtitle:</strong>  Puto for Temerarious Tongues<br />						
+          <strong>Category:</strong> Food to Eat</p>						
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 		
+         This is all about “Doon Po Sa Amin: Ang Puto ay Kakaiba”. Our research provides a brief history 
+         of the puto (rice cakes) and the new puto that our team has researched. This research aims to 
+         preserve and enrich the rich delicacy in Dalaguete. We, the researchers, chose this research 
+         to inform people about this old undiscovered rich puto called the “Putong Malagkit” by the 
+         Dalaguetenons in Cebu.
+          </p><br /> 						
+						
+          <p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Science and Technology Education Center High School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Maria Fe G. Decatoria<br />						
+          <strong>School Team:</strong>						
+          <ul>
+                Brian Stephen S. Amistad<br/>
+                Inrikke S. Cabo<br/>
+                Ken Jameson L. Dueñas<br/>
+                John Roger G. Palacat<br/>
+                Mikko C. Patalinjug<br/>
+                Aaron Elijah M. Rabaya<br/>
+                Earl Kenny Galos<br/>
+                Joan  Dungog<br/>
+                Donald B. Dungog<br/>
+                Maria Fe G. Decatoria<br/>
+          </ul></font></p><br /></div>						
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          123.4766228
+
+          ,9.798622924
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_FOODTOEAT</styleUrl>
+    </Placemark>
+
+
+
+
+
+    <Placemark>
+      <name>
+        Tuslob Bua
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="750" height="500" src="http://simplebooklet.com/clientview.php?wpKey=PbPvjCOGa8OtCz3jYVvPxr"></iframe></iframe><br/>
+        
+        
+        
+        <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/clientview.php?wpKey=PbPvjCOGa8OtCz3jYVvPxr"  target="_blank">HERE</a></Strong></h2></div>						
+        
+        
+        
+        </div>
+        				
+                
+                
+                
+              <div><br/><br />						
+			  <p style="margin-left: 20px;"><font face="tahoma" size="2">
+          <strong>Entry Title:</strong> Doon Po Sa Amin Bula Pa Lang Ulam Na<br />						
+          <strong>Location:</strong> Ceby<br/>						
+          <strong>Subtitle:</strong>  Tuslob Buwa: Cebu's Indigenous Recipe<br />						
+          <strong>Category:</strong> Food to Eat</p>						
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 		
+        
+          </p><br /> 						
+						
+          <p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Science and Technology Education Center High School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Joan M. Dungog/Ma. Flordeliza Dela Cruz/Donald B. Dungog<br />						
+          <strong>School Team:</strong>						
+          <ul>
+                Mikhael Glen Lataza<br/>
+                Gedeon Ibhraime Diamos<br/>
+                Jay Ereka Valiente<br/>
+                Francis Salon<br/>
+                Sheen Michael Manigo<br/>
+                Keenu Alan Manayon<br/>
+                Robert Diez Maglasang<br/>
+          </ul></font></p><br /></div>						
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          123.8923032
+
+
+          ,10.28986955
+
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_FOODTOEAT</styleUrl>
+    </Placemark>
+
+
+
+
+
+    <Placemark>
+      <name>
+        Valladolid Delicacies
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe src="http://www.youtube.com/embed/xy7WUagKKy4 " width="550" height="400" frameBorder="0"></iframe><br/>
+        
+        
+       
+        
+        </div>
+        				
+                
+                
+                
+              <div><br/><br />						
+			  <p style="margin-left: 20px;"><font face="tahoma" size="2">
+          <strong>Entry Title:</strong> Doon Po Sa Amin Mauyunan Niyo Guid Ang Amon Pagkaon<br />						
+          <strong>Location:</strong> Negros Occidental<br/>						
+          <strong>Subtitle:</strong> Doon Po Sa Amin You Will  Surely Love our Delicacie<br />						
+          <strong>Category:</strong> Food to Eat</p>						
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 		
+          
+          </p><br /> 						
+						
+          <p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Tabao National High School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Miss Ma. Pilar V. Ykalina<br />						
+          <strong>School Team:</strong>						
+          <ul>
+                Glenn A. Adorado<br/>
+                Rich Mar B. Chavez<br/>
+                Ricky B.Divinagracia<br/>
+                Jenry F. Erobas<br/>
+                Devy Joy M. Barroca<br/>
+                Lairah P. Evangelista<br/>
+                Marjorie P. Guimapang<br/>
+                Lovely Mar T. Palma<br/>
+                Cheska Marie A. Rabago<br/>
+
+          </ul></font></p><br /></div>						
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          122.8583465
+
+
+
+          ,10.5046659
+
+
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_FOODTOEAT</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+    <Placemark>
+      <name>
+        Teresita E. Rumalay
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe src="http://simplebooklet.com/embed.php?wpKey=oLVVsL4EOQy2nP4kkDib1K" width="750" height="750"></iframe><br/>
+        
+        
+          <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/embed.php?wpKey=oLVVsL4EOQy2nP4kkDib1K"  target="_blank">HERE</a></Strong></h2></div>						
+      
+        
+       
+</div>						
+        						
+      <div><br/><br />						
+			 <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" 			
+						
+size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Lumyagan ang Gipanghinamhinaman!<br />						
+          <strong>Location:</strong> Misamis Occidental<br />						
+          <strong>Subtitle:</strong> Squid : A Mouth-Watering Viand to the Oroquietan and the 						
+						
+Balikbayan</p>						
+<p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Category:</strong> 						
+						
+Food to eat<br />						
+          <strong>Summary: </strong> This entry features how to catch lumyagan and how to cook 						
+						
+its different recipes.  Through this 						
+			       we could also tell to the whole world that our lumyagan is one of 			
+						
+a kind and that they should come in						
+			       Oroquieta City for them to try its savory taste. This will surely 			
+						
+boost the tourism and business industries						
+			       in the city, thus a very significant opportunity for employment 			
+						
+creation and local economic development.</p><br /> 						
+						
+<p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Misamis Occidental National High School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Vivian D. Echalico<br />						
+          <strong>School Team:</strong>						
+          <ul>Carlo G. Mananggit<br />						
+              Saira Apple M. Narit<br />						
+              Maria Fleurellei L. Santos<br />						
+              Joel O. Pausanos, Jr.<br />						
+              Marjie T. Legaspi<br />						
+              Lein Patricia S. Pamatong<br />						
+              Chandler Lyle G. Yu<br />						
+              Graciel Khen D. Ocaya<br />						
+          </ul></font></p><br /></div>			
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          123.7996744
+
+
+
+
+          ,8.493584135
+
+
+
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_FOODTOEAT</styleUrl>
+    </Placemark>
+
+
+
+    <Placemark>
+
+      <name>
+        AMANDA'S MARINE PRODUCTS
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+         <iframe src="http://www.youtube.com/embed/XIcqbWIl3Ok" width='600' height='400' style='border: 0px; overflow: hidden;' scrolling='yes'></iframe></q></div>
+        
+      <div><br/><br/>
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: May Ginto sa Alamang</br>
+          <strong>Location:</strong> Bataan<br/>
+          <strong>Subtitle:</strong> Only lazybones wont eat</br>
+          <strong>Category:</strong> Food to eat</p></br>
+          
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 
+                   
+                                       Bataan is a known Peninsula in the Philippines that is rich in quality marine products especially our most famous, alamang.
+                                      There are 5 obliging reasons why we should taste our own Alamang: First, it is abundant; Second, it is highly nutritious; Third, 
+                                      its increasing demand; Fourth, profitable; and Fifth, generates employment. These are the reasons that made Alamang as the Prized 
+                                      Merchandise of the Peninsula.</p></br>
+            <p style="margin-left: 20px;">                           
+          <strong>School Name:</strong> Bataan National High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Margarita Ramos, Elsa Cruz</br>
+          <strong>School Team:</strong>
+          <ul>Jeric Benz Aganon</br>
+               Aeleuz Albert Dela Cruz</br>
+               Gill Wendell Quijano</br>
+               Mariz Lyndsay Baluyot</br> 
+               Jhiena Marcos</br>
+               Jannah Grachelle Medina</br>
+               Zoshie Anne Gonzales</br>
+               Hannah Faye Santos</br>
+             </ul></font></p></br></div>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          120.5568484
+          ,14.69150608
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_FOODTOEAT</styleUrl>
+    </Placemark>
+
+
+
+
+    <Placemark >
+
+      <name>
+        Islam Food/Delicacies
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+            <iframe src="http://prezi.com/embed/1lza-8efa0kq/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe></q></div>
+          <div><br/><br/>
+			    <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: So p'gken e palas kano Muslim</br>
+              <strong>Location:</strong> South Cotabato<br/>
+              <strong>Subtitle:</strong> Islamic Identities through Muslim Delicacies</br>
+              <strong>Category:</strong> Food to eat</p></br>
+               <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">          
+
+              <strong>Summary: </strong> This project entitled “So p’gken e palas kano Muslim” is an official entry to the “Doon Po Sa Amin Community Mapping Competition” 
+                                         of Smarts Schools under the Food-to-eat category. This aims to introduce the magnificent food made by Muslims. Common Traditional
+                                         delicacies in Muslims are as follows: B’tangan, Bulibid, Kumukunsi, and pill. The proponents of this project hope to bring the best 
+                                         and give a new perspective from the Muslim’s Culture.</p></br>
+                 <p style="margin-left: 20px;"> 	
+         
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Secondary</br>
+              <strong>Teacher Coach:</strong> Marivic Delmo</br>
+              <strong>School Team: </strong>
+              <ul>  Aflaha Saikol </br>
+                    Nikki Suba-an </br>
+                    Elai Grace Fernandez </br>
+                    Rene John  Bonotan </br>
+                    Leonil Biñan </br>
+                    Leslie Joyce Belais </br>
+                    Aida Nale </br>
+                    Melanie Daan </br>
+                    Marivic Delmo </br>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.1159329
+          ,6.078790122
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_FOODTOEAT</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Savoury Cup Cakes
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+            <iframe src='HTTP://simplebooklet.com/embed.php?wpKey=GhHU8pSl8xKdaODP5b1ai9' width='450' height='808'></iframe></q>
+            
+            
+            
+              <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="HTTP://simplebooklet.com/embed.php?wpKey=GhHU8pSl8xKdaODP5b1ai9"  target="_blank">HERE</a></Strong></h2></div>						
+      
+            
+            
+            
+            
+            </div>
+          <div><br/><br/>
+			    <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: Savoury Cupcakes Gensan Edition</br>
+              <strong>Location:</strong> South Cotabato<br/>
+              <strong>Subtitle:</strong> Savory Cupcakes: Gensan Edition</br>
+              <strong>Category:</strong> Food to eat</p></br>
+                <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">          
+
+              
+              <strong>Summary: </strong> General Santos City is well-known as the ""hometown"" of the champions like Manny Pacquiao, Nonito Donaire, </BR>
+                                         Shamcey Supsup and etc. But, there's more to discover especially in the General's cooking skills. We are not just</BR>
+                                         good in sports, acting, and other things, but, we're also good in cooking cooks.</BR>
+                                         Our Project entitled :Savory Cupcakes: Gensan Edition, which features the homemade cupcakes in General Santos City,</BR>
+                                         cupcakes which suites your taste buds and will surely made your day complete!</p></br>
+                   <p style="margin-left: 20px;"> 	
+                                   
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Secondary</br>
+              <strong>Teacher Coach:</strong> Marivic Delmo</br>
+              <strong>School Team: </strong>
+              <ul> Mira-Li Orquia</br>
+                   Judah Ray Pagtalunan</br>
+                   Niel Christian Tamonan</br>
+                   Friane JadeTogonon</br>
+                   Olga Mae Almasin</br>
+                   Robee Jalica Lapidez</br>
+                   Camille Tancinco</br>
+                   Aida Nale</br>
+                   Maychelou Castillo</br>
+                   Albert Balongoy</br>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.1749398
+          ,6.114460496
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_FOODTOEAT</styleUrl>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,554 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+
+
+
+
+    <Style id="style_ACTIVITIES">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/ACTIVITIES.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_FOODTOEAT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/FOODTOEAT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_HISTORY">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/HISTORY.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+	
+	
+    <Style id="style_PEOPLETOMEET">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PEOPLETOMEET.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+	
+	
+
+    <Style id="style_PLACESTOGO">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLACESTOGO.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PRODUCTS">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PRODUCTS.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_PLANTSANIMALSTODISCOVER">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLANTSANIMALSTODISCOVER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id='tabbed'>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<ul class="nm_tabnav">
+			<li class="nm_tab_current">Excerpt</li>
+			<li class="nm_tab">Combatants</li>
+			</ul><h2>$[name]</h2><br/>$[description]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Bacarra Public Market
+      </name>
+      <description>
+        <![CDATA[<div align="center">
+         <iframe src="http://www.youtube.com/embed/5es7zrmxANM" width='600' height='400' style='border: 0px; overflow: hidden;' scrolling='yes'></iframe></div>
+        
+      <div><br /><br />	
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Produkto'y Hahanap-hanapin</br>
+          <strong>Location:</strong> Ilocos Norte<br/>
+          <strong>Subtitle:</strong> Here at our dwelling, Products are for longing</br>
+          <strong>Category:</strong> Community Products to Support</br></p>
+          
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "><strong>Summary: </strong> Bacarra,  home of domeless belfry  tower in Asia, a place gifted with rich cultural and 
+                                     historical sight, and hub of various unique and exotic products. It offers  a wide range of Ilocano products ,  in food form or apparels. Be a witness 
+                                     of  the tangible  product of wit and creativity of  the Bacareños and  love and hospitality  with the food products they offer! Truly, at Bacarra, 
+                                     the experience  is one of a kind even just by the community products  you savor! </p><br/>
+          
+          <p style="margin-left: 20px;"> 		
+          <strong>School Name:</strong> Bacarra National Comprehensive High School<br/>
+          <strong>School Type:</strong> Public<br/>
+          <strong>School Level:</strong> Secondary<br/>
+          <strong>Teacher Coach:</strong> Mr. Erwin Jun V. Daguio<br/>
+          <strong>School Team:</strong>
+          <ul>Lester Acob<br/>
+              Lester Sigabu<br/>
+              Ma. Ena Copuz<br/>
+              Bonna  Suerte Agliam<br/>
+              Bernice Ivy Tejares<br/>
+              Jamaica Soriano<br/>
+              Jhanine Ramos <br/>
+             </ul></font></p><br/></div>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          120.6060899
+          ,18.25790141
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PRODUCTS</styleUrl>
+    </Placemark>
+
+
+
+    <Placemark >
+
+      <name>
+        Calesa Making
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+         <iframe src="http://www.youtube.com/embed/Zo-dczaOT3" width='600' height='400' style='border: 0px; overflow: hidden;' scrolling='yes'></iframe></q></div>
+        
+      <div><br/><br/>
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Kay Sarap Mamuhay sa Pamana ni Impong</br>
+          <strong>Location:</strong> Ilocos Norte<br/>
+          <strong>Subtitle:</strong> Grannies' Jobs:The Breathing Legacy in Ilocos Norte</br>
+          <strong>Category:</strong> Community Products to Support</br></p>
+          
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "><strong>Summary: </strong> 
+                                     Calesa and salakot making are still pervasive in Ilocos Norte. Hail our elders for keeping these alive. Today,
+                                     youngsters and elders enjoy eco-friendly ride. For special occasions, Ilocanos gift their friends with salakot.
+                                     Hail the elders for keeping this heritage breathing! Entirely shoot in Laoag City and Bacarra, Ilocos Norte, this
+                                     17-minute documentary hosted by Nicole Jennica Isla aims to inform viewers that Ilocanos have successfully preserved 
+                                     the jobs they got from their ancestors. It likewise intends to develop zeal in promoting and appreciating them.
+                                     May this entry of Bacarra National Comprehensive High School-Lamina Productions inspire all Local Government Units,
+                                     NGOs, historians and tourism councils, students and teachers to take part in preserving and supporting the legacy of a lifetime.</p></br>
+          <p style="margin-left: 20px;"> 	
+          <strong>School Name:</strong> Bacarra National Comprehensive High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Romel A. Pascua</br>
+          <strong>School Team:</strong>
+          <ul>Nicole Jennica B. Isla </br>
+              Eric C. Andres </br>
+              Yreff Kassandra P. Eder </br>
+              Allineth Bien C. Artates </br>
+              Markus Angelo N. Reginaldo </br>
+              Charmelaine Chantelle R. Ramento </br>
+              Emil John A. Jao</br>
+              Clarise Gale C.Constantino</br>
+              Lemuel Jay G. Cadiente</br>
+              Romel A.Pascua<br/>
+             </ul></font></p></br></div>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          120.5665419
+          ,18.18524211
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PRODUCTS</styleUrl>
+    </Placemark>
+
+    <Placemark>
+      <name>
+        PHILRICE CENTRAL EXPERIMENT STATION
+
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+      <iframe src="http://prezi.com/embed/s0wt0kunc6ce/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe><br/>
+        
+        
+        </div>
+        				
+                
+                
+                
+              <div><br/><br />						
+			  <p style="margin-left: 20px;"><font face="tahoma" size="2">
+          <strong>Entry Title:</strong> Doon Po Sa Amin Teknolohiya sa Pagtatanim Halina't tuklasin<br />						
+          <strong>Location:</strong> Nueva Ecija<br/>						
+          <strong>Subtitle:</strong> A research: Modern Technology of Rice Planting<br />						
+          <strong>Category:</strong> Community Products to Support</p>						
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 		
+          This research project promotes the newest technology that our farmers use in cultivating their farmlands and 
+          improving the way of agricultural farming.  Technology has a big impact on our lives, whether we chose to 
+          cling on the traditional method of farming or embrace the trends in innovation we can still always depend on 
+          how we adapt to these changes and use it to our advancement. In our POI, we would like to introduce you to
+          the different machines that reflects these changes. Machines that can do the task on a fast, cost-efficient, 
+          and eco-friendly at the same time.
+          </p><br /> 						
+						
+          <p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Nueva Ecija High school<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Leonides E. Bulalayao<br />						
+          <strong>School Team:</strong>						
+          <ul>
+                  Frya Lora Javier<br />		
+                  Christine R. Palis<br />		
+                  Luisito R. Duque<br />		
+                  Karen Joyce D. Lucero<br />		
+                  Almira Coleen P. Ramones<br />		
+                  Ezairo Rafaino A. Buenaventura<br />		
+                  John Michael B. Cartagena<br />		
+                  Neil Arvin S. Policarpio<br />		
+
+          </ul></font></p><br /></div>						
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          120.8900547
+
+
+          ,15.67236347
+
+
+
+
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PRODUCTS</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Placemark>
+      <name>
+        Taboan sa Oroquieta
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe src="http://simplebooklet.com/embed.php?wpKey=AXJk4458PlqyQRfMDv1w7f" width="750" height="750"></iframe><br/>
+        
+        
+          <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/embed.php?wpKey=AXJk4458PlqyQRfMDv1w7f"  target="_blank">HERE</a></Strong></h2></div>						
+      
+        
+       
+</div>						
+        						
+      <div><br/><br />						
+			 <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" 			
+						
+size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Taboan ang Lugar para sa Pangkabuhayan<br />						
+          <strong>Location:</strong> Misamis Occidental<br />						
+          <strong>Subtitle:</strong> </p>						
+<p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Category:</strong> 						
+						
+Community Products to Support
+<br />						
+          <strong>Summary: </strong> <strong>Summary: </strong> This DPSA entry helps promote good quality community products by means of 
+          introducing Taboan as one of the best place to answer your budgeting needs. It helps promote the quality of
+          living in Oroquieta City and the best way to entice Oroquietanians to patronize our local products. It is a
+          very significant opportunity for employment creation and local economic development, thus develop a better
+          economic and livelihood status in the city.</p><br /> 						
+						
+<p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Misamis Occidental National High School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Vivian D. Echalico<br />						
+          <strong>School Team:</strong>						
+          <ul>  Neil B. Naranjo<br/>
+                Ain Clifford C. Pabate<br/>
+                Angelo L. Muñez<br/>
+                Ralphpinno G. Sanchez<br/>
+                Erhara Zilka F. Taganahan<br/>
+                Jehoiakim Q. Canoy<br/>
+                Abel Jon M. Luza<br/>
+                Joanna Coleen Tao-on<br/>
+                Judy Ann V. Madarimot<br />						
+          </ul></font></p><br /></div>			
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          123.812391
+
+
+
+
+
+          ,8.480958155
+
+
+
+
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PRODUCTS</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+
+    <Placemark >
+
+      <name>Payong-payong Terminal</name>
+      <description>
+        <![CDATA[<div align="center"><q>
+             <iframe src="http://prezi.com/embed/qgzc6yzls1wm/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe></q></div>
+        
+          <div> <BR/><br/>
+			    <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> DPSA: Payong-payong Panginabuhi sa Yanong Lumlupyo</br>
+              <strong>Location:</strong> Davao<br/>
+              <strong>Subtitle:</strong> Improvished Transportation for Poverty Alleviation</br>
+              <strong>Category:</strong> Community Products to Support</br></br>
+              <strong>School Name:</strong> Doña Carmen Denia National High School</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Secondary</br>
+			  <strong>Teacher Coach:</strong> Stephen Pascual</br>
+              <strong>School Team: </strong>
+              <ul>  Eva Magallanes</br>
+					          Stella Rose Nietes</br>
+					          Stephen Pascual</br>
+					          Raphael Vince Abregana</br>
+					          Louis Anne Burdios</br>
+					          Irene Revelleza</br>
+					          Diether Dave Ingco</br>
+					          Cherish Portallo</br>
+					          Daniel Suñer</br>
+					          Niña Fuentes<br/>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.4968273
+          ,7.020748003
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PRODUCTS</styleUrl>
+    </Placemark>
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Crisostomo Farm
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+            <iframe src="http://prezi.com/embed/pzrquczbb3zg/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe></q></div>
+           <div><br/><br/>
+			    <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: lokong-loko sa Buko</br>
+              <strong>Location:</strong> South Cotabato<br/>
+              <strong>Subtitle:</strong> We're going Loco for the Coco</br>
+              <strong>Category:</strong> Community Products to Support</p></br>
+              
+               <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">          
+
+              <strong>Summary: </strong> This study entitled “Doon Po Sa AminLokong-loko sa Buco”  is focused on the presentation of different varieties of coconut
+                                         that can be found at the city of General Santos specifically in the Agricultural farm owned by Mr. Delfin Crisostomo situated at
+                                         Purok 3, Barangay Katangawan. This study shows and elucidates 8 different varieties of coconut and its important benefits given
+                                         to the general public. May this output feed your eyes and mind. Enjoy!</p></br>
+                   <p style="margin-left: 20px;"> 	
+                               
+              <strong>School Name:</strong> General Santos City National High School</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Secondary</br>
+              <strong>Teacher Coach:</strong> Dante Arboleda</br>
+              <strong>School Team: </strong>
+              <ul>  Karl Anthony Labrador<br/>
+                    Jannie Louise Rubin<br/>
+                    Shara Gail Fuscablo<br/>
+                    Karen Claire Beler<br/>
+                    Cheyenne Mangompit<br/>
+                    Angely Joy Arabis<br/>
+                    Theresa Mae Caliza<br/>
+                    Aida Nale<br/>
+                    Melanie Daan<br/>
+                    Dante Arboleda"<br/>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.2147436
+          ,6.169948634
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PRODUCTS</styleUrl>
+    </Placemark>
+
+
+  </Document>
+</kml>

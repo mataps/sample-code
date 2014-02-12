@@ -1,0 +1,884 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+
+
+<!-- dssadasdasdasdadasdsadsa -->
+
+
+    <Style id="style_HISTORICALMONUMENT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HISTORICAL-MONUMENT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_CONVENTION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/CONVENTION-CENTER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_PLACEOFWORSHIP">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/PLACEOFWORSHIP.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_BORDERCROSSING">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/BORDER CROSSING.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PARK">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/PARK.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_GOVERMENTOFFICE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/GOVERNMENT OFFICE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_CAMPGROUND">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/CAMP GROUND.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id='tabbed'>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<ul class="nm_tabnav">
+			<li class="nm_tab_current">Excerpt</li>
+			<li class="nm_tab">Combatants</li>
+			</ul><h2>$[name]</h2><br/>$[description]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+    <Style id="style_TOURISTATTRACTION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/TOURISTATTRACTION.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_CONVENSION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/CONVENTION-CENTER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_BUSINESSFACILITY">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/BUSINESS FACILITY.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+    <Style id="style_MUSEUM">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/MUSEUM.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PARK">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/PARK.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+
+
+    <Style id="style_TOURISTINFORMATION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/TOURIST INFORMATION.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_RESTAURANT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/RESTAURANT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_SHOPPING">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/SHOPPING.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_AMUSEMENTPARK">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/AMUSEMENT PARK.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_HOSPITAL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HOSPITAL.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+    <Style id="style_INDUSTRIALZONE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/INDUSTRIAL ZONE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+    <Style id="style_HIGHEREDUCATION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HIGHER EDUCATION.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+    <Style id="style_SCHOOL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>ICONS/SCHOOL.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_RESIDENTIAL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/RESIDENTIAL AREA-BUILDING.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_SPECIALTYSTORE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/SPECIALTY STORE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_HOTEL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HOTEL.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_GOLFCOURSE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/GOLF COURSE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+
+
+
+
+    <!--TOP HS-->
+
+    <Folder>
+
+      <name>HIGH SCHOOL TOP ENTRIES</name>
+      <open>1</open>
+
+
+
+
+
+
+
+            				
+      <Placemark >						
+						
+          <name>						
+            Barangay Canubay Wharf						
+          </name>						
+          <description>						
+            <![CDATA[<div align="center"> 						
+         <iframe src="http://simplebooklet.com/embed.php?wpKey=oLVVsL4EOQy2nP4kkDib1K#wpKey=oLVVsL4EOQy2nP4kkDib1K#page=0" width='750' height='750'></iframe>
+
+
+<h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/embed.php?wpKey=oLVVsL4EOQy2nP4kkDib1K#wpKey=oLVVsL4EOQy2nP4kkDib1K#page=0"  target="_blank">HERE</a></Strong></h2>					
+
+
+</div>						
+        						
+      <div><br/><br />						
+			 <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" 			
+						
+size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Lumyagan ang Gipanghinamhinaman!<br />						
+          <strong>Location:</strong> Misamis Occidental<br />						
+          <strong>Subtitle:</strong> Squid : A Mouth-Watering Viand to the Oroquietan and the 						
+						
+Balikbayan</p>						
+<p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Category:</strong> 						
+						
+Food to eat<br />						
+          <strong>Summary: </strong> This entry features how to catch lumyagan and how to cook 						
+						
+its different recipes.  Through this 						
+			       we could also tell to the whole world that our lumyagan is one of 			
+						
+a kind and that they should come in						
+			       Oroquieta City for them to try its savory taste. This will surely 			
+						
+boost the tourism and business industries						
+			       in the city, thus a very significant opportunity for employment 			
+						
+creation and local economic development.</p><br /> 						
+						
+<p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Misamis Occidental National High School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Vivian D. Echalico<br />						
+          <strong>School Team:</strong>						
+          <ul>Carlo G. Mananggit<br />						
+              Saira Apple M. Narit<br />						
+              Maria Fleurellei L. Santos<br />						
+              Joel O. Pausanos, Jr.<br />						
+              Marjie T. Legaspi<br />						
+              Lein Patricia S. Pamatong<br />						
+              Chandler Lyle G. Yu<br />						
+              Graciel Khen D. Ocaya<br />						
+          </ul></font></p><br /></div>						
+      ]]>						
+          </description>						
+          <Point>						
+            <coordinates>						
+123.7997631						
+              ,8.495684603						
+              ,0.000000						
+            </coordinates>						
+          </Point>						
+          <styleUrl>#style_TOURISTATTRACTION</styleUrl>						
+        </Placemark>						
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </Folder>
+
+
+
+
+
+
+
+
+        <!--REGION V-->
+
+      <Placemark >						
+						
+        <name>						
+          1st Colonial Grill						
+        </name>						
+        <description>						
+          <![CDATA[<div align="center"> 						
+         <iframe src='HTTP://simplebooklet.com/embed.php?wpKey=YvNDFXoCvKYT3TFrJxJ6F3' 						
+						
+width='696'						
+						
+ ></iframe> 
+ 
+ 
+ <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="HTTP://simplebooklet.com/embed.php?wpKey=YvNDFXoCvKYT3TFrJxJ6F3"  target="_blank">HERE</a></Strong></h2>					
+ 
+ 
+ </div>						
+        						
+      <div><br/><br />						
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry 			
+						
+Title:</strong> Doon Po sa Amin: Ang Sili Di Lang Pampainit, Pampalamig Din<br />						
+          <strong>Location:</strong> Naga City<br/>						
+          <strong>Subtitle:</strong> Chillis that Chill<br />						
+          <strong>Category:</strong> Food to eat</p>						
+<p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 						
+						
+Bicolanos are known worldwide for having a soft spot for spicy foods as part of their culture.						
+				 Bicol Express, Pinangat and Laing are just some of the popular 		
+						
+examples of spicy delicacies Bicolanos						
+			         love. As a result, a new dessert with a spicy twist, the SILI 			
+						
+ICE CREAM came into existence.						
+                                 With every scoop, one will not only enjoy the creamy and 						
+						
+flavorful taste but will also savor 						
+			         the spicy aftertaste of this chili flavored ice cream.</p><br /> 			
+						
+						
+						
+<p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Naga City Science High School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Sylvia D. Serrado<br />						
+          <strong>School Team:</strong>						
+          <ul> Sylvia D. Serrado<br />						
+               Ryan Earl B. Grajo<br />						
+               Paula Bianca O. Samson<br />						
+               Diana Marie M. Romero<br />						
+               Johanna Marie F. Drece <br />						
+               Jan Niko A. Lagdaan<br />						
+               Ina Francesca C. Caramoan<br />						
+               Allyza May B. Tosoc<br />						
+               Joriza K. Novio<br />						
+               Dann Kristopher B. Sarte<br />						
+          </ul></font></p><br /></div>						
+      ]]>						
+        </description>						
+        <Point>						
+          <coordinates>						
+123.7223581						
+            ,13.1467874						
+            ,0.000000						
+          </coordinates>						
+        </Point>						
+        <styleUrl>#style_RESIDENTIAL</styleUrl>						
+      </Placemark>
+
+
+
+
+
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Ilaya Elementary School
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+            <iframe src="http://www.youtube.com/embed/4pdUKMBhKcY" width="550" height="400" frameBorder="0"></iframe></q></div>
+        
+     <div><BR/><br/>
+			     <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</stron> Doon po sa amin, Bulok ay kinakain</br>
+              <strong>Location:</strong> Rizal<br/></br>
+              <strong>Subtitle:</strong> Balaw-Balaw, a True Tanayan Delicacy</br>
+              <strong>Category:</strong> Food to eat</br>
+              <strong>Summary: </strong> This entry is about a food that can make you step backward and say "No Thanks" because the food cooked</br> 
+                                         and eat here was a mixture of shrimp, rice , coconut milk and other spices that has been fermented for</br> 
+                                         3 days that’s why it smells unpleasant. but when it was already cooked and prepared with our favourite</br>
+                                         dishes mainly Sinigang and fried fish you will understand why here in Tanay "bulok ay kinakain". </br>
+                                         The kids who prepared the dish was supervised by experts to make it safe and precise.</br></br>
+              <strong>School Name:</strong> Ilaya Elementary School</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Primary</br>
+              <strong>Teacher Coach:</strong> Mrs. Alicia B. Tongohan</br>
+              <strong>School Team: </strong>
+              <ul>  Odyssey R. Chualong<BR/>
+                    Jersey Mae F. Regalado<BR/>
+                    Kyla Mae F. Valencia<BR/>
+                    Rosenel D. Delgado<BR/>
+                    Darlene Dyann R. Miras<BR/>
+                    Kia Nicole B. Sacramento<BR/>
+                    Joan Samantha V. Berdan<BR/>
+                    Christina Toquero (teacher coach)<BR/>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          121.2899878
+          ,14.50349642
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_SCHOOL</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </Document>
+</kml>

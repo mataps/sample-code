@@ -1,0 +1,949 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+
+    <Style id="style_ACTIVITIES">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/ACTIVITIES.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_FOODTOEAT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/FOODTOEAT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_HISTORY">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/HISTORY.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+	
+	
+    <Style id="style_PEOPLETOMEET">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PEOPLETOMEET.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+	
+	
+
+    <Style id="style_PLACESTOGO">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLACESTOGO.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PRODUCTS">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PRODUCTS.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_PLANTSANIMALSTODISCOVER">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLANTSANIMALSTODISCOVER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id='tabbed'>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<ul class="nm_tabnav">
+			<li class="nm_tab_current">Excerpt</li>
+			<li class="nm_tab">Combatants</li>
+			</ul><h2>$[name]</h2><br/>$[description]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Mobile Teacher
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="700" height="500" src="http://simplebooklet.com/publish.php?wpKey=QMAgkrbBc0fDiFCKbreTEB#wpKey=QMAgkrbBc0fDiFCKbreTEB#page=0" frameborder="0" allowfullscreen></iframe><br/>
+        <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/publish.php?wpKey=QMAgkrbBc0fDiFCKbreTEB#wpKey=QMAgkrbBc0fDiFCKbreTEB#page=0" target="_blank">HERE</a></Strong></h2></div>						
+        						
+             <div><br /><br />						
+			              <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: Habal-habal sa Kaalam<br />						 
+                    <strong>Location:</strong> General Santos City<br/>						
+                    <strong>Subtitle:</strong> Delivering Education through Wheels<br />						
+                    <strong>Category:</strong> People to meet</p>
+                    
+                        <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 
+                        Apart from being the Haven of the Country’s finest Export-quality Tuna goods, GenSan is also labeled as the Home of the Champions for it continues to 
+                        give birth on some of the country’s pride.  But one thing that most of us don’t know is that, Gensan is a birthplace of good Samaritans. 
+                        One of these is an ordinary man that started from humble beginnings and dream on bringing education to the unfortunate indigents---in the character of Mr. Marcos Olong."
+                        </p><br /> 	
+
+              <p style="margin-left: 20px;"> 						
+                    <strong>School Name:</strong> General Santos City National High School<br />						
+                    <strong>School Type:</strong> Public<br />						
+                    <strong>School Level:</strong> Secondary<br />						
+                    <strong>School Team:</strong>						
+                    <ul>  Christine Ivy Silva<br/>
+                          Janna Veronica Telen<br/>
+                          Vince Gervin de Dios<br/>
+                          Jomari Torrejano<br/>
+                          Gladys Sapocado<br/>
+                          Dianne Mae Diaz<br/>
+                    </ul></font></p><br /></div>						
+                ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.186594
+          ,6.130172163
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PEOPLETOMEET</styleUrl>
+    </Placemark>
+
+
+
+
+    <Placemark>
+      <name>
+        SPOELSTRA'S NATIVE TOWN
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="750" height=750" src="http://simplebooklet.com/embed.php?wpKey=iCwuaPNlpkCYaUmMnnlbRC"></iframe><br/>
+        
+      <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/embed.php?wpKey=iCwuaPNlpkCYaUmMnnlbRC"  target="_blank">HERE</a></Strong></h2></div>						
+        	
+        </div>
+        						
+             <div><br /><br />						
+			              <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Ang Dugo ng Tagapagsanay, Abot sa Buong Mundo Ang Tagumpay!<br />						
+                    <strong>Location:</strong> Laguna<br/>						
+                    <strong>Subtitle:</strong> The Life of Erik Spoelstra (Miami Heat Coach)<br />						
+                    <strong>Category:</strong> People to meet</p>
+                    
+                    
+
+                    
+                        <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 
+                        This interactive video falls under people to meet category featuring the NBA's greatest coach Mr. Erik Spoelstra - whose mother was 
+                        hailed from San Pablo City, Laguna Philippines. The video also includes starting point, failures and success about Basketball. 
+                        The entry was presented in a countdown show format  delivered by the students in a pure green screen technology.
+                        </p><br /> 	
+
+              <p style="margin-left: 20px;"> 						
+                    <strong>School Name:</strong> Kintner Christian Academy<br />						
+                    <strong>School Type:</strong> Private<br />						
+                    <strong>School Level:</strong> Secondary<br />		
+                    <strong>Teacher Coach:</strong> Leandro L. Bondad, Maria Theresa Tolentino<br />			
+                    <strong>School Team:</strong>						
+                    <ul>  REYES, Johnry T.<BR/>
+                    SAHAGUN, Shanen Meryl<BR/>
+                    LALU, Hazel C. TIU<BR/>
+                    Bryan Gabriel N.<BR/>
+                    MOJICA, Carlo R.<BR/>
+                    CASTILLO, Ivy Vanessa<BR/>
+                    MAGPANTAY, Ivan Henris A.<br/>
+                    </ul></font></p><br /></div>								
+                ]]>
+      </description>
+      <Point>
+        <coordinates>
+          121.3254556
+
+
+          ,	14.0743239
+
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PEOPLETOMEET</styleUrl>
+    </Placemark>
+
+
+
+
+
+    <Placemark>
+      <name>
+        Aling Dionesia Dela Pena Residence
+
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe src="http://simplebooklet.com/embed.php?wpKey=eJTaNI3Jm6kENWf7wfTnef" width="750" height="750"></iframe><br/>
+        
+        
+          <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/embed.php?wpKey=eJTaNI3Jm6kENWf7wfTnef"  target="_blank">HERE</a></Strong></h2></div>						
+      
+        
+       
+</div>						
+        						
+      <div><br/><br />						
+			 <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" 			
+						
+size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Si Aling Dionesia, Bongga!<br />						
+          <strong>Location:</strong> Misamis Occidental<br />						
+          <strong>Subtitle:</strong> Aling Dionesia, the Best!
+ </p>						
+<p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Category:</strong> 						
+						
+People to meet
+
+<br />						
+          <strong>Summary: </strong> This entry features Aling Dionesia's biography, and all things that would make you want to know her more. 
+                                      She's a great person - with her salient attitude, proficiency in entrepreneurship and greatness at handling 
+                                      her family and customers, nothing more would make her the right person to feature and to meet with. Oroquieta
+                                      City is genuinely proud for Aling Dionesia's success and it's one of the reasons why the city is visited by 
+                                      locales from different places.
+</p><br /> 						
+						
+<p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Misamis Occidental National High School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Vivian D. Echalico<br />						
+          <strong>School Team:</strong>						
+          <ul>  Krisha J. Maata<br/>
+                Ethelin Joy C. Barrientos<br/>
+                Grace Molina L. Bañez<br/>
+                Richard Lorenz Bistayan<br/>
+                Gilene Grace Mizpah R. Francisco<br/>
+                April Jane R. Dantes<br/>
+                Bianca J. Baring<br/>
+                Elaiza Flor M. Arabiana<br/>
+                Chris Mae Ivony P. Ederosas<br/>
+          </ul></font></p><br /></div>			
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          123.8106911
+
+
+
+
+          ,8.478564738
+
+
+
+
+
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PEOPLETOMEET</styleUrl>
+    </Placemark>
+
+
+
+
+
+    <Placemark>
+      <name>
+        Kuya Toti's House
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="750" height="500" src="http://simplebooklet.com/tagapagsalitangmgaisda"></iframe></iframe><br/>
+        
+        
+        
+        <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/tagapagsalitangmgaisda"  target="_blank">HERE</a></Strong></h2></div>						
+        
+        
+        
+        </div>
+        				
+                
+                
+                
+              <div><br/><br />						
+			  <p style="margin-left: 20px;"><font face="tahoma" size="2">
+          <strong>Entry Title:</strong> Doon Po sa Amin:  Ang Tagapagsalita ng mga isda<br />						
+          <strong>Location:</strong> Cebu<br/>						
+          <strong>Subtitle:</strong>  A Man Who Talk with the Fish<br />						
+          <strong>Category:</strong> People to meet</p>						
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 		
+            This study is done intensively to introduce to the world our very own,Mr. Timoteo Kabaw Kabaw Menguito or also 
+            known as  Kuya Toti who is known for his unique ability to talk to fishes. He has this talent wherein he can 
+            directly communicate to fishes. At the same time, this study also introduces some fish sanctuaries here in the 
+            locality which is preserving some endangered marine life.
+          </p><br /> 						
+						
+          <p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Science and Technology Education Center High School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Maria Fe G. Decatoria<br />						
+          <strong>School Team:</strong>						
+          <ul>
+                Cleugene Cabanillas<BR/>
+                Chinju Yoon<BR/>
+                Montessa Despi<BR/>
+                Janita Regalado<BR/>
+                Mary Amora<BR/>
+                Arne Kilantang<BR/>
+                Mae Watin<BR/>
+                Ma. flordeliza Dela Cruz<BR/>
+                Luisa S. Tango-an<BR/>
+                Maria Fe G. Decatoria<BR/>
+          </ul></font></p><br /></div>						
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+
+          123.9883956
+
+          ,10.2073115
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PEOPLETOMEET</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+    <Placemark>
+      <name>
+        Gilutongan Marine Sacntuary (GMS)
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="750" height="500" src="http://simplebooklet.com/tagapagsalitangmgaisda"></iframe></iframe><br/>
+        
+        
+        
+        <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/tagapagsalitangmgaisda"  target="_blank">HERE</a></Strong></h2></div>						
+        
+        
+        
+        </div>
+        				
+                
+                
+                
+              <div><br/><br />						
+			  <p style="margin-left: 20px;"><font face="tahoma" size="2">
+          <strong>Entry Title:</strong> Doon Po sa Amin:  Ang Tagapagsalita ng mga isda<br />						
+          <strong>Location:</strong> Cebu<br/>						
+          <strong>Subtitle:</strong>  A Man Who Talk with the Fish<br />						
+          <strong>Category:</strong> People to meet</p>						
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 		
+            This study is done intensively to introduce to the world our very own,Mr. Timoteo Kabaw Kabaw Menguito or also 
+            known as  Kuya Toti who is known for his unique ability to talk to fishes. He has this talent wherein he can 
+            directly communicate to fishes. At the same time, this study also introduces some fish sanctuaries here in the 
+            locality which is preserving some endangered marine life.
+          </p><br /> 						
+						
+          <p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Science and Technology Education Center High School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Maria Fe G. Decatoria<br />						
+          <strong>School Team:</strong>						
+          <ul>
+                Cleugene Cabanillas<BR/>
+                Chinju Yoon<BR/>
+                Montessa Despi<BR/>
+                Janita Regalado<BR/>
+                Mary Amora<BR/>
+                Arne Kilantang<BR/>
+                Mae Watin<BR/>
+                Ma. flordeliza Dela Cruz<BR/>
+                Luisa S. Tango-an<BR/>
+                Maria Fe G. Decatoria<BR/>
+          </ul></font></p><br /></div>						
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+
+
+          123.9871296
+
+          ,10.20881616
+
+
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PEOPLETOMEET</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Congressman ABET
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+         <iframe src="http://www.youtube.com/embed/hhPA9e5BunU" width='600' height='400' style='border: 0px; overflow: hidden;' scrolling='yes'></iframe></q></div>
+        
+      <div><BR/><BR/>
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon po sa Amin, May A.B.E.T. ( Astig, Bigatin, Ehemplong Tunay)</br>
+          <strong>Location:</strong> Bataan<br/>
+          <strong>Subtitle:</strong> A BET: Epitome of Trust</br>
+          <strong>Category:</strong> People to meet</br></P>
+          
+                    <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 
+              
+          “Doon Po Sa Amin: May ABET” features Congressman Albert Raymond Garcia, both as a public servant as well as an outstanding individual--
+                                      a caring boss, an excellent student, a responsible brother, and a loving son. These traits that he possesses make him a hero -- a born leader,
+                                      a role model, and a true epitome of trust not just to some, but, to all Bataenos.</P></br>
+            <p style="margin-left: 20px;"> 	                           
+          <strong>School Name:</strong> Bataan National High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Vilma S. Fernando, Analyn Dabu, Renato M. Fernando/br>
+          <strong>School Team:</strong>
+          <ul>Adriel N. Banzon</br>
+              Ashley Marcos</br>
+              Dinardo G. Santos</br>
+              Ghera Maris O. Guanzon</br>
+              Ma. Jamela T. Lacuban</br>
+              Guia Georgia S. Limcangco</br>
+              Jennie Marie E. Orbiso</br>
+             </ul></font></p></br></div>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          120.519231
+          ,14.67846295
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PEOPLETOMEET</styleUrl>
+    </Placemark>
+
+
+    <Placemark>
+
+      <name>
+        Doon Po Sa Amin: May Barakong Mayor
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+  <iframe src="http://prezi.com/embed/pj-hj1kwlph0/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe></q></div>
+      <div><br/><br/>
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin May Barakong Mayor</br>
+          <strong>Location:</strong> Cavite<br/>
+          <strong>Subtitle:</strong> The Life of Patrocinio Z. Gulapa</br>
+          <strong>Category:</strong> People to meet</p></br>
+           <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">          
+          <strong>Summary: </strong>Doon Po Sa Amin: Sumilay ang Liwanag ng Kalayaan presents the significance of Aguinaldo Shrine in Philippine History. 
+                                    The presentation was made to remind the people about how the place signifies the triumph of our heroes who fought for our
+                                    freedom. Data were gathered through surveys, historical research and interviews to provide more trivia and new things to 
+                                    discover were discussed.  Now, the Aguinaldo Shrines will be visited not just by Filipinos but also by the people around the world.</p></br>
+           <p style="margin-left: 20px;"> 	                          
+          <strong>School Name:</strong> Cavite National Science High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Jennylou A. Pangilinan</br>
+          <strong>School Team: </strong>
+          <ul>Adrian Paul L. Andrade</br>
+              Stig Marcson Lance C. Riman</br>
+              Fatima Ellaine M. Sisracon</br>
+              Carlo Miguelle S. Manalo</br>
+              Rennard M. Marquez</br>
+              Erika Mae P. Lucerna</br>
+              Eden Joy S. Abesamis</br>
+             </ul></font></p></br></div>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          120.7355437
+          ,14.27403539
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PEOPLETOMEET</styleUrl>
+    </Placemark>
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Mandaluyong Children's Choir HQ
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+        <iframe src="http://prezi.com/embed/3urskakj_jro/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe></q></div>
+      <div><br/><br/>
+			<p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: Dagungdong sa Mandaluyong</br>
+          <strong>Location:</strong> Mandaluyong<br/>
+          <strong>Subtitle:</strong> In Our Place: Resounding Mandaluyong</br>
+          <strong>Category:</strong> People to Meet</p></br>
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">      
+          <strong>Summary: </strong> The Mandaluyong Children’s Choir was formed in 1999 as a training program that aims to develop and nurture the musically gifted among the 
+                                     underprivileged students in Mandaluyong City. MCC has drawn a proud list of achievements from Philippines and across the world. To date, with 
+                                     seven albums out; numerous performances from TV shows, concerts, international competitions to State of the Nation Address. MCC is truly on
+                                     its peak, living with their vision: To Live,To Love,To Learn and To Lead. </p></br>
+            <p style="margin-left: 20px;"> 	                           
+          <strong>School Name:</strong> ANDRES BONIFACIO INTEGRATED SCHOOL</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> DOROTHY GRACE I. REYES</br>
+          <strong>School Team: </strong>
+          <ul>Markus Angelo N. Reginaldo<br/>
+             </ul></font></p></br></div>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          121.0340804
+          ,14.57793396
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PEOPLETOMEET</styleUrl>
+    </Placemark>
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Sanctum of the Monks
+      </name>
+      <description>
+        <![CDATA[<div align="center">  
+          <q>
+             <iframe src="http://www.youtube.com/embed/ifrl0fWWp7I" width='600' height='400' style='border: 0px; overflow: hidden;' scrolling='yes'></iframe></q></div>
+        
+          <div>
+			    <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon po saamin: May mga Monghe</br>
+              <strong>Location:</strong> Davao<br/>
+              <strong>Subtitle:</strong> The Power of Prayer</br>
+              <strong>Category:</strong> People to Meet</p></br>
+                <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">          
+
+              <strong>Summary: </strong> Doon Po sa Amin May Pamana ang mga Monghe is a documentary that features a farm cum prayer house in Bucana, Lasang.
+                                         It is a prayer house which was built and founded by a priest who went into hermitage years ago and left the place in the 
+                                         care of those who followed his footsteps.</p> </br>
+                  <p style="margin-left: 20px;"> 	
+                                    
+              <strong>School Name:</strong  > A.L. Navarro National High School</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Secondary</br>
+              <strong>Teacher Coach:</strong> Mrs. Trina C. Eleptico</br>
+              <strong>School Team: </strong>
+              <ul>    Trishia Joy Mortillero<br/>
+                      Nova Demeterio<br/>
+                      Ada Mae Reyes<br/>
+                      Rachelle Jane Belinario<br/>
+                      Josie Marie Shaira Maghari<br/>
+                      Nicky Lemuel Perez<br/>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.6673962
+          ,7.257566605
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PEOPLETOMEET</styleUrl>
+    </Placemark>
+
+
+
+
+    <Placemark >
+
+      <name>
+        A.L. Navarro National High School
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+             <iframe src="http://www.youtube.com/embed/Q6Y6QyZ7MB8" width='600' height='400' style='border: 0px; overflow: hidden;' scrolling='yes'></iframe></q></div>
+        
+          <div><br/><br/>
+			    <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon po sa amin may mga munting bayani</br>
+              <strong>Location:</strong> Davao<br/>
+              <strong>Subtitle:</strong> Honesty is still real</br>
+              <strong>Category:</strong> People to Meet</p></br>
+              <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">      
+              <strong>Summary: </strong> Doon Po sa Amin May Mga Munting Bayani is a documentary featuring two second year students of A.L. Navarro National High School
+                                         who exemplified honesty by returning the money they found in the school campus. The money wa intended to be donated by former 
+                                         Congressman Vincent Garcia of Davao City Second District.</p> </br>
+                  <p style="margin-left: 20px;"> 	
+        
+              <strong>School Name:</strong> A.L. Navarro National High School</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Secondary</br>
+              <strong>Teacher Coach:</strong> Lirio I. Laureano</br>
+              <strong>School Team: </strong>
+              <ul>    Dimple Joi Lauron<br/>
+                      Rebecca Suhayon<br/>
+                      Renelyn Ayod<br/>
+                      Mirasol Generale<br/>
+                      Rocy Cabanas<br/>
+                      Nieza Grace Laguna<br/>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.6655168
+          ,7.265123767
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PEOPLETOMEET</styleUrl>
+    </Placemark>
+
+
+    <Placemark >
+
+      <name>
+        DPSA-Mapayapa Ang Kalagan Sa Sirawa
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+       <iframe src='http://simplebooklet.com/embed.php?wpKey=AdRbY4xValigWEzLsRn1vI' width='750' height='706'></iframe></q>
+       
+       
+         <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/embed.php?wpKey=AdRbY4xValigWEzLsRn1vI"  target="_blank">HERE</a></Strong></h2></div>						
+     
+       
+       </div>
+          <div> <br/><br/>
+			    <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title: DPSA:  Mapayapa ang mga Kalagan sa Sirawan…. </strong></br>
+              <strong>Location:</strong> Davao<br/>
+              <strong>Subtitle:</strong> Getting to know the Kalagans in Sirawan</br>
+              <strong>Category:</strong> People to meet</p></br>
+                <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">          
+    
+              <strong>Summary: </strong> The Kalagans are Muslim people living in the barangay of Sirawan in the southern part of Davao City. They are
+                                         generally peace-loving people living in harmony with other groups in a Christian dominated community of the district
+                                         of Toril. Getting to know this Muslim group is a sure way of learning the Philippines’ rich cultural heritage and
+                                         history as they manifest rich Filipino values that every citizen in the country will be proud of.</br>
+                   <p style="margin-left: 20px;"> 	
+                                  
+                                         
+              <strong>School Name:</strong> Doña Carmen Denia National High School</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Secondary</br>
+			        <strong>Teacher Coach:</strong> Stephen Pascual</br>
+              <strong>School Team: </strong>
+              <ul>  Mimilanie Maboloc</br>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.4786973
+          ,6.990279295
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PEOPLETOMEET</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+    <Placemark>
+      <name>
+        Island and Sun Beach Resort
+
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="750" height="500" src="http://tagapagsalitadpsa.weebly.com/"></iframe></iframe><br/>
+        
+        
+        
+        <h2><Strong>To view the entire site, please click</Strong></h2><H2><Strong><a href="http://tagapagsalitadpsa.weebly.com/"  target="_blank">HERE</a></Strong></h2></div>						
+        
+        
+        
+        </div>
+        				
+                
+                
+                
+                   <div><br/><br />						
+			  <p style="margin-left: 20px;"><font face="tahoma" size="2">
+          <strong>Entry Title:</strong> Doon Po sa Amin:  Ang Tagapagsalita ng mga isda<br />						
+          <strong>Location:</strong> Cebu<br/>						
+          <strong>Subtitle:</strong>  A Man Who Talk with the Fish<br />						
+          <strong>Category:</strong> People to meet</p>						
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 		
+            This study is done intensively to introduce to the world our very own,Mr. Timoteo Kabaw Kabaw Menguito or also 
+            known as  Kuya Toti who is known for his unique ability to talk to fishes. He has this talent wherein he can 
+            directly communicate to fishes. At the same time, this study also introduces some fish sanctuaries here in the 
+            locality which is preserving some endangered marine life.
+          </p><br /> 						
+						
+          <p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Science and Technology Education Center High School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Maria Fe G. Decatoria<br />						
+          <strong>School Team:</strong>						
+          <ul>
+                Cleugene Cabanillas<BR/>
+                Chinju Yoon<BR/>
+                Montessa Despi<BR/>
+                Janita Regalado<BR/>
+                Mary Amora<BR/>
+                Arne Kilantang<BR/>
+                Mae Watin<BR/>
+                Ma. flordeliza Dela Cruz<BR/>
+                Luisa S. Tango-an<BR/>
+                Maria Fe G. Decatoria<BR/>
+          </ul></font></p><br /></div>								
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          123.990582
+
+
+          ,10.20488291
+
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PEOPLETOMEET</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+    <Placemark>
+      <name>
+        La Huerta Elem. School
+
+      </name>
+      <description>
+        <![CDATA[<div align="center">					
+        <iframe width="750" height="500" src="http://www.youtube.com/embed/3IRDH36sqM4" frameborder="0" allowfullscreen></iframe></iframe><br/>
+        
+        </div>
+        				
+                
+                
+                
+              <div><br/><br />						
+			  <p style="margin-left: 20px;"><font face="tahoma" size="2">
+          <strong>Entry Title:</strong> Doon Po Sa Amin, Ang mga Mamamayan ay Matulungin <br />						
+          <strong>Location:</strong> Parañaque<br/>						
+          <strong>Subtitle:</strong>  The Generosity of people of Parañaque<br />						
+          <strong>Category:</strong> People to meet</p></BR>						
+          <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 		
+         This documentary discussed about a teacher who had won a Gawad Geny Lopez Award. She was a teacher who worked beyond her 
+         call of duty and does voluntary teaching during weekends at ALS. In addition, this documentary discussed about her life, 
+         family background and why did she chose to be a teacher. In February 2012, Fe Matullano awarded as Bayaning Gurong Pilipino 
+         as part of ABS-CBN news network’s program to honor individuals who make extraordinary contributions to help others.
+
+          </p><br /> 						
+						
+          <p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Parañaque National High School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Rizza Daganasol<br />						
+          <strong>School Team:</strong>						
+          <ul>
+              Maximino E. Santos Jr. - Coach 2<BR/>
+              Leader: Khim Villamor<BR/>
+              Members:Aniza A. Abia<BR/>
+              Abegail Barcena<BR/>
+              Ivy Lyra M. Feranil<BR/>
+              Jazzleen S. Manalo<BR/>
+              Janny A. Tuazon<BR/>
+              Michael S. Lagmay<BR/>
+          </ul></font></p><br /></div>						
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          120.9931753
+
+          ,14.49839332
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PEOPLETOMEET</styleUrl>
+    </Placemark>
+
+
+  </Document>
+</kml>

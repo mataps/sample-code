@@ -1,0 +1,878 @@
+<?xml version='1.0' encoding='UTF-8'?>            
+<kml xmlns='http://www.opengis.net/kml/2.2'>            
+  <Document>            
+            
+                <Style id="style_ACTIVITIES">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/ACTIVITIES.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_FOODTOEAT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/FOODTOEAT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_HISTORY">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/HISTORY.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+  
+  
+    <Style id="style_PEOPLETOMEET">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PEOPLETOMEET.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+  
+  
+
+    <Style id="style_PLACESTOGO">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLACESTOGO.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PRODUCTS">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PRODUCTS.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_PLANTSANIMALSTODISCOVER">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLANTSANIMALSTODISCOVER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id='tabbed'>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<ul class="nm_tabnav">
+      <li class="nm_tab_current">Excerpt</li>
+      <li class="nm_tab">Combatants</li>
+      </ul><h2>$[name]</h2></BR>$[description]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+  
+
+  
+  <Placemark id="1">
+   <name>Acacia Trees, Tanay's Proud Wintess</name>
+   <description><![CDATA[<div align ="center">
+    <q>
+      <iframe width="420" height="315" src="//www.youtube.com/embed/eKCCthvnuZ8" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, May Mag-asawang Saksi<BR><BR/><strong>
+          Location: </strong>Rizal<BR><BR/><strong>
+          Category: </strong>Plants and Animals to Discover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Ilaya Elementary School<BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Primary<BR><BR/><strong>
+          Summary: </strong>Pupils of Ilaya Elementary School acted as agents unleashing the location of the secret code which happen to be the Acasia trees found in the church patio of San Ildefonso Parish Tanay Rizal. In their search for the secret location, they found out that these Acasia trees stood as silent witness of the development of Christianism, education, economic status of Tanay Rizal and simple activities such as weddings, christening, graduation, burial mass and even simple meet-ups with friends and loved ones that happened for the past generation.</br><BR>
+      <strong>Team Members: </strong>
+        <ul>
+          Margeux Adelia I. Alconis</br>
+          Jhaira Mae T. Zapanta </br>
+          Ma. Christa Pauleen L. Reyes </br>
+          Chris Adrian P. Jesuitas</br>
+          Jezaree Gale I. Zapanta</br>
+          Janzel Kate I. Galinato </br>
+          Angelika P. Enriquez </br>
+        </ul>
+      </div>]]></description>
+    <Point><coordinates>121.4276166,14.5964703,0</coordinates></Point>
+    <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+</Placemark>
+  
+  <Placemark id="2">
+   <name>Mouth-watering Tortured Fish</name>
+   <description><![CDATA[<div align ="center">
+    <q>
+      <iframe width="560" height="315" src="//www.youtube.com/embed/KwW7Air8JdA" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Masarap ang Pinarusahan<BR><BR/><strong>Location: </strong>Rizal<BR><BR/><strong>Category: </strong>Food to Eat</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Ilaya Elementary School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Primary<BR><BR/><strong>Summary: </strong>Doon Po Sa Amin, Masarap ang Pinarusahan is aall about small fish called "Ayunging Pino" and the process it had to go through before it is served and eaten. Ilaya Elementary School Students had a firsthand experience on how these delicious delicacy was prepared from sorting of the fish, "Pag-aasin", "Pagpapatuyo", "Pagtitindag" at "Pagluluto". The group of students ate these delicacy and tried on different condiments such as vingegar with chili, "atsara", champorado, and even salted egg with tomotoes. Nevertheless, it was a great experience and so much fun knowing the process of this kind of food that the town Tanay has to offer.</br></br>
+         <strong>Team Members: </strong>
+        <ul>
+          Noelle Abegail B. Dela Cruz </br>
+          Aizeyah I. Gonzales </br>
+          Alecks Marie M. Bernados </br>
+          Ecie Mae S. Reyta </br>
+          Lyka Rose J. Fajardo </br>
+          Ma. Christa Pauleen L. Reyes </br>
+          Jerra Marie B. Osio </br>
+          Odyssey R. Chualong
+
+        </ul>
+          </div>]]></description>
+    <Point><coordinates>125.0607623,6.2183642,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+  </Placemark>
+
+<Placemark id="3">
+   <name>Here in Butuan , Taste our Exotic Food, Coconut Worm</name>
+   <description><![CDATA[<div align ="center"><q><iframe src="//prezi.com/embed/p6j9-rkgpbru/?bgcolor=ffffff&lock_to_path=0&autoplay=0&autohide_ctrls=0&features=undefined&disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong> Doon Po Sa Amin, Yani Butuan, Lami Gid Hong Abatod <BR><BR/><strong>Location: </strong>Butuan<BR><BR/><strong>Category: </strong>Food to Eat</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Butuan-CES-Science and Technology Education Center<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Primary<BR><BR/><strong>Summary: </strong>The Coconut worm or known as “ABATOD” is a larvae that is found in a dead and rotten coconut tree. It is originated from Tropical Asia and continuously migrates to other continents. Butuan City, geographically located in the Philippines that lies in the northeastern part of CARAGA accepts the Abatod as one of it's exotic food . It is a tropical place that experiences fair weather and posses good fertile soil enables the Coconut plant to grow in this place. </br></br>
+ <strong>Team Members: </strong>
+        <ul>
+          Pauleanne B.  Nacario </br>
+          Caryl Kate R. Burias </br>
+          Estelie Marie Mutya </br>
+          Ellenita R. delos Santos </br>
+          Nicole T. Salubre </br>
+          Jade S. Ampong </br>
+          Hannah Keziah C. Ablin </br>
+          Mary Rose A. Villsaor"
+        </ul>
+ </div>]]></description>
+    <Point><coordinates>125.54591,8.89459,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+</Placemark>
+
+<Placemark id="4">
+   <name> Tinipak, A Mirror of Wonder </name>
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src="//www.youtube.com/embed/v2Y5znzNYbw" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong> Doon Po Sa Amin, Tinipak ang Kagandahan <BR><BR/><strong>Location: </strong>Rizal<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Ilaya Elementary School<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong>Doon Po Sa Amin Tinipak ang Kagandahan showcases the beauty of Tinipak River. Tinipak River is one of the frequently visited scene-tic spots located at Sitio Tinipak Brgy. Daraetan Tanay, Rizal. The group of students trekked the muddy and slippery trail just to get to Tinipak. They travel 1 and half hour to Daraetan and trekked again for 1 hour. Tinapak River is surrounded with big and white marble rocks. Even though the trekking on those trail was hard, the magnificent views and beauty of nature compensated it.</br><BR>
+<strong>Team Members: </strong>
+        <ul>
+          Daniela T. Carreon </br>
+          Janelle Maxine I. Galinato </br>
+          Jhaira Mae T. Zapanta </br>
+          Ma. Christa Pauleen L. Reyes </br>
+          Marvin T. Casapangra </br>
+          Chris Adrian P. Jesuitas </br>
+          Michael Fajardo"
+
+        </ul>
+ </div>]]></description>
+    <Point><coordinates>121.4276166,14.5964703,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+<Placemark id="5">
+   <name> “Special World” </name>
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src="//www.youtube.com/embed/OF6isk4sEvQ" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Pasukin ang Mundong Espesyal<BR><BR/><strong>Location: </strong>Rizal<BR><BR/><strong>Category: </strong>People to meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Ilaya Elementary School<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong>Doon Po Sa Amin Pasukin Natin ang Mundong Espesyal is all about the abilities of the Special Education pupils of Ilaya Elementary School amidst these childrens' disabilities they were able to do tasks not expected of them such as chores, singing, dancing, cooking and many more. This entry also tells stories about these special children and also how the SpEd teachers manage them and the perspectives of them and also the parent as narrated by the students of the group.</br><BR><BR/>
+<strong>Team Members: </strong>
+        <ul>
+            Jhaira Mae T. Zapanta </br>
+            Mikylla L. Paulican </br>
+            Psalm Zeporah P. Fausto </br>
+            Crisalyn Tanjuatco </br>
+            Ecie Mae S. Reyta </br>
+            Jezaree Gale I. Zapanta </br>
+            Vince A. Gaspar </br>
+            Priscilla I. Miranda </br>
+            Trinidad B. Estrella </br>
+
+
+        </ul>
+ </div>]]></description>
+    <Point><coordinates>121.4276166,14.5964703,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+
+<Placemark id="6">
+   <name>Kapatagan, a relaxing place </name>
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src="//www.youtube.com/embed/MVHIRu3c02o" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong> Doon Po Sa Amin, Dali Suroy Ta Og Magpaharuhay<BR><BR/><strong>Location: </strong> Davao del Sur <BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>San Roque Central Elementary School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Primary<BR><BR/><strong>Summary: </strong>The highland valley of Kapatagan in Davao del Sur has recently become one of the most popular outdoor adventure destinations because of the many unique wonders and delightful sights to see and experience - a truly different kind of adventure anyone can enjoy; a perfect quiet respite from the noise of city life. There are a number of popular destinations in Kapatagan which in recent years have brought much tourism and economy in Davao del Sur. These are: Mount Apo, Camp Sabros, Mount Apo Highland Resort (now called Camp@tagan Lake Mirror and Hillside), Kublai Art Garden, a Tibolo Village, and the famous Virgin Falls.</br><BR>
+   <strong>Team Members: </strong>
+        <ul>
+            Danilo Loma </br>
+            Christian Emmanuel Cabilona </br>
+            John Resna Q. Dolendo </br>
+            Alliya Kim Panes </br>
+            Phannee Jane Payot </br>
+            Kaye E. Semilla </br>
+            Ivan Ridge A. Arbizo" 
+
+
+        </ul>
+ </div>]]></description>
+    <Point><coordinates>125.2490166,6.8641238,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+<Placemark id="7">
+   <name>Davao Crocodile Park, Livable Place for Animals </name>
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src="//www.youtube.com/embed/OeEMTixy4gY?rel=0" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong> Doon Po Sa Amin, Bilinhong Puy-anan sa Kahayopan Giapsidunggan <BR><BR/><strong>Location: </strong>Davao City<BR><BR/><strong>Category: </strong>Place to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>San Roque Central Elementary School<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong>The Davao Crocodile Park is a major tourist destination located at the Riverfront, Corporate City Diversion Highway, Ma-a, Davao City, and is about 15 to 30 minutes from downtown of the City. The Park provide entertainment to visitors and also it serves as a venue for educational tours, lectures for public awareness, field laboratory for students as well as for wildlife animal enthusiasts, and conservation of crocodiles and other wildlife animals.However, the Park is not a full-pledged zoo for crocodiles, it features other exotic animal species such as raptors, monkeys, bearcats, snakes, birds, and various reptiles.</br><BR>
+<strong>Team Members: </strong>
+        <ul>
+            Ace Angelo E. Barlobento </br>
+            Daniella Veronica C.Dy </br>
+            Ellaine Ross Frances Hernandez </br>
+            Barry S. Badilla </br>
+            Veronica Princess Cañeda </br>
+            Alexis Van Jamisola </br>
+            Gezell Saskia Zulieta"
+
+        </ul>
+ </div>]]></description>
+    <Point><coordinates>125.61101,7.06568,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+<Placemark id="8">
+   <name> Balanghayan Grow A Million Tree Project</name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+        <iframe src="//prezi.com/embed/jfce1h3-giio/?bgcolor=ffffff&lock_to_path=0&autoplay=0&autohide_ctrls=0&features=undefined&disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"> <strong>Entry Title: </strong>Doon Po Sa Amin, Ngani Butuan , Daghang Punoan, Ampay sa Kiniyahan <BR><BR/><strong>Location: </strong>Butuan<BR><BR/><strong>
+          Category: </strong>Activities to Enjoy</p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Butuan CES - Science and Technology Education Center<BR><BR/><strong>
+          School Type: </strong>Private<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+          Balanghayan Grow A Million Tree Project” of the City Mayor Ferdinand M. Amante Jr. A government priority project to reduce poverty, environmental stability ,promote food security and stop global warming . It is a tree conversion project that aims to reduce the vulnerability of Butuan City to natural disaster .This In support of the national government’s efforts in mitigating the impact of climate change through the “Billion Trees Project” of President Benigno S. Aquino III. Be ready for the challenge. So, lets plant trees for our future.
+        </br><BR>
+        <strong>Team Members: </strong>
+        <ul>
+            Anna Meriam Dancy Naranjo</br>
+            Hannah Trisha Cena </br>
+            Missy  Angel  Angulo </br>
+            Yna Marie Sanez </br>
+            Carl Zendy  Malagar </br>
+            Christian d. Asilo </br>
+            Tirsha Palma </br>
+            Lianna Alissandra  Caponpon"
+
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>125.54591,8.89459,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+<Placemark id="9">
+   <name> The Naga City Resto's Serving Good Food Through Generations </name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+       <iframe src="//prezi.com/embed/ozgpykk9v6h_/?bgcolor=ffffff&lock_to_path=0&autoplay=0&autohide_ctrls=0&features=undefined&disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, An Mga Sikat Na Kakanan, Dinudumog Sagkod Pa Man<BR><BR/><strong>
+           Location: </strong>Naga City<BR><BR/><strong>
+          Category: </strong>Food to Eat </p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Naga Central School 1
+          <BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Primary<BR><BR/><strong>
+          Summary: </strong>
+          Naga City is the place where you will find everything that you crave for. We always have a version of what is being served nationwide yet the taste is as competetive with the rest. There are alot of Fast Food Chains arising in the country or in the city, but thses restaurants are undeniably unbeatable. It stood up through the test of time. Their humble beginnings and their success inspired the Nagueños to never stop believing in our dreams. It is our pride and honor to have the opportunity to let the world know that our city is the home of the best restaurants which serve good food through generations.
+
+        </br></br>
+        <strong>Team Members: </strong>
+        <ul>
+            Nicole Gaw </br>
+            Iris Oresca</br>
+            Helena Secillano</br>
+            Peter Aurellano</br>
+            Hert Jillian Dela Torre</br>
+            Rosalina Acabado</br>
+            Julliane Alanis</br>
+            Rey Obligacion</br>
+            Joseph Avila
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>123.18744,13.62776,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+</Placemark>
+
+
+<Placemark id="10">
+   <name> The Hidden Life and Adventures in Mount Isarog </name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+        <iframe src="//prezi.com/embed/cjmdhou63v0u/" width="550" height="400" frameBorder="0"></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, An Aktibong Bulkan, Pakinabang sa Banwaan<BR><BR/><strong>
+           Location: </strong>Camarines Sur<BR><BR/><strong>
+          Category: </strong>Places to Go </p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Naga Central School 1
+          <BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Primary<BR><BR/><strong>
+          Summary: </strong>
+          Naga City is the place where you will find everything that you crave for. We always have a version of what is being served nationwide yet the taste is as competetive with the rest. There are alot of Fast Food Chains arising in the country or in the city, but thses restaurants are undeniably unbeatable. It stood up through the test of time. Their humble beginnings and their success inspired the Nagueños to never stop believing in our dreams. It is our pride and honor to have the opportunity to let the world know that our city is the home of the best restaurants which serve good food through generations.
+        
+        </br></br>
+         <strong>Team Members: </strong>
+        <ul>
+            Vina Aurellano </br>
+            Gabriel San Joaquin</br>
+            Hert Jillian Dela Torre</br></br>
+            Nicole Gaw</br>
+            Josef Ian Villarey</br>
+            Michael Benito</br>
+            Dawn C. Obligacion
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>121.0190156,14.5169351,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="11">
+   <name> Philippine Air Force Aerospace Museum is Trending </name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+       <iframe width="560" height="315" src="//www.youtube.com/embed/8osKgF8_Y00" frameborder="0" allowfullscreen></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Museong Panghimpapawid ay In na In<BR><BR/><strong>
+           Location: </strong>Pasay City<BR><BR/><strong>
+          Category: </strong>Places to Go </p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Kalayaan National High School
+          <BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+          Our very own Philippine Air force Aerospace Museum located at Col. Jesus Villamor Air Base, Pasay began to provide entertainment, leisure and amusement to students and teachers as well as to other people in the community in 1974. The museum is considered to be educational in bringing nostalgic knowledge manifested in the displayed numerous artifacts, paraphernalia, and several wartime memorabilia. Real fighter jets, presidential planes and helicopters would fly anyone back to the yesteryears when the world was at war. Philippine Air force Aerospace Museum functions not only as a museum but also as a venue for eventful occasions such as weddings, baptismal, birthdays and symposia. One corner of the museum is for intellectual purposes for those who are enthusiastic to learn aviation technology. Amazingly, Philippine Air force Aerospace Museum is a place to gather one’s spirit of the historic World War II, a nightmare which we pray won’t happen again.
+        </br></br>
+         <strong>Team Members: </strong>
+        <ul>
+          Rocel R. Lazaro</br>
+          Carl Bryan Biñas</br>
+          Haide Grace Zafico</br>
+          Sean Russell Estrella</br>
+          Carnette Grace Hernandez</br>
+          Emerson Enriquez</br>
+          Lorena Viktoria Santiago</br>
+          Lani G. Deguia</br>
+          Jacqueline D. Reyes
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>121.0190156,14.5169351,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="12">
+   <name> National Spots on Local Maps: CamSur </name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+      <iframe src="//prezi.com/embed/wyuaihlsw4h3/?bgcolor=ffffff&lock_to_path=0&autoplay=0&autohide_ctrls=0&features=undefined&disabled_features=undefined" width="600" height="400" frameBorder="0"></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, May Mga Kalocal-likes<BR><BR/><strong>
+           Location: </strong>Camarines Sur<BR><BR/><strong>
+          Category: </strong>Places to go </p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Naga City Science High School
+          <BR><BR/><strong>
+          School Type: </strong>Private<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+         Why would one spend a huge sum of money to afford a vacationing experience anywhere else in the land when there are different remarkable spots and even more found in just one place? Take CamSur. Our entry features some local destinations in Camarines Sur resembling places and spots around the country for which they have been known or were made famous. If Boracay has its pristine waters and white sands, and Palawan its limestone formations, CamSur has its comparable natural wonders in Caramoan. Thus, our entry is titled Doon Po Sa Amin: May Mga Kalocal-likes (subtitled National Spots on Local Maps: CamSur). With different activities and breathtaking views to enjoy in the province, to say that one can never be bored is not an exaggeration! So, San ka pa? CamSur na! (Where else would you rather be? Experience CamSur!)
+        </br></br>
+        <strong>Team Members: </strong>
+        <ul>
+          Jayson Gil Mariano </br>
+          Nem Alec Savilla </br>
+          Reymond Ian Morata </br>
+          Arrem Christian Jusi </br>
+          Kiara Loiuse Baliwag </br>
+          Stephanie Anne Canabe </br>
+          Ma. Theresa Ipo </br>
+          Jose Maria Emmanuelle Manaog </br>
+          Joretze Carandang
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>123.0635794,13.757461,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="13">
+   <name> A Journey Back to Naga </name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+      <iframe width="640" height="360" src="//www.youtube.com/embed/fj025un3QSY" frameborder="0" allowfullscreen></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Pirang Taon Man An Nag-Agi Historia Kan Naga Dai Mapahuri<BR><BR/><strong>
+           Location: </strong>Naga City, Camarines Sur<BR><BR/><strong>
+          Category: </strong>History to Uncover </p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Naga City Science High School
+          <BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+          Naga City is one of the flourishing cities in the country. But behind its triumph is a history that greatly helped the place to achieve everything it has today. What preserved its history includes the old churches, long-standing institutions, and other time-honored edifices. These show that no matter how long it has been, the heritage that our ancestors had lived by is still with the Nagueños today. These structures also epitomize qualities that we have, being religious, exalting bravery and camaraderie and valuing education as well.
+
+        </br></br>
+        <strong>Team Members: </strong>
+        <ul>
+          Hazel France B. Doblon</br>
+          Vinni bon L. Macandog</br>
+          Samantha Nicloe L. Fullante</br>
+          Maria Anne San Andres</br>
+          Jullie Angela E. VitoCurz</br>
+          Jayzelyn B. Esguerra</br>
+          Hanz Kristien P. Arga</br>
+          Jeheil Angelica Mari C. Cea</br>
+          Nelia F. Hernandez"
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>123.1841064,13.6210491,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+<Placemark id="14">
+   <name> A Crunchy Product Helps the Communtiy a Lot </name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+      <iframe src='//simplebooklet.com/embed.php?wpKey=7wAatBzNVOQLVj4V8chMEE&source=embed' width='580' height='402' style='border: 0px; overflow: hidden;' scrolling='no'></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Sa Produktong Malutong, Buong Bayan Aahon<BR><BR/><strong>
+           Location: </strong>Camaligan, Camarines Sur<BR><BR/><strong>
+          Category: </strong>Community Products to Support </p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Naga City Science High School
+          <BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+          Our entry is all about how Chicharon helps the community of Dugcal, Camaligan Camarines Sur in their everyday living. It showcases the main ingredients of the success of every family in the barangay. We also want to inspire other communities and aspiring businessmen by our research. Everything has its own history and beginning; everything happens for a good reason as long as it is combined with perseverance and patience. With this idea, we decided to start with the origin of the product, Chicharon. We also cited the ingredients and the process of making this product to state some facts that will make our presentation informative. We also believe to the determination and perseverance showed by every resident of Dugcal. This statement has been proven by the barangay officials of the community, confirmed in the interviews taken. The team's experience in the united community is the reason why this entry happened.
+
+        </br>
+        </br>
+        <strong>Team Members: </strong>
+        <ul>
+          James Lemuel Mallapre</br>
+          Ysabel Owen San Joaquin</br>
+          Ben Francis De Lima</br>
+          Bianca Cledera</br>
+          Fea Purita Fortuna</br>
+          Kathleen Alexis Llorente</br>
+          Therese Elaine Lomeda</br>
+          Marian Flor Osio
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>123.16255,13.62198,0</coordinates></Point>
+    <styleUrl>#style_PRODUCTS</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="15">
+   <name> Exotic Sea Foods Worth A Pride </name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+      <iframe width="560" height="315" src="//www.youtube.com/embed/RAnknR84PII" frameborder="0" allowfullscreen></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Ngadi sa Barobo, Pagkaon Among Ipasigarbo<BR><BR/><strong>
+           Location: </strong>Camaligan, Camarines Sur<BR><BR/><strong>
+          Category: </strong>Food to Eat </p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Barobo, Surigao del Sur
+          <BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+         Barobo, being located along the shoreline of the province of Surigao del Sur is blessed with vast and abundant marine waters. Its marine products are one of the major livelihood of the people. This music video is one of the official entries of Barobo National High School to the Doon Po Sa Amin Learning Challenge-Year 6. This features and promotes the distinct appearance and taste of the sea food products of the municipality of Barobo. The music also entails how the people of Barobo value the gifts of nature worth to be proud of.
+
+         </br>
+        </br>
+        <strong>Team Members: </strong>
+        <ul>
+           Liza M. Guingguing </br>
+            Rassemy JB U. Adlawan </br> 
+            Shaira U. Ronquillo </br>
+            Ramdel Dianne M. Lumapas </br>
+            Keith Martinote </br>
+            Eric John Auguis </br>
+            Jansen Ferrer </br>
+            Queenilyn Lopez </br>
+            Princess Joy Martinote </br>
+            Judy Ann F. Yurong
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>126.12078,8.52131,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+</Placemark>
+
+<Placemark id="16">
+   <name>The Smiling Earthworm </name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+      <iframe width="560" height="315" src="//www.youtube.com/embed/dgKmFX6iGaE" frameborder="0" allowfullscreen></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"> <strong>Entry Title: </strong>Doon Po Sa Amin, Ngumingiti ang Bulati<BR><BR/><strong>
+           Location: </strong>Poblacion Tagbina, Surigao del Sur<BR><BR/><strong>
+          Category: </strong>Plants and Animals to Discover </p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Barobo National High School
+          <BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+          The DPSA Learning Challenge Year 6 “Ngumingiti ang Bulati” team of Barobo NHS covers the story of the characteristics of the earthworm called African Night Crawler. Study says that earthworm plays a great part in our ecosystem. This parasite named bulati in Filipino term, gives us the most warming smile on how this little creature help our garden crops and the field of growing vegetables of our farmers. This trifling monster contributes a huge impact in our agricultural productivity which mostly use as an organic enricher to vegetation and bait by our fishermen. These worms consumed waste that may benefit to produce cast and tea for faster growing condition and fresh looking harvests in our tables. Earthworm is likely indeed our friendly green hero for brighter, healthier and lengthier life.
+        </br>
+        </br>
+        <strong>Team Members: </strong>
+        <ul>
+          Shaira U. Ronquillo</br>
+          Jemaica Tejada</br>
+          Melky Tumanda</br>
+          Floramie Hamodiong</br>
+          Edjane Abong</br>
+          Justitia Roma Espera</br>
+          Cathlyn Ranario</br>
+          Ramdel Dianne Lumapas</br>
+          Ronmar Angelo Lim
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>126.12078,8.52131,0</coordinates></Point>
+    <styleUrl>#style_PLANTSANIMALSTODISCOVER</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="17">
+   <name>Reaping the Rewards of Cacao in Alfonso, Cavite</name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+      <iframe width="560" height="315" src="//prezi.com/embed/uohzxejsx1zf/" frameborder="0" allowfullscreen></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Kayumanggi ang Kulay ng Ginto<BR><BR/><strong>
+           Location: </strong>Alfonso, Cavite<BR><BR/><strong>
+          Category: </strong>Community Products to Support </p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Cavite National Science High School
+          <BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+          One of the crops Philippines has too offer is cacao. Cocoa tablets are mostly enjoyed through chocolate drink or “champorado”. It does not only satisfy the craving of some, but it is also one of the main sources of livelihood of Alfonso farmers. This entry titled “Doon Po Sa Amin: Kayumanggi ang Kulay ng Ginto” aims to promote the cacao cocoa products as another major products of Cavite to support through the an online presentation. The contents in the said community map, the images and videos used, were edited using Adobe Photoshop CS5, Paint tool SAI and Adobe Premiere Pro CC respectively. All information gathered were from the interviews to the Local Department of Agriculture head Ms. Erni, Tablea de Cacao Producer’s Cooperative head manager Mr. Pablito Tonua, Delfa’s Delicacies employee Ms. Maligaya, and the Delfa’s Delicacies owner Mrs. Nuestro were the people interviewed.
+
+        </br>
+        </br>
+        <strong>Team Members: </strong>
+        <ul>
+          Kimberly Nicole Ilagan </br>
+          Sheila Marie Martinez </br>
+          Camille Grace Loyola </br>
+          Jemmena Anne Bacolod </br>
+          Katherine Anne del Rosario </br>
+          Khyleri Gancayco </br>
+          Justine James Ledesma </br>
+          Wrgyl Reyes
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>120.8817784,14.087574,0</coordinates></Point>
+    <styleUrl>#style_PRODUCTS</styleUrl>
+</Placemark>
+
+
+<Placemark id="18">
+   <name>Feisty Foods in Bicol</name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+      <iframe src="//prezi.com/embed/b99c0197a56aa1f0950e265134028b90558bf9fd/?bgcolor=ffffff&lock_to_path=1&autoplay=0&autohide_ctrls=0&features=undefined&disabled_features=undefined" width="600" height="400"></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Pati Kakanon Oragon<BR><BR/><strong>
+           Location: </strong>Bicol Region<BR><BR/><strong>
+          Category: </strong>Food to Eat</p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Naga City Science High School
+          <BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+          This team’s got news for you – literally! Tune in as one of Naga City Science High School’s teams embark on a gastronomical journey to uncover some of Bicolandia’s tastiest and most scrumptious dishes and delicacies. Watch, taste and learn for this presentation is guaranteed to leave your mouths watering and hing for more. This is an official entry of Naga City Science High School for the Doon Po Sa Amin Online Community Mapping Competition entitled “Doon Po Sa Amin: Pati Kakanon, Oragon (Feisty Foods in Bicol)” under the “Food to Eat” category.
+
+        </br></br>
+         <strong>Team Members: </strong>
+        <ul>
+          Alicia C. Naag</br>
+          Carl Andre B. Bongalos</br>
+          Anna A. Alberto</br>
+          Ma. Jemimah May S. Midel</br>
+          Verge Andrew E. Miraña</br>
+          Maria Angelica H. Betito</br>
+          Neal Emerson E. Legacion</br>
+          Yna Mari DC. Ojeda</br>
+          Ina Francesca C. Caramoan
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>123.1965504,13.6311939,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+</Placemark>
+
+<Placemark id="19">
+   <name>Activities to Enjoy in Mabini Plaza</name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+      <iframe width="560" height="315" src="//www.youtube.com/embed/os0dA5AkuHE" frameborder="0" allowfullscreen></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"> <strong>Entry Title: </strong>Doon Po Sa Amin, Si Mabini Busog sa Tingin!<BR><BR/><strong>
+           Location: </strong>Batangas City<BR><BR/><strong>
+          Category: </strong>Activities to Enjoy</p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Sovereign Shepherd School of Values and Learning
+          <BR><BR/><strong>
+          School Type: </strong>Private<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+          Plaza Mabini is a public park situated at the heart of Batangas City. You will be surprised with all the great "Activities to Enjoy" here and discover what this wonderful park has to offer for all ages from sunrise and even after sunset! Be filled with awe as how it caters the Batangueños with their basic needs and simple wants.From morning exercise to animated displays and lot's of mouth-watering foods to choose from - the Mabini Plaza is definitely a place to go for! So, come and experience Plaza Mabini! :)
+
+           </br>
+        </br>
+       <strong>Team Members: </strong>
+        <ul>
+        Johnson Ralph Perez</br>
+        Matthew Culiat</br>
+        John Alexis Tolentino</br>
+        Cedric Peterson Miraflor</br>
+        Renniel Maala</br>
+        Jan Ivan De Castro</br>
+        Jovi Nerius Fortu
+
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>121.05709,13.76229,0</coordinates></Point>
+    <styleUrl>#style_ACTIVITIES</styleUrl>
+</Placemark>
+
+<Placemark id="20">
+   <name>El Nido, The Last Paradise</name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+      <iframe width="560" height="315" src="//www.youtube.com/embed/kvWNB-lOjl4" frameborder="0" allowfullscreen></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"> <strong>Entry Title: </strong>Doon Po Sa Amin, Bayan ng El Nido, Tinaguriang Huling Paraiso<BR><BR/><strong>
+           Location: </strong>Puerto Prinsesa City, Palawan<BR><BR/><strong>
+          Category: </strong>Places to Go</p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Palawan National School
+          <BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+         El Nido, the "last paradise", is located in the northern part of the "last ecological frontier", the province of Palawan. The town, a haven for 888 species of fish, 16 endemic species of birds and other flora and fauna. With its 45 islands and islets, 52 beaches, towering limestone cliffs, white sand and pristine beaches, the town is a very much willing host to foreign and international shows and films. They say it looks like Phuket or Halong, for us we simply call it HOME!
+        </br></br>
+       <strong>Team Members: </strong>
+        <ul>
+          Hannah Bacosa</br>
+          May Joyce Baluyut</br>
+          Adam San Juan</br>
+          Karl Jarre Buyante </br>
+          Ferdz Adrian Tolentino</br>
+          Johnnito Gara Peradilla
+
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>118.744278,9.7399998,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+</Document></kml>
+

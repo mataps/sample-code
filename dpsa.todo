@@ -1,0 +1,36 @@
+Index:
+  ✔ is now closed @done (14-01-08 12:05)
+  ✔ announcement links @done (14-01-08 12:21)
+
+News:
+ ✔ image preview link - news @done (14-01-08 12:23)
+ ✔ recent events links(widget) - news @done (14-01-09 17:23)
+ ✔ event listing links - news @done (14-01-08 13:49)
+ ✔ skip 5 in event listing - news @done (14-01-09 17:23)
+
+Events:
+ ✔ image preview link - events @done (14-01-08 13:57)
+ ✔ recent events links(widget) - events @done (14-01-09 17:23)
+ ✔ event listing links - events @done (14-01-08 13:59)
+ ✔ skip 5 in event listing - events @done (14-01-09 17:23)
+
+Contest:
+ ☐ heremaps modal - contest
+ ✔ reorder tabs (mechanics, faq, announcements, register) - contest @done (14-01-08 14:31)
+ ✔ embed registration form - contest @done (14-01-08 14:46)
+ ✔ list of announcements - contest @done (14-01-09 17:23)
+
+All:
+ ✔ advance search including content - all @done (14-01-09 01:04)
+ ✔ share counter - all @done (14-01-09 07:09)
+ ✔ share widget @done (14-01-10 19:20)
+ ☐ discuss counter - al
+ ☐ most discussed widget
+ ☐ review discuss design - all
+
+Backend:
+ ☐ image uploader bug - backend
+ ☐ dashboard
+ ☐ settings
+ ☐ featured
+ ☐ ability to set featured image - backend

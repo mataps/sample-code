@@ -1,0 +1,409 @@
+<?xml version='1.0' encoding='UTF-8'?>            
+<kml xmlns='http://www.opengis.net/kml/2.2'>            
+  <Document>            
+            
+                <Style id="style_ACTIVITIES">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/ACTIVITIES.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_FOODTOEAT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/FOODTOEAT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_HISTORY">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/HISTORY.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+  
+  
+    <Style id="style_PEOPLETOMEET">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PEOPLETOMEET.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+  
+  
+
+    <Style id="style_PLACESTOGO">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLACESTOGO.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PRODUCTS">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PRODUCTS.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_PLANTSANIMALSTODISCOVER">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLANTSANIMALSTODISCOVER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id='tabbed'>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<ul class="nm_tabnav">
+      <li class="nm_tab_current">Excerpt</li>
+      <li class="nm_tab">Combatants</li>
+      </ul><h2>$[name]</h2></BR>$[description]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+  
+
+  <Placemark id="2">
+   <name>Mouth-watering Tortured Fish</name>
+   <description><![CDATA[<div align ="center">
+    <q>
+      <iframe width="560" height="315" src="//www.youtube.com/embed/KwW7Air8JdA" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Masarap ang Pinarusahan<BR><BR/><strong>Location: </strong>Rizal<BR><BR/><strong>Category: </strong>Food to Eat</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Ilaya Elementary School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Primary<BR><BR/><strong>Summary: </strong>Doon Po Sa Amin, Masarap ang Pinarusahan is aall about small fish called "Ayunging Pino" and the process it had to go through before it is served and eaten. Ilaya Elementary School Students had a firsthand experience on how these delicious delicacy was prepared from sorting of the fish, "Pag-aasin", "Pagpapatuyo", "Pagtitindag" at "Pagluluto". The group of students ate these delicacy and tried on different condiments such as vingegar with chili, "atsara", champorado, and even salted egg with tomotoes. Nevertheless, it was a great experience and so much fun knowing the process of this kind of food that the town Tanay has to offer.</br></br>
+         <strong>Team Members: </strong>
+        <ul>
+          Noelle Abegail B. Dela Cruz </br>
+          Aizeyah I. Gonzales </br>
+          Alecks Marie M. Bernados </br>
+          Ecie Mae S. Reyta </br>
+          Lyka Rose J. Fajardo </br>
+          Ma. Christa Pauleen L. Reyes </br>
+          Jerra Marie B. Osio </br>
+          Odyssey R. Chualong
+
+        </ul>
+          </div>]]></description>
+    <Point><coordinates>125.0607623,6.2183642,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+  </Placemark>
+
+
+  <Placemark id="3">
+   <name>Here in Butuan , Taste our Exotic Food, Coconut Worm</name>
+   <description><![CDATA[<div align ="center"><q><iframe src="//prezi.com/embed/p6j9-rkgpbru/?bgcolor=ffffff&lock_to_path=0&autoplay=0&autohide_ctrls=0&features=undefined&disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong> Doon Po Sa Amin, Yani Butuan, Lami Gid Hong Abatod <BR><BR/><strong>Location: </strong>Butuan<BR><BR/><strong>Category: </strong>Food to Eat</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Butuan-CES-Science and Technology Education Center<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Primary<BR><BR/><strong>Summary: </strong>The Coconut worm or known as “ABATOD” is a larvae that is found in a dead and rotten coconut tree. It is originated from Tropical Asia and continuously migrates to other continents. Butuan City, geographically located in the Philippines that lies in the northeastern part of CARAGA accepts the Abatod as one of it's exotic food . It is a tropical place that experiences fair weather and posses good fertile soil enables the Coconut plant to grow in this place. </br></br>
+ <strong>Team Members: </strong>
+        <ul>
+          Pauleanne B.  Nacario </br>
+          Caryl Kate R. Burias </br>
+          Estelie Marie Mutya </br>
+          Ellenita R. delos Santos </br>
+          Nicole T. Salubre </br>
+          Jade S. Ampong </br>
+          Hannah Keziah C. Ablin </br>
+          Mary Rose A. Villsaor"
+        </ul>
+ </div>]]></description>
+    <Point><coordinates>125.54591,8.89459,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+</Placemark>
+
+
+<Placemark id="9">
+   <name> The Naga City Resto's Serving Good Food Through Generations </name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+       <iframe src="//prezi.com/embed/ozgpykk9v6h_/?bgcolor=ffffff&lock_to_path=0&autoplay=0&autohide_ctrls=0&features=undefined&disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, An Mga Sikat Na Kakanan, Dinudumog Sagkod Pa Man<BR><BR/><strong>
+           Location: </strong>Naga City<BR><BR/><strong>
+          Category: </strong>Food to Eat </p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Naga Central School 1
+          <BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Primary<BR><BR/><strong>
+          Summary: </strong>
+          Naga City is the place where you will find everything that you crave for. We always have a version of what is being served nationwide yet the taste is as competetive with the rest. There are alot of Fast Food Chains arising in the country or in the city, but thses restaurants are undeniably unbeatable. It stood up through the test of time. Their humble beginnings and their success inspired the Nagueños to never stop believing in our dreams. It is our pride and honor to have the opportunity to let the world know that our city is the home of the best restaurants which serve good food through generations.
+
+        </br></br>
+        <strong>Team Members: </strong>
+        <ul>
+            Nicole Gaw </br>
+            Iris Oresca</br>
+            Helena Secillano</br>
+            Peter Aurellano</br>
+            Hert Jillian Dela Torre</br>
+            Rosalina Acabado</br>
+            Julliane Alanis</br>
+            Rey Obligacion</br>
+            Joseph Avila
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>123.18744,13.62776,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+</Placemark>
+
+
+<Placemark id="15">
+   <name> Exotic Sea Foods Worth A Pride </name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+      <iframe width="560" height="315" src="//www.youtube.com/embed/RAnknR84PII" frameborder="0" allowfullscreen></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Ngadi sa Barobo, Pagkaon Among Ipasigarbo<BR><BR/><strong>
+           Location: </strong>Camaligan, Camarines Sur<BR><BR/><strong>
+          Category: </strong>Food to Eat </p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Barobo, Surigao del Sur
+          <BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+         Barobo, being located along the shoreline of the province of Surigao del Sur is blessed with vast and abundant marine waters. Its marine products are one of the major livelihood of the people. This music video is one of the official entries of Barobo National High School to the Doon Po Sa Amin Learning Challenge-Year 6. This features and promotes the distinct appearance and taste of the sea food products of the municipality of Barobo. The music also entails how the people of Barobo value the gifts of nature worth to be proud of.
+
+         </br>
+        </br>
+        <strong>Team Members: </strong>
+        <ul>
+           Liza M. Guingguing </br>
+            Rassemy JB U. Adlawan </br> 
+            Shaira U. Ronquillo </br>
+            Ramdel Dianne M. Lumapas </br>
+            Keith Martinote </br>
+            Eric John Auguis </br>
+            Jansen Ferrer </br>
+            Queenilyn Lopez </br>
+            Princess Joy Martinote </br>
+            Judy Ann F. Yurong
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>126.12078,8.52131,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="18">
+   <name>Feisty Foods in Bicol</name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+      <iframe src="//prezi.com/embed/b99c0197a56aa1f0950e265134028b90558bf9fd/?bgcolor=ffffff&lock_to_path=1&autoplay=0&autohide_ctrls=0&features=undefined&disabled_features=undefined" width="600" height="400"></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Pati Kakanon Oragon<BR><BR/><strong>
+           Location: </strong>Bicol Region<BR><BR/><strong>
+          Category: </strong>Food to Eat</p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Naga City Science High School
+          <BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+          This team’s got news for you – literally! Tune in as one of Naga City Science High School’s teams embark on a gastronomical journey to uncover some of Bicolandia’s tastiest and most scrumptious dishes and delicacies. Watch, taste and learn for this presentation is guaranteed to leave your mouths watering and hing for more. This is an official entry of Naga City Science High School for the Doon Po Sa Amin Online Community Mapping Competition entitled “Doon Po Sa Amin: Pati Kakanon, Oragon (Feisty Foods in Bicol)” under the “Food to Eat” category.
+
+        </br></br>
+         <strong>Team Members: </strong>
+        <ul>
+          Alicia C. Naag</br>
+          Carl Andre B. Bongalos</br>
+          Anna A. Alberto</br>
+          Ma. Jemimah May S. Midel</br>
+          Verge Andrew E. Miraña</br>
+          Maria Angelica H. Betito</br>
+          Neal Emerson E. Legacion</br>
+          Yna Mari DC. Ojeda</br>
+          Ina Francesca C. Caramoan
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>123.1965504,13.6311939,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+</Placemark>
+
+
+<Placemark id="11 ">
+   <name>Let's Savor Cavite Cuisine</name>
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src=https://www.youtube.com/embed/-E3854SQrJQ frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Ating Lasapin Cavitenong Pagkain<BR><BR/><strong>Location: </strong>Cavite City<BR><BR/><strong>Category: </strong>Food to Eat</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">"The way to a man&#8217;s heart is through his stomach.&#8221; That&#8217;s why many  people love Cavite city, for it offers the finest cuisine that one could ever  wish to have. Cavitenos&#8217; undisputed &#8220;cooking magic&#8221; were passed on from  generation to generation. It gives us the fresh taste that would make us  come back to Cavite city over and over again. This music video mixes up different  recipes &#8220;cooked&#8221; by the city itself to entice everyone&#8217;s taste buds, a presentation  that would give you the substantial &#8220;food&#8221; that melts in your mouth. <BR><BR/><strong>Team Members: </strong><ul>Kenneth William N. Herrera</br>Ana Angelica Q. Climaco</br>Gileen Kaye M.Torres</br>Mikaela R. Carreon</br>Lormerene J. Encarnacion</br>Jonaliza S. Moreno</br>Benedick Lorence C. Zapata</br>Christian Jeshua M. Vicente</br>Michael James M. Andres</ul></p><BR><BR/></div>]]></description>
+  
+    <Point><coordinates>120.90866,14.48286,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+</Placemark>
+
+<Placemark id="16 ">
+    <name>Tickling your Taste Buds with GenTri’s Best Dairy Products</name>
+   <description><![CDATA[<div align ="center"><q><iframe src="//prezi.com/embed/avwal1otlgm-/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Mula Sa Kalabaw ang Inihahain<BR><BR/><strong>Location: </strong>Gen. Trias, Cavite<BR><BR/><strong>Category: </strong>Food to Eat</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National Science High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Who doesn&#8217;t love milk? Who can&#8217;t deny the freshness and positively  scrumptious taste of it? Carabao&#8217;s milk contains more calcium,  less cholesterol and has a greater shelf-life than cow&#8217;s milk.  And now, with the advancements in food technology, milk can be enjoyed in different  forms such as yogurt, cheese or candy. GenTri&#8217;s Best is the first in CALABARZON  to manufacture carabao&#8217;s milk into 21 dairy products.  The community mapping entry titled &#8220; Doon Po Sa Amin: Mula Sa Kalabaw ang Inihahain  (Tickling Your Taste Buds with GenTri&#8217;s Best Dairy Products)&#8221; was was created to feature the  town&#8217;s dairy products made from carabao&#8217;s milk through the use of a Prezi presentation. <BR><BR/><strong>Team Members: </strong><ul>Antoinette Gabriel A. Buclatin</br>Anne Marguerite A. Buclatin</br>Erica Michelle C. Miranda</br>Emman Joy Angelic L. Bendo</br>Airah Jean S. Abad</br>Justine James P. Ledesma</br>Khyleri B. Gancayco</br>Caitlin Joy A. Sanchez</ul></p><BR><BR/></div>]]></description> 
+ 
+    <Point><coordinates>120.88067,14.38624,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+</Placemark>
+
+<Placemark id="25 ">
+  <name>Irosinian Tounge</name>
+   <description><![CDATA[<div align ="center"><q><img src="/img/Icon_Food.jpg" style="width:100%;"></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, the Taste of Irosinian Cuisine<BR><BR/><strong>Location: </strong>Irosin, Sorsogon<BR><BR/><strong>Category: </strong>Food to Eat</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Gallanosa National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Because of the hard work of our fellow irosanon, the &#8220;paraoma&#8221;(farmers),  Irosin was regarded as the rice granary of the province of Sorsogon.  As we all know, harvesting is the most common lively-hood at  the town of Irosin. So instead of sticking on harvesting, we Irosinians made other  ways to improve the production of rice in town mouth-watering recipes like suman  sa ibos, sapin-sapin, tinamal, pudding, champurado and maney others are made not  just for the source of income but also the way of showcasing the culinary masterpieces of the Irosanons. Several restaurants, snack bars and eateries and fast  food stalls are available and found along the main thorough fares in the Central Business District  and in the Irosin Public Market.<BR><BR/><strong>Team Members: </strong><ul>Jonila Tiffany Columna</br>Jan Alanni Olavere</br>Jolina Tapel</br>Joana De La Cruz</br>Trisha Balana</br>Anneden Azurin</br>Ivan Joshua Campo</ul></p><BR><BR/></div>]]></description>
+   
+    <Point><coordinates>124.0352,12.70337,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+</Placemark>
+
+<Placemark id="45 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src=https://www.youtube.com/embed/PXB4_G3EDQk frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Pagkain Namin Lasapin!<BR><BR/><strong>Location: </strong>Mandaue City, Cebu<BR><BR/><strong>Category: </strong>Food to Eat</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Mandaue City Comprehensive National High school<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Mandaue City is the second largest city of Cebu next to the largest, the Queen City  of the South; Cebu City. Mandaue City is known to  be called "The Little Rich City" in the country because of it&#39;s famous product distributing  companies like the Coca-Cola. But tourists aren&#39;t only  attracted to these large companies, they&#39;re bellies are calling for the Mandaue&#39;s famous delicacies like  the Bibingka, Masareal, Tagaktak, Budbod and many others.  Taste the goodness of each of these mouth watering delicacies and we&#39;re perfectly sure you&#39;re gonna  love it here, only in Mandaue. Pagkain Namin Lasapin! <BR><BR/><strong>Team Members: </strong><ul>Ma. Jardisha Marcellana</br>Kimberly Javier</br>Marife Apas</br>Demettri Magnaye</br>Marl Elvin Valizado</br>Rosalie Abatayo</br>Hanna Shirley Tibon</ul></p><BR><BR/></div>]]></description>
+   <name>Come Taste Our Food</name>
+    <Point><coordinates>123.92617,10.34457,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+</Placemark>
+
+<Placemark id="58 ">
+   <description><![CDATA[<div align ="center"><q><img src="/img/Icon_Food.jpg" style="width:100%;"></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Kakaibang Pagkain aming Ihahain<BR><BR/><strong>Location: </strong>Cabanatuan City, Nueva Ecija<BR><BR/><strong>Category: </strong>Food to Eat</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Nueva Ecija High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">The story is all about different kind of food to eat known Nueva Ecija .  The following foods are Fried Palaka , Adobong Sawa , Adobong  Salagubang , Sinuso Fried , Chicharong Balat ng Sawa . This following foods  are delicious to eat at first this food are loathsome to eat but at the end you&#39;ll try  it again and again because of the different taste . This food will leave a good memories in your  mind that you try it again. <BR><BR/><strong>Team Members: </strong><ul>Mark Denisse A. De Jesus</br>Nicole S.P. Gines/br>Nathaniel Juan</br>Marius Pablo</br>Julius Ingal</br>Patrick Eclevia</br>Isaiah Mizona</br>Kier Singh</br>Leonides E. Bulalayao</ul></p><BR><BR/></div>]]></description>
+   <name>Exotic Foods To Prepare</name>
+    <Point><coordinates>120.96866,15.48466,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+</Placemark>
+
+<Placemark id="60 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=//prezi.com/embed/br6bachzqfmo/?bgcolor=ffffff&#38;lock_to_path=0&#38;autoplay=0&#38;autohide_ctrls=0&#38;features=undefined&#38;disabled_fe ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Matamis na Kakanin Iyong Darayuhin<BR><BR/><strong>Location: </strong>Nueva Ecija<BR><BR/><strong>Category: </strong>Food to Eat</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Nueva Ecija High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">What a delightful taste of their products.  Started form their special sylvanas from Cakeland. A sweet taste from Aying&#39;s with  this pastillas flavored. Smoothies. Frappes and Halo halo with pastillas and  occasionally we also have Ensaymada filled with pastillas. Pasta ala Pastillas and Pastillas  de Leche. Ube de Pastillas, Special Yema, Pastillas de Queso, Pastillas  de Buko Pandan and Pastillas de Langka. Fresh Lumpia with Pastillas sauce.  We also have Kesong Puti always, availabe. What a mixed of pastillas, their smoothies and  sylvanas would make your day. <BR><BR/><strong>Team Members: </strong><ul>Julius Jan Ingal</br>Nicole Gines</br>Isaiah Mizona</br>Maruis Pablo</br>Kier Singh</br>Patrick Eclevia</br>Nathaniel Juan</ul></p><BR><BR/></div>]]></description>
+   <name>Sweets In Nueva Ecija</name>
+    <Point><coordinates>121.09056,15.54782,0</coordinates></Point>
+    <styleUrl>#style_FOODTOEAT</styleUrl>
+</Placemark>
+</Document></kml>

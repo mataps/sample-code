@@ -1,0 +1,27 @@
+.brand-logo { height: 30px; margin-left: -15px}
+.nokia-places-general-resultlist .nokia-place-name {
+  cursor: pointer;
+}
+#mapResultlist {
+  width:280px;
+  float:left;
+  margin-top:10px;
+  clear:both;
+}
+#mapSearchbox, #mapCSearch {
+  float:left;
+}
+#mapCSearch {
+  margin-left: 10px;
+}
+#map {
+  border:solid 1px #000;
+  margin-top: 10px;
+  float:left
+}
+.nokia-place-link-container {
+  white-space:normal;
+}
+
+.nokia-searchbox-input { height: 30px !important;}
+input[type="checkbox"].ace.ace-switch + .lbl::before { content: 'Yes\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0No'; }

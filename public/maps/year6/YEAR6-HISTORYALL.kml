@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>            
+<kml xmlns='//www.opengis.net/kml/2.2'>           
+  <Document>     
+
+    <Style id="style_HISTORY">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/HISTORY.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+<Placemark id="13">
+   <name> A Journey Back to Naga </name>
+   <description><![CDATA[
+    <div align ="center">
+      <q>
+      <iframe width="640" height="360" src="//www.youtube.com/embed/fj025un3QSY" frameborder="0" allowfullscreen></iframe>
+      </q>
+    </div>
+    <div>
+      <br/><br/>
+      <font face ="tahoma" size ="2">
+        <p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Pirang Taon Man An Nag-Agi Historia Kan Naga Dai Mapahuri<BR><BR/><strong>
+           Location: </strong>Naga City, Camarines Sur<BR><BR/><strong>
+          Category: </strong>History to Uncover </p>
+          <p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>
+          School: </strong>Naga City Science High School
+          <BR><BR/><strong>
+          School Type: </strong>Public<BR><BR/><strong>
+          School Level: </strong>Secondary<BR><BR/><strong>
+          Summary: </strong>
+          Naga City is one of the flourishing cities in the country. But behind its triumph is a history that greatly helped the place to achieve everything it has today. What preserved its history includes the old churches, long-standing institutions, and other time-honored edifices. These show that no matter how long it has been, the heritage that our ancestors had lived by is still with the Nagueños today. These structures also epitomize qualities that we have, being religious, exalting bravery and camaraderie and valuing education as well.
+
+        </br></br>
+        <strong>Team Members: </strong>
+        <ul>
+          Hazel France B. Doblon</br>
+          Vinni bon L. Macandog</br>
+          Samantha Nicloe L. Fullante</br>
+          Maria Anne San Andres</br>
+          Jullie Angela E. VitoCurz</br>
+          Jayzelyn B. Esguerra</br>
+          Hanz Kristien P. Arga</br>
+          Jeheil Angelica Mari C. Cea</br>
+          Nelia F. Hernandez"
+
+        </ul>
+        </div>]]></description>
+    <Point><coordinates>123.1841064,13.6210491,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+<Placemark id="26 ">
+   <name>Sanghiyang Festival/ Sayaw sa Apoy/Alas-as Firewalkers</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME src="//prezi.com/embed/vdz9qbi983tt/?bgcolor=ffffff&#38;amp;amp;lock_to_path=0&#38;amp;amp;autoplay=0&#38;amp;amp;autohide_ctrls=0&#38;amp;amp;features=undefined&#38;amp;amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Umaalab Na Hain, Yakyaki’t Giikin, Balakyot Halusin<BR><BR/><strong>Location: </strong>Cavite City, Cavite<BR><BR/><strong>Category: </strong>History to Uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Gen. E. Aguinaldo National High School - Bailen<BR><BR/><strong>School Type: </strong>Public <BR><BR/><strong>School Level: </strong> Secondary<BR><BR/><strong>Summary: </strong> Discover the rich tradition that can be found only in Alfonso, a mountainous and peaceful town in the province of Cavite. Sanghiyang Festival happens every third week of January has an act called "Sayaw sa Apoy" by the Alas-as Firewalkers headed by Mr. Puring Hernan. This is their unique ritual of thanksgiving ritual for their bountiful harvest. This is also their way to cast away bad elements that may cause harm to them. This project is one of the official entries of Gen. E. Aguinaldo National High School-Bailen to the 6th Doon Po Sa Amin Community Mapping Competition. <BR><BR/><strong>Team Members: </strong><strong>Team Members: </strong><ul>Anessa Bianca B. Villa</br>Ashlyn Sage S. Loyola</br>Charlene Mae B. Ikan</br>Gladys L. Belostrino</br>Jaymie M. Casambros</br>Corine Althea R. Enriquez</br>John Leignard A. Ragasa</br>Dr. Aurelia D. Dejan</ul> </p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.8544705,14.141157,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="78 ">
+   <name>Basi Revolt Shrine</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="560" height="315" src="//www.youtube.com/embed/j2ZyGh7qGfc" frameborder="0" ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, May Tamis ang Paghihimagsik<BR><BR/><strong>Location: </strong>Laoag City, Ilocos Norte<BR><BR/><strong>Category: </strong>History to Uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Ilocos Norte National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Through birth and death, love and marriage, planting and harvest, and victory and defeat, a liquor fermented from sugarcane juice called Basi has always been there as an integral part of the Ilocano&#8217;s culture. An acceptable reason for the Ilocanos rage after the Spaniards banned them from their main source of livelihood not to mention a part of their tradition, two men of Piddig of Ilocos Norte led the bloody uprising  known today as the Basi Revolt of 1807. The Basi Revolt was the first in a series of revolts against the Spaniards that occurred in the Ilocos in the 1800s. This documentary shows the in-depth story of  the revolt, the people behind it, the reason overdue it, and its massive impact to every Ilocano&#8217;s life. This documentary may have concluded the rebellion as unsuccessful, it nonetheless became an  inspiring episode in the Ilocano struggle for freedom. <BR><BR/><strong>Team Members: </strong><ul>Mark Vincent P. Dela Cruz</br>Ralph Chester D. Retamal</br>Justine Caesar M. Canada</br>Hazel T. Mateo</br>Karen Abbygaele C. Buduan</br>Czarina Kimberly C. Garcia</br>Justine Diane S.Bucao</br>Mariah Geneva P. Juan</br>Hayzel Hannah Earlene A. Lorenzo</br>Mrs. Mercy Dora L. Pascual</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.714555,18.16365,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+
+<Placemark id="109 ">
+   <name>Cavite City Tourism Council</name>
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src="//www.youtube.com/embed/alCP2x_O6po" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Ang Kultura’y May Dating<BR><BR/><strong>Location: </strong>Cavite City, Cavite<BR><BR/><strong>Category: </strong>History to Uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Cavite City is known for its undying history and rich culture. It is the city where many heroes were born and raised. Every place here tells a story of Filipinos&#8217; beliefs, values, and ideals.  It is a sharing of culture and customs that solely contributes to one purpose &#8211; innovation of the next generation.  This music video gives us the chance to sweep off the dust of the past, and calls the attention of the present so that we could take a good look of the future. <BR><BR/><strong>Team Members: </strong><ul>Keesha Megan Y. Ramos</br>Lorric Mae D.L. Custodio</br>Meryle T. Guiriba</br>Sani Emanuel S. Alarcon</br>Juaniance Mary V. Mendoza</br>Marc Angelo D.S. Sagaoinit</br>Jhon Micahel S. David</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.9083799,14.4816738,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+<Placemark id="14 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/WYJmUSJ-jJU frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Munting Bilog Karangala'y Handog<BR><BR/><strong>Location: </strong>Cavite City<BR><BR/><strong>Category: </strong>History to Uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Discover the meaning of the Cavite City seal and feed your minds  about the historical events and heroes in our city. Explore also what  are the characteristics of us Cavite&#241;os. Learn about the symbols inside the seal as  Cavite National High School singers lend their voice and through this video presentation. See the beauty of the sunset here. Let us explore this great seal of  us and have some knowledge about the persons who not only changed  our city but also our own country.<BR><BR/><strong>Team Members: </strong><ul>Jonathan Kit R. Arnaldo</br>John Charles M. Llemos</br>John Albert B. Dela Pe&#241;a</br>Justine Maurice M. Abueg</br>Precious Delos L. Santos</br>Rovell C. Delos Santos</br>Kay Anne W. Dichosa</br>Ariane Hipolito</br>Sheila Anne C. Cruz</ul></p><BR><BR/></div>]]></description>
+   <name>Here in our Place Little Circle Provides Honor and Grace</name>
+    <Point><coordinates>120.90866,14.48286,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+
+<Placemark id="15 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src=https://www.youtube.com/embed/VvyOZjdivLk frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Tigib ng Kasaysayan mga Bayaning Huwaran<BR><BR/><strong>Location: </strong>Cavite City<BR><BR/><strong>Category: </strong>History to Uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">In the historic place of Cavite City, there are many who fought  hard and believed that we ought to experience the freedom that we need.  Independence is the cry of hearts of early Filipinos because many foreigners conquered our country,  and Cavite City is not spared. Ladislao Diwa, Julian Felipe  and the remarkable Thirteen Martyrs are the local heroes of our place.  They served as inspiration to this new generation. In this short film, students learned  in-depth information about these people. It is with touch of fiction, yet, it was still justified in the end. <BR><BR/><strong>Team Members: </strong><ul>Anna Marie Olivia A. Macayan</br>Frances Kyle O. Solano</br>Lawrence Miguel E. Tarrobal</br>Jennielyn V. Sidon</br>Deen Jendelle D.G. Leonida</br>Alyssa Kate B. Magpantay</br>Jann Claudeen H. Escolta</br>Rohn David E. Santos</br>Jerryco B. Dela Cruz</ul></p><BR><BR/></div>]]></description>
+  <name>Our place is full of history through model heroes</name>
+    <Point><coordinates>120.90866,14.48286,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+<Placemark id="23 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src="//www.dipity.com/vicson/Doon-po-sa-amin/?mode=embed&z=5yr&bgcolor=%23f0e914&bgimg=/images/white_grad" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, ABO: Kulturang Irosanon<BR><BR/><strong>Location: </strong>Irosin, Sorsogon<BR><BR/><strong>Category: </strong>History to Uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Gallanosa National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">To end the dissipation, by the eroding river, to the town&#8217;s doom;  according to superstition, a wicked gnomic one, misguided belief,  ye must be obeyed. Thus, it was christened Irosin, they named and called the town  as such; or it was thus to badger, the baleful waters of the town of Irosin. Abo:  Kulturang Irosanon &#8220;Abo&#8221; or in English ash is where the Irosinians rose from because of  the eruption of the nearby Mt. Bulusan., even though they experienced  hardships and many instances of downfall still Irosinians are like phoenix  rising from ashes. We weave our own history that can be treasured for a life time and it  continuously grows up with the guidance of our patron saint, Saint Michael the Archangel. <BR><BR/><strong>Team Members: </strong><ul>Emmanuel L. Bo</br>Luigi Nemuel B. Gri&#241;o</br>Mark Topher Oroyan</br>Elijohn C. Jao</br>Angelo R. Santiago</br>Rommel B. Esternon</br>Allen Jasper D. Di&#241;o</br>Vicson A. A&#241;onuevo</ul></p><BR><BR/></div>]]></description>
+  <name>How the Irosinians Live</name>
+    <Point><coordinates>124.0352,12.70337,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+<Placemark id="24 ">
+   <description><![CDATA[<div align ="center"><q><iframe src=https://prezi.com/embed/-dyj7fpmrpad/?bgcolor=ffffff&#38;lock_to_path=0&#38;autoplay=0&#38;autohide_ctrls=0&#38;features=undefined&#38;disabled_features=undefined width="550" height="400"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Bunganga ng Bulkan ang Tinitirhan<BR><BR/><strong>Location: </strong>Irosin, Sorsogon<BR><BR/><strong>Category: </strong>History to Uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Gallanosa National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">A story that has grabbed the curiosity of tourists and townsfolk alike,  a story that is both cool and scary at the same time. The story about  how the caldera where Irosin, a town in the province of Sorsogon, is situated on the  remains of a long-dead volcano. The only land-locked town in the province,  surrounded by mountains that form its caldera shape, a place where  natural wonders and culture is treasured, was it really a volcano once? The team searched for information , scanned the internet and dug into the towns&#39; library, putting  small pieces of data together much like a jigsaw puzzle and finally forming a picture that shocked us all. <BR><BR/></p><BR><BR/></div>]]></description>
+  <name>Irosin Caldera: A Sleeping Volcano?</name>
+    <Point><coordinates>124.0352,12.70337,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+<Placemark id="44 ">
+   <description><![CDATA[<div align ="center"><q><iframe src="//prezi.com/embed/g8lfdfza0rth/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Mumunting Dahon, Di Matangay ng Alon<BR><BR/><strong>Location: </strong>Cavite City<BR><BR/><strong>Category: </strong>History to Uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Ladislao Diwa Elementary School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Primary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Our entry discusses the history of the miraculous Reina  de Cavite (Nuestra Se&#241;ora de la Soledad de Porta Vaga), introduces the Queen of  Cavite also known as "The Virgin of Thousand Miracles" as one of the most  famous Marian devotions in the Philippines who was the 1st Philippine  Marian image crowned notably during the reign of Pope John Paul II. Moreover, the study focuses  and promotes Ciudad de Cavite&#39;s Lady of Porta Vaga through community  mapping as well as provide facts and trivia about how the miraculous event affected  the lives of people of Cavite City. Different short movie presentations  were attached as proof of evidence on how well-loved Lady of Porta Vaga is in our community and  how we travel and enjoy the feeling of true blessedness when we go over her story. <BR><BR/><strong>Team Members: </strong><ul>Ma. Charlyn Jel V. Dimaala</br>Nico Adrian B. Gajum</br>Matthew Fara-On</br>Charles Ryan Quemuel</br>Kim Cyril Alcantara</br>Arshell Pugeda</br>Shahidah Asuncion</ul></p><BR><BR/></div>]]></description>
+  <name>The Miraculous Story of Our Lady of Porta Vaga</name>
+    <Point><coordinates>120.90866,14.48286,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+<Placemark id="57 ">
+   <description><![CDATA[<div align ="center"><q>\ <iframe src="https://prezi.com/embed/ghmghe68srmn/?bgcolor=ffffff&#38;lock_to_path=0&#38;autoplay=0&#38;autohide_ctrls=0&#38;features=undefined&#38;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, mga Kuwentuhan ng Tagumpay, Kagitingan at Kasarinlan ay Payapang Nakahimlay<BR><BR/><strong>Location: </strong>Cabanatuan City, Nueva Ecija<BR><BR/><strong>Category: </strong>History to Uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Nueva Ecija High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Doon po sa amin mga kuwento ng tagumpay,kagitingan at kasarinlan  ay payapang nakahimlay is the history happened in Pangatian Concentration Camp,Cabanatuan  City, Nueva Ecija, This entry unravels the history of  Pangatian Concentration Camp, the persons who led the famous Great Raid in Cabanatuan.  January 30,1945, Two US army soldier makes a plan to attack the Concentration  Camp and a filipino guerilla captain responsible for the  road blocking between Cabanatuan and Palayan City. Almost 500 Prisoners of War saved  from the hands of the Japanese. This event was is considered one of the successful rescue of its type in  the annals of U.S. Military History <BR><BR/><strong>Team Members: </strong><ul>Bernard Emil O. Cortez</br>Ray Joshua E. Domingo</br>Ron Allen</br>C. Eduveje</br>Eirha Mae E. Hore</br>Catherine S. Panahon</br>Melewinsky R. Santos</br>Ms. Leonides E. Bulalayao</br>Ms. Normelita G. Reyes</ul></p><BR><BR/></div>]]></description>
+  <name>Grave of Success, Courage, and Independence</name>
+    <Point><coordinates>120.96866,15.48466,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+<Placemark id="59 ">
+   <description><![CDATA[<div align ="center"><q><img src="/img/Icon_History.jpg" style="width:100%;"></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Pinag-piitan Ng Itinuring na Bayani Ating Tuklasin<BR><BR/><strong>Location: </strong>Nueva Ecija<BR><BR/><strong>Category: </strong>History to Uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Nueva Ecija High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Aquino-Diokno sino nga ba sila? Mga pumanaw na tao na  nagbigay ng karangalan sa bayan.Ilan lamang sila sa nagtaguyod upang  makamtan natin ang kalayaan sa pamumuno ni Ferdinand Marcos. Ngayon aalamin natin  kung anu-ano pa nga ba ang mga bagay na hindi pa naisisiwaIat  sa taong-bayan. Marami ang hindi nakakalam kung ano nga ba ang mga paghihirap  na naranasan nila sa kamay ng mga Marcos. Kung saan saang lugar sila kinulong  at pinagmalupitan na wala man lang nakakaalam ni isa sa mga mamamayan. Ang  alam lamang ng marami ay pinatay siya dahil sa pagsalungat niya sa mga  batas ng pamahalaang Marcos. Ikaw handa ka na bang tuklasin at alamin ang istorya  sa likod ng Aquino-Diokno Memorial? Samahan ninyo kami sa aming paglalakbay  upang ating bayan makilala sa kasaysayan. <BR><BR/><strong>Team Members: </strong><ul>Angelica Maxino</br>Eden Estrada</br>Janelle Elefante </br>Janine Del Rosario </br>Irish Dizon </br>Zara Dumlao </br>Camille De Guzman </br>Jessa Canchela </br>Cez Baluran </br>Antonette Manabat</ul></p><BR><BR/></div>]]></description>
+  <name>Here In Our Home, Let's Discover our Imprisoned Heroes</name>
+    <Point><coordinates>121.09056,15.54782,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+</Placemark>
+
+<Placemark id="61 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/SfygEVHp_to frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Birhen Maria ang Gabay<BR><BR/><strong>Location: </strong>Oton, Iloilo<BR><BR/><strong>Category: </strong>History to Uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Oton National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Our entry which is entitled, "Doon Po sa Amin: Birhen Maria ang Gabay"  with an english subtitle, "Our Patron, Our Savior",  is about the patron of our municipality, Immaculate Conception and her miracles.  Our entry also slightly tackles the history of our municipality, Oton, and its parish church.  It also shows how our patron affects the attitude of every Ogtonganon here in our municipality.  All in all, it shows the great influence of our dear patron and her miracles in the daily lives of her devotees. <BR><BR/><strong>Team Members: </strong></ul>Christian Mark Suksumrarn</br>Pamela Joy Tabucuran</br>Angelie Kaye Diputado</br>Kyle Ann Resbo</br>Nikko Alba</br>Chriha Haro</br>Ronberg Michael Supe&#241;a</ul></p><BR><BR/></div>]]></description>
+  <name>Our Patron, Our Savior</name>
+    <Point><coordinates>122.47739,10.69429,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+<Placemark id="71 ">
+   <description><![CDATA[<div align ="center"><q><<iframe width="420" height="315" src="//simplebooklet.com/embed.php?wpKey=U8ZuAP4H7lYpAYfGIJOuCo&source=embed" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Lapu-Lapu City: Land of A Hero<BR><BR/><strong>Location: </strong>Lapu-Lapu City, Cebu<BR><BR/><strong>Category: </strong>History to Uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Science and Technology Education Center- High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This will tell the story behind the name of a small city in  Mactan Island, Lapu-Lapu City. The City of Lapu-Lapu is a 1st class highly-urbanized  city in the province of Cebu, Philippines. The city occupies most of Mactan Island, one kilometer off of mainland Cebu.  Chief Lapu-Lapu&#39;s other name is Kolipulako. The hero of Mactan and conqueror of Magellan, is described as stern, proud, intelligent, unyielding. He waged continuous war against the powerful  ruler of Cebu, then a very much greater kingdom than his little island of Maktang. <BR><BR/><strong>Team Members: </strong><ul>Brian Stephen S. Amista</br>Inrikke S.Cabo</br>Czar Paulo G. Dabon</br>Ken Jameson L. Dueñas</br>Mikko C. Patalinjug</br>Josefina C. Bacalso</br>Jezzie Kaye P. Ruiz</ul</p><BR><BR/></div>]]></description>
+  <name>How a tribe leader defended his little kingdom</name>
+    <Point><coordinates>123.96471,10.31721,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+<Placemark id="76 ">
+   <description><![CDATA[<div align ="center"><q><iframe src=https://prezi.com/embed/cntgvqrhxblh/?bgcolor=ffffff&#38;lock_to_path=0&#38;autoplay=0&#38;autohide_ctrls=0&#38;features=undefined&#38;disabled_features=undefined width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong><strong>Entry Title: </strong>Doon Po Sa Amin, Unang Pag-Ibig ni Rizal Itinanim<BR><BR/><strong>Location: </strong>Lipa, Batangas<BR><BR/><strong>Category: </strong>History to uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Sovereign Shepherd School of Values and Learning<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This DPSA entry uncovers the cradle of Jose Rizal's first love,  Segunda Katigbak. Manuel Luz who came from a family of poets and scholars,  one of the most prominent families of Lipa. He married Segunda at  the young age of 16 in 1886 and this very house, Casa de Segunda is located at Calle  Rizal, Lipa City, Batangas, Philippines Travel with the group as they unravel  the history of Segunda Katigbak&#39;s cradle. Fall in love with this historic spot and discover  the grandeur of our history and culture. <BR><BR/><strong>Team Members: </strong><ul>Jethro Hernandez</br>Ma. Aira Jane Berberabe</br>Kathryn Aira Bareng</br>Lourdaine Kaye Marasigan</br>David Caesar Marasigan</br>Ella Marie Bagsit</br>Rica May Calaluan</br>Ian Joseph Panelo</br>Jonathan Berberabe</ul></p><BR><BR/></div>]]></description>
+  <name>The Cradle of Rizal's First Love</name>
+    <Point><coordinates>121.16569,13.957,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+<Placemark id="80 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://prezi.com/-bxlfohckval/?utm_campaign=share&#38;utm_medium=copy ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, ang Pagkasunog ng Simbaha'y lalong Nagpalakas ng aming Pananalig<BR><BR/><strong>Location: </strong>Vinzons, Camarines Norte<BR><BR/><strong>Category: </strong>History to Uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Vinzons Pilot High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Religion has a significant impact in man&#39;s existence. The tragic incident that burned the St. Peter apostle church into ashes has inevitably  resulted to various directions. Some believers got lost, some followers  strengthened their faith. Some faith remained untouched.  This presentation opts to discuss the impact of the said incident among the residents of Vinzons.  The student community mappers in its intention to discuss the said event referred to  several persons and organization to satisfactorily and accurately and discuss the topic. <BR><BR/><strong>Team Members: </strong><ul>Anthony S. Capistrano</br>Jonerec L. Cereno</br>Jonathan J. Vega</br>Cyrus David V. Ibis</br>Aila Gela Manlangit</br>Joyce Mallete</br>John Rafael Mago</br>Val Anjay Avila</br>Jericho Vega</br>John Harold dela Cruz</ul></p><BR><BR/></div>]]></description>
+  <name>The Church That Was Burned by the Fire that Illuminated Faith</name>
+    <Point><coordinates>122.88494,14.14091,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+
+<Placemark id="81 ">
+   <description><![CDATA[<div align ="center"><q><iframe src="//prezi.com/embed/rxeam-0w0y9k/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin Masayang Nagbabansagan ang mga Angkan<BR><BR/><strong>Location: </strong>Vinzons, Camarines Norte<BR><BR/><strong>Category: </strong>History to uncover</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Vinzons Pilot High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Long before the days of television and radio, the  simple way of living in the early times in Vinzons has never become a hindrance to  live a colorful and jolly life. Bansagan has become a part of the way of living then.  It may have lesser impact at the present but its presence is still being felt by many.  With the changing times and the impact of mass media, the  challenge of keeping the said cultural heritage of Vinzons remains. It is a part of the town&#39;s  identity and it should be kept alive by passing it to the present and future generation. <BR><BR/><strong>Team Members: </strong><ul>Anthony S. Capistrano</br>Jonathan Vega</br>Kharyssa Cabanela</br>Aleina Zantua</br>Sharlotte Sarmiento</br>John Rainier Milan</br>Nico Soriao</br>Jeremy Zantua</br>Sharalaine Gonzales</br>Jan Harold dela Cruz</ul></p><BR><BR/></div>]]></description>
+  <name>The Family Aliases in Vinzons, Camarines Norte</name>
+    <Point><coordinates>122.88494,14.14091,0</coordinates></Point>
+    <styleUrl>#style_HISTORY</styleUrl>
+</Placemark>
+
+</Document></kml>

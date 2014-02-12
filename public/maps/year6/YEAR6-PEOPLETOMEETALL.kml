@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>            
+<kml xmlns='//www.opengis.net/kml/2.2'>           
+  <Document>            
+
+
+    <Style id="style_PEOPLETOMEET">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PEOPLETOMEET.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+<Placemark id="36 ">
+   <name>Ilocos Norte Provincial Library (i-hub)</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="420" height="315" src="//www.youtube.com/embed/VA_7XQ6Hr_M" frameborder="0" ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Natatanging Himing Ating Maririnig<BR><BR/><strong>Location: </strong>Laoag City, Ilocos Norte<BR><BR/><strong>Category: </strong>People to Meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Ilocos Norte National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Doon Po Sa Amin Natatanging Himig Ating Maririnig&#8221;( Melodious Songs Resound in the Hearts&#8230;) is the official entry of the Ilocos Norte National High School (INNHS) in the Doon Po Sa Amin Community Mapping  Competition (Year 6). This community mapping activity features the journey of the INNHS SAMIWENG SINGERS towards achieving distinction in choral music in the international arena. It comes with a music  video highlighting the original compositions performed by the Samiweng Singers, their experiences and other special events in their life as a choral group. Being home to the Samiweng Singers, the music  video will also showcase the Ilocos Norte National High School and beautiful spots of Laoag City and Ilocos Norte. <BR><BR/><strong>Team Members: </strong><ul>Inna Christine Cabel</br>Jhazmin Audrey Miguel</br>Lea Mei Agcaoili</br>Jonathan Romel Factor</br>Alvin John Brega&#241;a</br>Jaspher Dansalan</br>Sandra Corpuz</br>Gary Ronquillo</br>Marietes C. Felipe</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.5918293,18.2054486,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+ <Placemark id="77 ">
+   <name>Ateneo de Naga University</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="560" height="315" src="//www.youtube.com/embed/FTsxD9y6iEw" frameborder="0" ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, May mga Bikolanong ang Minamawot Naabot<BR><BR/><strong>Location: </strong>Naga City, Camarines Sur<BR><BR/><strong>Category: </strong>People to Meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Naga City Science High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Filipinos are known to be happy and hardworking people. But among Filipinos, Bicolanos stand out. It is because Bicolanos have dreams and not like others they give their very best to make their dreams come true. Dreams that they will always pursue and continue to reach. Amidst all the challenges that will come their way and obstacles that can hinder them and will make their dreams somewhat unreachable, they will always find ways to reach those dreams. Bicolanos who have shown these qualities and eagerness are the following: John Paul Taday, Baao Children and Youth Choir, and Kristian Cordero. They are Certified Oragons! They just don&#39;t simply reach their dreams for their own good but also touch other Bicolanos&#39; lives and inspire Filipinos. They serve as guide and instruments to show the world that Bicolanos don&#39;t easily give up and have faith in God. <BR><BR/><strong>Team Members: </strong><ul>Precious Mae Torres</br>Frances Gwyneth Danielle Savilla</br>Danica Gravito</br>Roni Alexia Udarbe</br>Kenneth Marvin Adaque</br>Charles Jayson Vargas</br>Mary Katherine Balane</br>Alyssa Mae Borja</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>123.185179,13.6304505,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+<Placemark id="36 ">
+   <name>Ilocos Norte Provincial Library (i-hub)</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="420" height="315" src="//www.youtube.com/embed/VA_7XQ6Hr_M" frameborder="0" ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Natatanging Himing Ating Maririnig<BR><BR/><strong>Location: </strong>Laoag City, Ilocos Norte<BR><BR/><strong>Category: </strong>People to Meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Ilocos Norte National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Doon Po Sa Amin Natatanging Himig Ating Maririnig&#8221;( Melodious Songs Resound in the Hearts&#8230;) is the official entry of the Ilocos Norte National High School (INNHS) in the Doon Po Sa Amin Community Mapping  Competition (Year 6). This community mapping activity features the journey of the INNHS SAMIWENG SINGERS towards achieving distinction in choral music in the international arena. It comes with a music  video highlighting the original compositions performed by the Samiweng Singers, their experiences and other special events in their life as a choral group. Being home to the Samiweng Singers, the music  video will also showcase the Ilocos Norte National High School and beautiful spots of Laoag City and Ilocos Norte. <BR><BR/><strong>Team Members: </strong><ul>Inna Christine Cabel</br>Jhazmin Audrey Miguel</br>Lea Mei Agcaoili</br>Jonathan Romel Factor</br>Alvin John Brega&#241;a</br>Jaspher Dansalan</br>Sandra Corpuz</br>Gary Ronquillo</br>Marietes C. Felipe</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.5918293,18.2054486,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="5">
+   <name> “Special World” </name>
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src="//www.youtube.com/embed/OF6isk4sEvQ" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Pasukin ang Mundong Espesyal<BR><BR/><strong>Location: </strong>Rizal<BR><BR/><strong>Category: </strong>People to meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Ilaya Elementary School<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong>Doon Po Sa Amin Pasukin Natin ang Mundong Espesyal is all about the abilities of the Special Education pupils of Ilaya Elementary School amidst these childrens' disabilities they were able to do tasks not expected of them such as chores, singing, dancing, cooking and many more. This entry also tells stories about these special children and also how the SpEd teachers manage them and the perspectives of them and also the parent as narrated by the students of the group.</br><BR><BR/>
+<strong>Team Members: </strong>
+        <ul>
+            Jhaira Mae T. Zapanta </br>
+            Mikylla L. Paulican </br>
+            Psalm Zeporah P. Fausto </br>
+            Crisalyn Tanjuatco </br>
+            Ecie Mae S. Reyta </br>
+            Jezaree Gale I. Zapanta </br>
+            Vince A. Gaspar </br>
+            Priscilla I. Miranda </br>
+            Trinidad B. Estrella </br>
+
+
+        </ul>
+ </div>]]></description>
+    <Point><coordinates>121.4276166,14.5964703,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+<Placemark id="6 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="480" height="360" src=https://www.youtube.com/embed/wP1Ggrgbp3A?rel=0" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Maayong Lider para sa Kausaban sa Buenavista<BR><BR/><strong>Location: </strong>Buenavista, Agusan del Norte<BR><BR/><strong>Category: </strong>People to Meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Guinabsan National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px"> A truly benevolent, noble , and loving person  toward his family and to others, the man behind all this success  to make a better Buenavista, the most famous man in the whole Buenavista-MR. NORBERT BABANO PAGASPAS. This man has contributed a lot to Buenavista and help the whole municipality to have an increase on its economic  growth. Mr. Norbert Pagaspas had implemented programs that benefited the greater population. Despite the challenges he encountered, the dream to end poverty. Mayor Norbert Pagaspas has  implemented programs for the benefit of everyone. Few are: KASALAN SA BARANGAY for those couple  who not yet experience what is like to be wed and because he  believe that marriage is a sacred sacrament; SCHOLARSHIP PROGRAM for the students  in public schools for lesser fee on their tuition. <BR><BR/><strong>Team Members: </strong><ul>Denise Marie B. Castilla</br>Shaina Mendoza</br>Hiezyl Jane Bahian-Marrator</br>Jessa Lusterios</br>Jhivic Asseneth Ruiz</br>Vaughne Lastra</br>Josephine Canatoy</ul></p><BR><BR/></div>]]></description>
+   <address>Buenavista, Agusan del Norte</address>
+    <Point><coordinates>125.42436,8.87864,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="13 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/J34PQUReVEE frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Kahit Musmos ay Mapalad Pa Rin<BR><BR/><strong>Location: </strong>Cavite City<BR><BR/><strong>Category: </strong>People to Meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Cavite city is known for its love for education. Cavitenos believe that  education would bring them out of poverty and mediocrity. People in this city  find ways to reach out those in need of education especially young minds that  need nurturing. Cavite City dared the world to  move and to fight for a good education  that took the field of education to heights. It came from a burning desire to help  one another in any way they can. One may think that it is impossible; but through  faith and willingness, you will not view  the world the same way again.  This entry takes us to this little city that made a big and powerful  impact to the world of education. <BR><BR/><strong>Team Members: </strong><ul>Mary Anne R. Era</br>Margie H. Go&#241;ez</br>Vangie A. Maranan</br>Nathalie I. Martinez</br>Renalyn M. Velasquez</br>Banjo S. Dela Cruz</br>Kenneth P. Ignacio</ul></p><BR><BR/></div>]]></description>
+   <address>Cavite City</address>
+    <Point><coordinates>120.90866,14.48286,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+<Placemark id="20 ">
+   <description><![CDATA[<div align ="center"><q><img src="/img/Icon_People.jpg" style="width:100%;"></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, May Mabuting Balita sa Masamang Balita<BR><BR/><strong>Location: </strong>Toril, Davao City<BR><BR/><strong>Category: </strong>People to Meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Do&#241;a Carmen Denia National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Tells about the unity of the people in San Jose Toril, Davao City.  Shows how the people showed the spirit of "bayanihan" to help their  comrade that is in need. They carried the house of their comrade that was sold to another  person. They can not help the sick person financially, they just helped him by showing  the true value of the Pilipino people; helping each other.  The story of the people&#39;s unity revives the spirit of the Pilipino people to  show and to help each and every individual. <BR><BR/><strong>Team Members: </strong><ul>Josephine Montano</br>Stephen Pascual</br>Edcil dela Vega</br>Diether Dave Ingco</br>Jake Candole</br>Jessa May Payot</br>Louis Ann Burdios</ul></p><BR><BR/></div>]]></description>
+   <address>Toril, Davao City</address>
+    <Point><coordinates>125.50475,7.02592,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+<Placemark id="32 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="480" height="360" src=https://www.youtube.com/embed/0CTs6lIrYiM?rel=0 frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, First 100 Days sa Amo Bag-o nga Mayor<BR><BR/><strong>Location: </strong>Buenavista, Agusan del Norte<BR><BR/><strong>Category: </strong>People to Meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Guinabsan National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">The First 100 Days of Mayor Norbert Babano Pagaspas is very significant  to the people of Buenavista. He execute the office of mayor for the  common good of the communities while refraining from actions that  may harm other communities . He took full responsibility for any acts performed  by themselves or by members of his administration. As a mayor he has a good communication skills,  especially the ability to listen and is best in selling the vision  of the future to others, thus he possess excellent communications skills to persuade  others above him to move in the direction he desires and was able to  convince others to join him in his vision. This video will feature all the accomplishments  of Mayor Pagaspas in his first 100 days of governance <BR><BR/><strong>Team Members: </strong><ul>Angela Nina Calope</br>Judy Ann Delauro</br>Krisne Cadano</br>Jean Uayan</br>Sweet Aiben Licayan</br>Restie Lagura</br>Joy Amoy</br>Crismil Cutay</br>Ma. Cecilia Palmero</ul></p><BR><BR/></div>]]></description>
+   <address>Buenavista, Agusan del Norte</address>
+    <Point><coordinates>125.42436,8.87864,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+
+<Placemark id="47 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/8J89J79V5g0 frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Kambal-Bisig ang Pagsagwan Sa Tagumpay<BR><BR/><strong>Location: </strong>Taytay, Rizal<BR><BR/><strong>Category: </strong>People to Meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Manuel I. Santos Memorial National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">In this entry, we feature two of the members of the Philippine  Canoe Kayak Federation, the twin brothers, Alex Generalo and Alvin Generalo . Although most the members of the team are from Taytay,  Rizal, we have chosen to make a documentary of the twins due their contributions  in the winning Philippine Kayak Team. How they started at the young age of 16,  never expecting that the once they treat as just a leisure activity became a challenging career  for them. For the last 7 years, they have represented our  country in team competitions as well as in single battle. As of now, they are in the 27th Southeast Asian  Games in Myanmar. We made this video before the start of the SEA Games. <BR><BR/><strong>Team Members: </strong><ul>Melrose Adobas</br>Sherlyn Abrazado</br>Charlene Firmalo</br>Kathlen Brillantes</br>Mariella Pablo</br>Crizelda Tibi</br>Domenic Jerome Uguil</br>Julius Caesar Balisado</ul></p><BR><BR/></div>]]></description>
+   <address>Taytay, Rizal</address>
+    <Point><coordinates>121.13164,14.57032,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+
+<Placemark id="49 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/p81XH8BDWQ4 frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Si Ka Tacio ang Juan for Every Juan<BR><BR/><strong>Location: </strong>Taytay, Rizal<BR><BR/><strong>Category: </strong>People to Meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Manuel I. Santos Memorial National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This video features the life and works of Anastacio Alcantara.  A former Councilor of the Municipality of Taytay Rizal. He is well-known in  this town as "Ka Tacio". His popularity in this area of Rizal started since he was  a young man until today even he is not in politics anymore. Even the young ones in  Taytay knows who Ka Tacio is. It became a tradition for his colleagues in politics to  call him the "youngest Konsehal" among them, out of respect to his experience in public service. <BR><BR/><strong>Team Members: </strong><ul>Arvin Chingcuangco</br>John Paul Adlawan</br>Louise Ann Layba</br>Emannuel Delos Santos</br>Joshua Bohol</br>Marinel Eisma</br>Jefferson Pababero</ul></p><BR><BR/></div>]]></description>
+   <address>Taytay, Rizal</address>
+    <Point><coordinates>121.13164,14.57032,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+
+<Placemark id="51 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/Zq_Ag3eTdrc frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Sa Daliring Lumalantik, Lahat ay Naaakit<BR><BR/><strong>Location: </strong>Morong, Rizal<BR><BR/><strong>Category: </strong>People to Meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Morong National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">There at our community there is someone who is special, someone  who is unique in such way. Someone who is exceptional and different from other  known Painters. He specializes in Finger Painting, a method that uses palm, knuckles,  and fingers in painting. He is the one and only Maestro Rafael Pacheco,  a native artist of Morong, one of the celebrated persons in the Art Industry and the  first painter in the country who emphasize finger painting, that&#39;s why he was entitled  as the "Father of Philippine Finger Painting" he is also known in neighboring  countries like Hawaii, Libya, and Iraq, and was admired by various personalities  like the First lady herself, Imelda Romualdez Marcos. <BR><BR/></p><BR><BR/></div>]]></description>
+   <address>Morong, Rizal</address>
+    <Point><coordinates>121.23905,14.51456,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+<Placemark id="64 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="640" height="480" src=https://www.youtube.com/embed/Mj35J18UxBY frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Si William at ang Engkantada<BR><BR/><strong>Location: </strong>Brgy. 8, Pambujan, Northern Samar<BR><BR/><strong>Category: </strong>People to Meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Pambujan National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This is a story of trust and disbelief. A group of students went  to the forest for a school project through the help of an out of  school youth whom they trusted as friend. They are aware of fairy stories in the  remote area but they didn&#8217;t mind it. William spoke with a fairy and warned his classmates  of the danger that about to strike them but the group was skeptic.  They were laughing at William disregarding his stories, but what they don&#8217;t expect to be real is just as  close and fast than they anticipated. <BR><BR/><strong>Team Members: </strong><ul>Crismark Tuba</br>Mark Kenneth Gorpido</br>Jerome Siervo</br>Rene Morales</br>John Louise Jazmin</br>Brenda Castillo</br>Ann Rachelle Aco</br>Armilyn Acain</ul></p><BR><BR/></div>]]></description>
+   <address>Brgy. 8, Pambujan, Northern Samar</address>
+    <Point><coordinates>124.9445877,12.5584202,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+
+<Placemark id="65 ">
+   <description><![CDATA[<div align ="center"><q><iframe src=https://prezi.com/embed/zcvxkr0taetw/?bgcolor=ffffff&#38;lock_to_path=0&#38;autoplay=0&#38;autohide_ctrls=0&#38;features=undefined&#38;disabled_features=undefined width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Kaalamang Pangsinauna kay Datu Mo Mapupuna<BR><BR/><strong>Location: </strong>Quezon, Bukidnon<BR><BR/><strong>Category: </strong>People to Meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Quezon National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Datu Eladio A. Lilawan, a Datu of the tribe Manobo, reveals  the customs and traditions of the tribe. He is born at Mibantang,  Quezon, Bukidnon and grew up their. In his early years, he learned many things that  inspired him to strive hard to help his tribe and this is what made him what he  is right now. His advocacy is to educate the Lumads because he wants them to be respected.  From time to time, the Lumad has experienced  the positive effects education though it made a little changes into their belief. <BR><BR/><strong>Team Members: </strong><ul>Miraflor M. Armian</br>Joseph L. Silvestre</br>Caryl Faye Clavacio</br>Jiego Menguez</br>April Rose Cadorna</br>Clyde Joseph Baguio</br>Alexa Camille Q. Bongabong</br>Baba Jane Anay</br>Cherry S. Ponteras</ul></p><BR><BR/></div>]]></description>
+   <address>Quezon, Bukidnon</address>
+    <Point><coordinates>125.17448,7.81433,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+
+<Placemark id="67 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/LS2pO__XCRo frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Nagtitipon ang mga Taong Puno ng Kababalaghan<BR><BR/><strong>Location: </strong>Rizal<BR><BR/><strong>Category: </strong>People to Meet</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Rizal National Science High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">To show the different but extraordinary beliefs of Rizale&#241;os,  we have come up with a topic about enigmatic people. In our video,  it presents the fortuneteller, Ate Cely Perez, the &#39;mangtatawas&#39;, Lolo Idyong and the caretakers  of the cemetery, Kuya Joel and Kuya Boy. It was also presented there  the different paranormal things they have experienced that made them very  mysterious and famous at the same time. The aim of this video is to let viewers  open up their eyes to the unseen forces and to let them come up with conclusions on whether they have to believe it or not. <BR><BR/><strong>Team Members: </strong><ul>Maria Ena Rosales</br>Rei Chester Reyes</br>Carlo Anton Concepcion</br>Rasmin Dimaculangan</br>Louie Andrei Gallos</br>Ian Vincent Palabasan</br>Anne Paola Aragoncillo</br>Stephen Erick Cabral</ul></p><BR><BR/></div>]]></description>
+   <address>Rizal</address>
+    <Point><coordinates>121.09791,15.70406,0</coordinates></Point>
+    <styleUrl>#style_PEOPLETOMEET</styleUrl>
+</Placemark>
+
+
+</Document></kml>

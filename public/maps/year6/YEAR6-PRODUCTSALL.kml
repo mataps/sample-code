@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>            
+<kml xmlns='http://www.opengis.net/kml/2.2'>            
+  <Document>            
+            
+<Style id="style_ACTIVITIES">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/ACTIVITIES.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_FOODTOEAT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/FOODTOEAT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_HISTORY">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/HISTORY.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+  
+  
+    <Style id="style_PEOPLETOMEET">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PEOPLETOMEET.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+  
+  
+
+    <Style id="style_PLACESTOGO">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLACESTOGO.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PRODUCTS">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PRODUCTS.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_PLANTSANIMALSTODISCOVER">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLANTSANIMALSTODISCOVER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id='tabbed'>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<ul class="nm_tabnav">
+      <li class="nm_tab_current">Excerpt</li>
+      <li class="nm_tab">Combatants</li>
+      </ul><h2>$[name]</h2></BR>$[description]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+  
+
+
+<Placemark id="1 ">
+   <name>Polomolok Plaza</name>
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src="//www.youtube.com/embed/mg4b28BtyDQ" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Ang Tae ay Inumin<BR><BR/><strong>Location: </strong>Polomolok, South Cotabato<BR><BR/><strong>Category: </strong>Community Products to Support</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Dole Philippines School<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">The Asian Palm Civet cats are nocturnal animals whose poop are convertible to Kopi Luwak. Kopi Luwak is coffee  prepared using coffee beans that have been subjected to ingestion and fermentation in the gastrointestinal tract of the Asian palm civet,  which is called luwak in Indonesia. Come and join the students of Dole Philippines School  climb and enter a journey to the unknown world of Civet Cats in Purok Kinilis at Polomolok, South Cotabato. <BR><BR/><strong>Team Members: </strong><ul>Maia Fernandez</br>Kyla Grace Hora</br>Bea Hormigos</br>Bren Sensano</br>Danielle Blanco</br>Zia Thur Lei Alforque</br>Mark Joshua Ayalde</br>Ann Portia Bonita</br>Celina Alforque</br>Cherry Catherine Binobo</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>125.0607604,6.218366,0</coordinates></Point>
+    <styleUrl>#style_PRODUCTS</styleUrl>
+</Placemark>
+
+
+<Placemark id="19 ">
+   <name>Pulo 2</name>
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src="//www.youtube.com/embed/a1sh3bDocBo" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Mga Ginto’y Pilit Hinuhuli<BR><BR/><strong>Location: </strong>Cavite City, Cavite<BR><BR/><strong>Category: </strong>Community Products to Support</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">In our documentary, we Cavite&#241;os are contented on what we have. Being resourceful is needed for us to survive.  We strive hard for gold. Gold, which we also treat as treasures. We keep on reaching it as we always wish for it.  This gold are the basic necessities in our life. Foods, shelter and love are the gold which we work hard for.  We had witness someone&#8217;s life. A truly industrious fisherman Cavite&#241;o. We must endure even how hard the burdens in our lives.  It&#8217;s hard to live. We must be diligent and patient for us to have a good future. Every gold in our life is very hard to attain but can be reached by anyone. <BR><BR/><strong>Team Members: </strong><ul>Randell P. Rojas</br>Junelle L. Pangco</br>Carl Justin A. Ayson</br>Johnmer S. Magtangob</br>Brian G. Pacheco</br>David Robinson T. Pico</br>Alyssa M. Yap</br>Melanie Rose C. Cayabyab</br>Maricar C. Casim</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.8796291,14.4552242,0</coordinates></Point>
+    <styleUrl>#style_PRODUCTS</styleUrl>
+</Placemark>
+
+
+<Placemark id="32 ">
+   <name>Achara De Bailen</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME src="//prezi.com/embed/v8euaok8ptrb/?bgcolor=ffffff&#38;amp;amp;lock_to_path=0&#38;amp;amp;autoplay=0&#38;amp;amp;autohide_ctrls=0&#38;amp;amp;features=undefined&#38;amp;amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Kinudkod na't Tinigis, Binurong Walastik!<BR><BR/><strong>Location: </strong>Cavite City, Cavite<BR><BR/><strong>Category: </strong>Community Products to Support</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Gen. E. Aguinaldo National High School - Bailen<BR><BR/><strong>School Type: </strong> Public<BR><BR/><strong>School Level: </strong>Secondary <BR><BR/><strong>Summary: </strong> This presentation from GEANHS-Bailen students features the pride of our town and the star every fiesta or any occasions and celebration, "Achara de Bailen". This is also the carrier of our town in DTI's program called "One Town, One Product" (OTOP) which is supported by DOLE. Our town's version of pickled papaya has a perfect combination of sweet and sour taste. This is best for pairing as a side dish for meat, fish, chicken, vegetables and other foods. There are many versions of "achara" but for us this is the best. <BR><BR/><strong>Team Members: </strong> <ul> Angel M. Esteron</br>Reziel Encarnacion</br>Danielle Quibael</br>Dennis Dimapilis</br>Jayson Solomon</br>Girlie Jhadery Corpuz</br>Ma. Carlota Casambros</br>Czarina Venice Arasula</br>Dr. Aurelia Dejan</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.7977696,14.1816554,0</coordinates></Point>
+    <styleUrl>#style_PRODUCTS</styleUrl>
+</Placemark>
+
+<Placemark id="33 ">
+   <name>La Playa Azul of Regalado</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="640" height="360" src="//www.youtube.com/embed/k2faQSBp89g" frameborder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Kabuhayan ay Galing sa Putikan!<BR><BR/><strong>Location: </strong>Oroquieta City, Misamis Occidental<BR><BR/><strong>Category: </strong>Community Products to Support</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Misamis Occidental National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This entry promotes the pottery products of Lopez Jaena, Misamis Occidental, a nearby municipality of Oroquieta City. It showcases how the people of Lopez Jaena live in the means of a unique livelihood. It also shows how the pottery business started - how it became their main source of living. It likewise illustrates the process of making the pottery products - from its source down to its finished products. This entry aims to promote the pottery products of Lopez Jaena not only to the Misamis Occidental community but to the whole world as well. <BR><BR/><strong>Team Members: </strong><ul>Julda Marie P. Alison</br>Maria Fleurellei L. Santos</br>Neil B. Naranjo</br>Elaiza Flor M. Arabiana</br>Penelope P. Almonte</br>Carlo G. Mananggit</br>Elaine Apple P. Olarte</br>Joel O. Pausanos, Jr.</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>123.83735,8.35335,0</coordinates></Point>
+    <styleUrl>#style_PRODUCTS</styleUrl>
+</Placemark>
+
+<Placemark id="34 ">
+   <name>Tablea de Alfonso Cooperatives</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME src="//prezi.com/embed/jklhr46zb0yp/?bgcolor=ffffff&#38;amp;amp;lock_to_path=0&#38;amp;amp;autoplay=0&#38;amp;amp;autohide_ctrls=0&#38;amp;amp;features=undefined&#38;amp;amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Tamis Nagpumiglas, Pait Iwinasiwas<BR><BR/><strong>Location: </strong>Cavite City, Cavite<BR><BR/><strong>Category: </strong>Community Products to Support</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Gen. E. Aguinaldo National High School - Bailen<BR><BR/><strong>School Type: </strong>Public <BR><BR/><strong>School Level: </strong>Secondary <BR><BR/><strong>Summary: </strong> The town of Alfonso is not only known for its Sanghiyang Festival. Another pride of Alfonso is its unique product "Tablea de Alfonso" made from dried cacao seeds. It is traditionally used as a hot drink or an additive for dessert. Aside from its oozing taste, it also contains powerful anti-oxidant to lower blood pressure and reduce the risk of heart attack. This project wants to promote Tablea through the world of web. Today, Tablea de Alfonso Cooperative is one of the sources of income of the town and of its members. It is also the town's icon for One Town, One Product program of DTI in the province and assisted by DOLE. <BR><BR/><strong>Team Members: </strong> </ul>Angel M. Esteron</br>Mc Kenley Lindong</br>Anjanette Malabanan</br>Angelica Cabanatan</br>Marieth Rose Castro</br>Abegail Panganiban</br>Marvin Familar</br>Jan Carlo de Taza</br>Dr. Aurelia Dejan</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.8817784,14.087574,0</coordinates></Point>
+    <styleUrl>#style_PRODUCTS</styleUrl>
+</Placemark>
+
+
+<Placemark id="90 ">
+   <name>Tindahan ni Aling Otya</name>
+   <description><![CDATA[<div align ="center"><q><img src="/img/Icon_Products.jpg" style="width:100%"></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Mahabang Pagkain , Hatihatiin at Ibitin Natin<BR><BR/><strong>Location: </strong>Cabanatuan City, Nueva Ecija<BR><BR/><strong>Category: </strong>Community Products to Support</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Nueva Ecija High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Cabanatuan City, Nueva Ecija is well-known for their delicious longganisa; especially theBatutay of AlingOtya. ICTlicious team was curious about the secrets in making those longganisa so we decided to discover the story behind the success of their business. Our group went to Super Market of Cabanatuan city to gather information about them. Luckily, they are generous in giving the information we want. We&#8217;ve  learned a lot from them. They taught us some techniques about starting and managing small business. They allowed us to try some steps in making longganisa. After the discussion, our team went to our  leader&#8217;s house and cook longganisa that we bought. Nanay Jenny, our leader&#8217;s mother taught us the steps in cooking it. We end up eating the delicious longganisa. We&#8217;re so glad and amazed by the things we  have discovered and we want it to share to all of you. <BR><BR/><strong>Team Members: </strong><ul>Diwata Villaflor</br>Gloria Rosanna V. Reguyal</br>Kimberly E. Tan</br>Wyndelle M. Espina</br>Quennie Lou Baluyot</br>Jessica Maryll Galang</br>Eduard Jemuel Fernando</br>Arvin Angelo Cabico</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.962999,15.4876938,0</coordinates></Point>
+    <styleUrl>#style_PRODUCTS</styleUrl>
+</Placemark>
+
+<Placemark id="12 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/kRd4fqmsskM frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, ang Buhay ay Susulong Parang Gulong<BR><BR/><strong>Location: </strong>Cavite City<BR><BR/><strong>Category: </strong>Community Products to Support</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Filipinos are resourceful, and diligent by nature. In the growing city of Cavite, wheels are one of the means of living especially in  transportation and business. The people of Cavite City find ways to help their families  in any way they can. This entry introduces a music video which highlights the diligence of many Cavite&#241;os, the true mark of local residents. Life progresses as each one take an action to survive and live. The undying ways of earning for living  using wheels are the things valuable to them. We can never look down to these  people for that means of living is the &#8220;bread and butter&#8221; that will rise up their families. <BR><BR/><strong>Team Members: </strong><ul>Liza Ilas</br>Lhei-Anne M. Crisostomo</br>Raina May M. Agellon</br>Dorina Grace D. Dulce</br>Juaniance Mendoza</br>Zorille T. Advincula</br>Raymond B. Dayday</br>Emmanuel G. Quinto</br>Stefany Z.Santos</ul></p><BR><BR/></div>]]></description>
+   <address>Cavite City</address>
+    <Point><coordinates>120.90866,14.48286,0</coordinates></Point>
+    <styleUrl>#style_PRODUCTS</styleUrl>
+</Placemark>
+
+<Placemark id="29 ">
+   <description><![CDATA[<div align ="center"><q><iframe src= https://prezi.com/embed/jklhr46zb0yp/?bgcolor=ffffff&#38;lock_to_path=0&#38;autoplay=0&#38;autohide_ctrls=0&#38;features=undefined&#38;disabled_features=undefined  width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Pait Iwinawasiwas, Pait Nagpumiglas<BR><BR/><strong>Location: </strong>Barangay Lucsuhin Alfonso, Cavite<BR><BR/><strong>Category: </strong>Community Products to Support</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Gen. E. Aguinaldo National High School-Bailen<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">The town of Alfonso is not only known for its Sanghiyang Festival. Another pride of Alfonso is its unique product "Tablea de Alfonso"  made from dried cacao seeds. It is traditionally used as a hot drink or an additive for dessert.  Aside from its oozing taste, it also contains powerful anti-oxidant  to lower blood pressure and reduce the risk of heart attack. This project wants to promote  Tablea through the world of web. Today, Tablea de Alfonso Cooperative is one of  the sources of income of the town and of its members. It is also the town&#39;s icon for  One Town, One Product program of DTI in the province and assisted by DOLE. <BR><BR/><strong>Team Members: </strong><ul>Angel M. Esteron</br>Mc Kenley Lindong</br>Anjanette Malabanan</br>Angelica Cabanatan</br>Marieth Rose Castro</br>Abegail Panganiban</br>Marvin Familar</br>Jan Carlo de Taza</br>Dr. Aurelia Dejan</ul></p><BR><BR/></div>]]></description>
+   <address>Barangay Lucsuhin Alfonso, Cavite</address>
+    <Point><coordinates>120.8836594,14.0844002,0</coordinates></Point>
+    <styleUrl>#style_PRODUCTS</styleUrl>
+</Placemark>
+
+<Placemark id="48 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src=https://www.youtube.com/embed/BVF6S73BBOQ frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, May Buhay Sa Malikhaing Kamay<BR><BR/><strong>Location: </strong>Taytay, Rizal<BR><BR/><strong>Category: </strong>Community Products to Support</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Manuel I. Santos Memorial National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This music video offers a song dedicated to the small medium entrepreneurs  of Taytay, Rizal. It also focuses on the Taytay, Rizal,  being known as the "Garments Capital of the Philippines". Our town was dubbed  as such due to the fact that most people in Taytay have dressmaking  business, designing business, and one of the sources of quality and affordable textiles in Rizal and other  nearby towns. Taytay is also popular with the HAMAKA Festival,  a feast showcasing the ingenuity, creativity, and innovation of the people of Taytay. <BR><BR/><strong>Team Members: </strong><ul>Razel Rios</br>Jomarie Quirante</br>Riamicah Miole</br>Joyce Daniell</br>Lomangaya</br>Charlie Roi Cabanos</br>Mark Neil Tabigan</br>Jessa Flores</ul></p><BR><BR/></div>]]></description>
+   <address>Taytay, Rizal</address>
+    <Point><coordinates>121.13164,14.57032,0</coordinates></Point>
+    <styleUrl>#style_PRODUCTS</styleUrl>
+</Placemark>
+
+
+<Placemark id="79 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src=https://www.youtube.com/embed/jkyTadsmOiY frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, May Tamis na Katangi-tangi<BR><BR/><strong>Location: </strong>Vinzons, Camarines Norte<BR><BR/><strong>Category: </strong>Community Products to Support</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Vinzons PIlot High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Our DPSA entry is about the "Pinyang Formosa" which  is the variety of our Province. We discussed all about it.It&#39;s products, history and many  more. We even interviewed someone from DTI to tell us things that  he knows about pinyang Formosa of Camarines Norte and we also did a short  story that which was an interpretation on  how the Spaniards brought the pineapple  in our country the time they conquered the Philippines. A part of the video was  about a plantation found here in camarines norte which produces and cultivates  pineapple specifically pinya Formosa <BR><BR/><strong>Team Members: </strong><ul>Sancho Noel D. Zafra</br>Arra Mae Montes</br>Aina Victoria Efa</br>Patricia Banzali</br>Onesimus Rigodon</br>John Paul Mago</br>Justin Apo</br>Belle Gail Gan</br>Alrianne Mica Relucio</br>Anthony Capistrano</ul></p><BR><BR/></div>]]></description>
+   <address>Vinzons, Camarines Norte</address>
+    <Point><coordinates>122.88494,14.14091,0</coordinates></Point>
+    <styleUrl>#style_PRODUCTS</styleUrl>
+</Placemark>
+
+</Document></kml>
+

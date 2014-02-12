@@ -1,0 +1,562 @@
+[
+    {
+        "region": "Region 1",
+        "name": "Ilocos Norte",
+        "slogan": "The Best of Culture and Nature",
+        "blurb": "Ilocos offers tourist a beautiful fusion of history, culture, and natural wonder. ",
+        "description": "Ilocos offers tourists a beautiful fusion of history, culture, and natural wonder. From its famous churches, museums, and landmarks, visitors can view the life of the Ilocanos during the Spanish Regime. Its falls and beaches, on the other hand can serve as a sanctuary of tranquility for tourists living the busy life.\n\nThe province is also famed as the hometown of former President Ferdinand Marcos, who ruled the country in authoritarian fashion for 22 years. Visitors can also take a glimpse of his life through the museums established in his honor."
+    },
+    {
+        "region": "Region 1",
+        "name": "Ilocos Sur",
+        "slogan": "Heritage Village of the Philippines",
+        "blurb": "Ilocos Sur can seemingly turn the hands of time bring back tourist to the Spanish occupation era.",
+        "description": "Famed for its museums and ancestral houses, Ilocos Sur can seemingly turn the hands of time bring back tourist to the Spanish occupation era. A visit to the province can give visitors a view of the life of the Filipinos under the rule of the Spaniards. Aside from this, there are several landmarks in found in Ilocos Sur which recants the stories of World War II."
+    },
+    {
+        "region": "Region 1",
+        "name": "La Union",
+        "slogan": "Pilgrimage Center and Surfers' Haven",
+        "blurb": "La Union is famed for its pilgrimage sites as well as pristine beaches and cool waterfalls.",
+        "description": "This quiet province of the north famed itself as the apparition site of the Virgin Mary during the 1990’s. Until today, Marian devotees head toward the oldest town in La Union to celebrate the Lenten season. Aside from Agoo, the Shrine of Our Lady of Namacpacan in Luna and Ma Cho in San Fernando City have its own share of devotees as well.\n\nMore than pilgrims, La Union has attracted nature lovers as well as it offers its pristine beaches and cool waterfalls. Its beaches has drawn surfers because of this high waves, especially during November to February. La Union also has its share of the rich history of the country, especially during World War II."
+    },
+    {
+        "region": "Region 1",
+        "name": "Pangasinan",
+        "slogan": "Hundred Islands and More",
+        "blurb": "Pangasinan has 100-in-1 natural wonder that make tourists stay longer: the Hundred Islands.",
+        "description": "A place where salt is made” is the etymological background behind the name Pangasinan which is based from its main word, asin or salt. The province is famous as the home of bagoong, or fermented fish sauce. Beyond bagoong and Dagupan’s bangus or milk fish, the province has 100-in-1 natural wonder that make tourists stay longer: the Hundred Islands in Alaminos City. Moreover, it can also brag of its historical significance particularly during the World War II."
+    },
+    {
+        "region": "CAR",
+        "name": "Abra",
+        "slogan": "The Philippines’ Natural Dye Capital",
+        "blurb": "Abra takes pride in maintaining traditional dye-making and coloring using natural dye taken from different plants. ",
+        "description": "Abra takes pride in maintaining traditional dye-making and coloring using natural dye taken from barks, leaves, fruits, and roots of different plants. This old tradition was revived and supported by the government and several influential personalities from Abra.\n\nAside from the dye industry, Abra has several natural wonders which are unknown to most tourists."
+    },
+    {
+        "region": "CAR",
+        "name": "Apayao",
+        "slogan": "Cordillera's Last Nature Frontier",
+        "blurb": " Apayao is home to rich, vast, and unexplored underground rivers, waterfalls, lakes, caves, and exotic wildlife.",
+        "description": "From its separation with the province of Kalinga, Apayao has opened its doors to its rich, vast, and unexplored underground rivers, waterfalls, lakes, caves, and exotic wildlife. The government, along with other organizations, is preparing these scenic spots for tourism purposes."
+    },
+    {
+        "region": "CAR",
+        "name": "Benguet",
+        "slogan": "Salad Bowl of the Philippines",
+        "blurb": "The high altitude location of the province is very ideal for growing almost all types of upland vegetables.",
+        "description": "The high altitude location of the province is very ideal for growing almost all types of upland vegetables. With this, Benguet received the title, “Salad Bowl of the Philippines”. Most of the vegetable supply in Metro Manila comes from the province. Aside from being the source of fresh vegetables, Benguet has become the getaway of local and foreign tourists who would like to cool down and escape the scorching heat of the summer sun."
+    },
+    {
+        "region": "CAR",
+        "name": "Ifugao",
+        "slogan": "Land of the Eighth Wonder of the World",
+        "blurb": "Ifugao is best known for the Banaue Rice Terraces, the 2,000 year old rice terraces made by the Ifugao natives without the use of machinery.",
+        "description": "The province of Ifugao is best known for the Banaue Rice Terraces, the 2,000 year old rice terraces made by the Ifugao natives without the use of machinery. It was recognize as a UNESCO World Heritage Site in 1995. Until now, this man-made wonder is still being used by the natives.\n\nThe site of Ifugao natives is a special treat for tourists. With their colorful clothes and ethnic dances preserved throughout the years, they give a glimpse of the Filipino culture before the Spaniards came to the Philippines."
+    },
+    {
+        "region": "CAR",
+        "name": "Kalinga",
+        "slogan": "Prince of the Highlands",
+        "blurb": "located 300 to 5,000 feet above sea level, Kalinga is surrounded with mountains from its neighbor provinces in the Cordillera Region.",
+        "description": "Kalinga is located 300 to 5,000 feet above sea level. The province is surrounded with mountains from its neighbor provinces in the Cordillera Region. Mount Mating-oy Dinayao and Mount Binaratan are the mountains that border the province.\n\nKalinga is also blessed with natural treasures. Lakes, rivers, falls, and mountain ranges surround the whole province. These are all well maintained and protected by the locals and the local government."
+    },
+    {
+        "region": "CAR",
+        "name": "Mountain Province",
+        "slogan": "Weaver's Paradise",
+        "blurb": "The natives of the province, called Bontocs, have continuously practiced the ancient craft of loom and blackstrap weaving using their traditional tools.",
+        "description": "As its name implies, this part of the CAR is surrounded by lush mountains which allowed the Bontocs to keep their religion and avoid the conquest of Spaniards.\n\nMountain Province has preserved the art of loom and blackstrap weaving. Passed on from generation to generation, the natives of the province, called Bontocs, have continuously practiced this ancient craft using their traditional tools. Thread and dye used for weaving come from plants and trees and are manually made as well."
+    },
+    {
+        "region": "Region 2",
+        "name": "Batanes",
+        "slogan": "Land of the True Insulares",
+        "blurb": "This serene province is dubbed as the ‘Land of the True Insulares’ because the Ivatans have kept the purity of their gene pool through time. ",
+        "description": "The northernmost and smallest province in the country is composed of 10 island: Mavudis (Yami), Misanga, Ditarem, Siayan, Itbayat, Dinem, Batan, Sabtang, Ivuhos, and Diadekey. Only Itbayat, Batan, and Sabtang are inhabited.\n\nThis serene province is dubbed as the ‘Land of the True Insulares’ because the Ivatans have kept the purity of their gene pool through time. They are said to be descendants of immigrants from Formosa, Taiwan and the Spaniards who came to the island in the 16th century."
+    },
+    {
+        "region": "Region 2",
+        "name": "Cagayan",
+        "slogan": "Spelunker's Paradise",
+        "blurb": "Caves found in Cagayan offer spelunkers and thrill seekers a set of challenging routes and pathways.",
+        "description": "Cagayan is considered as a spelunker’s paradise because of the number of caves found in the province. From the flooded caves of Odessa-Tumbali Cave System, to the large chambers of Callao caves, each cave offers spelunkers and thrill seekers a set of challenging routes and pathways.\n\nThe province is also popular for pilgrims and Marian devotees. The 14 Stations of the Cross in Iguig and the Basilica Minore of Our Lady of Piat are among the well known religious destinations in Cagayan."
+    },
+    {
+        "region": "Region 2",
+        "name": "Isabela",
+        "slogan": "Rice Granary of the North",
+        "blurb": "Isabela is gifted with vast agricultural lands which grow quality rice, tobacco, and crops which are exported to other countries.",
+        "description": "Dubbed as the ‘Rice Granary of the North’, Isabela is gifted with vast agricultural lands which grow quality rice, tobacco, and crops which are exported to other countries. Most farmlands in the province are highly mechanized.\n\nThe biggest dam project in the Asia during its construction, the Magat Dam, is located in the province as well. The dam supplies water to the farmland and households and electricity to certain parts of the region and the CAR (CAR)."
+    },
+    {
+        "region": "Region 2",
+        "name": "Neuva Viscaya",
+        "slogan": "Mountainside Province of the North",
+        "blurb": "Surrounded by Sierra Madre Mountain Ranges, Caraballo Mountains, and Cordillera Mountains, Nueva Vizcaya is fortunate to have vast land which can be used for agricultural, industrial, and tourism purposes.",
+        "description": "Surrounded by Sierra Madre Mountain Ranges, Caraballo Mountains, and Cordillera Mountains, Nueva Vizcaya is fortunate to have vast land which can be used for agricultural, industrial, and tourism purposes. As such, the province is now known as the new alternative destination for outdoor and environment enthusiasts. But aside from mountains and forests, Nueva Vizcaya boasts of its historical and religious significance. The Daltos Pass and the St. Vincent Ferrer Church are some of its treasured landmarks."
+    },
+    {
+        "region": "Region 2",
+        "name": "Quirino",
+        "slogan": "Forest Heartland of Cagayan",
+        "blurb": "Named after Elpidio Quirino, the sixth President of the Philippines, the province is the forest region of Nueva Vizcaya.",
+        "description": "Named after Elpidio Quirino, the sixth President of the Philippines, the province is the forest region of Nueva Vizcaya. As such, Ilongots, Ifugaos, Kankanai and Inibaloi were reported to have settled on the highlands of the province. Since it was made into an independent province on June 18, 1966, Quirino has unveiled its treasures to the world. These treasures include the Governor’s Rapids, Aglipay Cave, and Maddela Forest Resort and Waterfalls."
+    },
+    {
+        "region": "Region 3",
+        "name": "Aurora",
+        "slogan": "Sanctuary of Nature's Splendor",
+        "blurb": "Boasing of several unique beaches, falls, and reefs, this province is filled with natural wonders waiting to be explored.",
+        "description": "Named after former First Lady Aurora Quezon, the wife of Commonwealth President Manuel L. Quezon, this province is filled with natural wonders waiting to be explored. Aurora boasts of several unique beaches, falls, and reefs. These attractions offer tourist a multitude of water-related activities such as swimming, snorkeling, and surfing."
+    },
+    {
+        "region": "Region 3",
+        "name": "Bataan",
+        "slogan": "History Hub of Central Luzon",
+        "blurb": "Bataan is one of the most historical provinces in the Philippines with its every town and city figuring prominently in the World War II. ",
+        "description": "Bataan is one of the most historical provinces in the Philippines. Every town and city in the province has its own story to tell about World War II. Filipino, American, and Japanese blood were shed on almost every part of Bataan during the war. Bataan’s fall to the Japanese Imperial Army signified the beginning of a new era in Philippine history."
+    },
+    {
+        "region": "Region 3",
+        "name": "Bulacan",
+        "slogan": "Land of Heroes",
+        "blurb": "Many notable Filipino heroes and patriots, who were responsible in the formation of Philippine democracy to what the Filipinos know now, were born in Bulacan. ",
+        "description": "When studying Philippine History, Bulacan is one of the provinces that are usually mentioned. Many notable heroes and patriots were born in Bulacan. The list includes brothers Marcelo and Gregorio del Pilar, Francisco ‘Balagtas’ Baltazar, Maximo Viola, and Jose Corazon de Jesus. These individuals were responsible in the formation of Philippine democracy to what the Filipinos know now. Also, the city of Malolos is where the first Constitution in Asia was drafted.\n\nBut Bulacan is not only famous for its historical value. The province has grown to become one of the lead suppliers of water and energy for Metro Manila and nearby provinces, thanks to the Angat, Bustos and Ipo Dam. Also, several commercial resorts have been built in Bulacan, making it another popular destination during summer."
+    },
+    {
+        "region": "Region 3",
+        "name": "Nueva Ecija",
+        "slogan": "Rice Bowl of the Philippines",
+        "blurb": "Blessed with fertile land ideal for agriculture, Nueva Ecija is the biggest rice producer of Central Luzon.",
+        "description": "Since time immemorial, Nueva Ecija has been blessed with fertile land ideal for agriculture. It is the biggest rice producer of Central Luzon, thus, earning the title, \"Rice Bowl of the Philippines.\"\n\nThis land-bound province takes pride in notable historical and agricultural milestones. The Brains of the Revolution, Apolinario Mabini was arrested in Cuyapo. The Battle of Dalton Pass commenced in the borders of Nueva Ecija and Nueva Vizcaya. Camp Pangatian housed several prisoners of war during World War II. The construction of the Pantabangan Dam became an engineering marvel in the seventies. Finally, the Philippine Rice Research Institute served as the prime research center for rice development in Asia."
+    },
+    {
+        "region": "Region 3",
+        "name": "Pampanga",
+        "slogan": "Culinary Center of the Philippines",
+        "blurb": "Kapampangans impress tourists with the unique style and flavor of popular Filipino dishes.",
+        "description": "From the root word of its name, pampang, meaning by the river, where the early Filipino settlers dwell and find their source of food, this province is known as the ‘Culinary Center of the Philippines’. Locals impress tourists with the unique style and flavor of popular Filipino dishes. Kapampangans also take pride in innovating pasteurized and processed meat products."
+    },
+    {
+        "region": "Region 3",
+        "name": "Tarlac",
+        "slogan": "Melting Pot of Central Luzon",
+        "blurb": " Tarlac houses the mixed culinary artistry of Nueva Ecija, Zambales, Pangasinan, Bulacan, and the Ilocos Region.",
+        "description": "Its name was derived from a local weed called Malatarlak, which covered vast areas of the province. Originally a part of two provinces, Pampanga and Pangasinan, Tarlac became popular as one of the sites of the Bataan Death March where thousands of soldiers walk to their death during the Japanese Occupation in 1943. Aside from this, Tarlac houses the mixed culinary artistry of Nueva Ecija, Zambales, Pangasinan, Bulacan, and the Ilocos Region. It is also the last province established in Central Luzon by the Spanish Colonial Government."
+    },
+    {
+        "region": "Region 3",
+        "name": "Zambales",
+        "slogan": "The Philippines' Wreck Diving Capital",
+        "blurb": "Zambales houses wreck sites that have served as the sanctuary to the country’s wide array of marine species.",
+        "description": "Gifted with a coastline painted by white sand, Zambales has become one of the famous beach destinations in the country. But Zambales offers something quite unique to its visitors – its wreck dive sites. Subic Bay is home to ten different wreck sites which silently tell a fraction of the history of the Philippines. These wreck sites have served as the sanctuary to the country’s wide array of marine species.\n\nThe infamous Mount Pinatubo is also located in Zambales. Famed for its eruption in 1991, tourist and locals now see the once feared volcano as a new means of recreation for tourists and income for locals."
+    },
+    {
+        "region": "Region 4-A",
+        "name": "Cavite",
+        "slogan": "Historial Capital of the Philippines",
+        "blurb": "Cavite is known as one of the most historical places in the country and a battleground for independence.",
+        "description": "Its name originated from the word kawit, or hook. From the characteristics of the hook, strong and deadly when used to defend oneself, Cavite is known as one of the most historical places in the country and a battleground for independence. Numerous battles were fought here including the Battle of Zapote Bridge, one of the most decisive battles during the Philippine Revolution. It is here where the Thirteen Martyrs were executed for their cooperation with the Katipinan. In Kawit, Cavite, Philippine Independence was declared by Gen. Emilio Aguinaldo.\n\nAside from history, Cavite is also a venue for fun and relaxation. One of its provinces, Tagaytay City is billed as Philippines’ second Summer Capital. It offers cool weather and scenic view of the Taal Lake, a lake within an island within a lake."
+    },
+    {
+        "region": "Region 4-A",
+        "name": "Laguna",
+        "slogan": "Resort Haven",
+        "blurb": "Laguna is filled with illustrious bodies of water that offer relaxation for those who want to escape the fast city life and recline to the beauty of Mother Nature.",
+        "description": "Aside from being the hometown of the Philippines' National Hero, Dr. Jose Rizal, Laguna is considered as a resort haven. The province is filled with illustrious bodies of water; examples are Pagsanjan Falls, Seven Lakes, Caliraya Lake, Laguna de Bay, and Hidden Valley Springs. These nature-drawn wonders offer relaxation for those who want to escape the fast city life and recline to the beauty of Mother Nature."
+    },
+    {
+        "region": "Region 4-A",
+        "name": "Batangas",
+        "slogan": "A Coffee Connoisseur's Favorite",
+        "blurb": "With its distinct taste when brewed, Batangas coffee (locally known as kapeng barako) has amazed both local and foreign palate.",
+        "description": "With its distinct taste when brewed, kapeng barako (Batangas coffee) has amazed both local and foreign palate. Locally grown in the fertile lands of Batangas, kapeng barako has definitely put the province on the map. But aside from coffee, the province of Batangas is home to some of the best beaches and resorts in the country. Also, Batangas is the cradle of some Philippine heroes and nationalists such as Apolinario Mabini and former president Jose P. Laurel."
+    },
+    {
+        "region": "Region 4-A",
+        "name": "Rizal",
+        "slogan": "Cradle of Philippine Art",
+        "blurb": "Rizal is filled with art galleries and masterpieces done by some of the country's renowned artists.",
+        "description": "As the hometown of two National Artists, Carlos ‘Botong’ Francisco and Lucio San Pedro, the province is filled with art galleries and the artistry of emerging artist are becoming evident as well. Churches found in the province also reflect the Filipino artistry, as influenced by Spanish and other cultures."
+    },
+    {
+        "region": "Region 4-A",
+        "name": "Quezon",
+        "slogan": "Land of a Thousand Colors",
+        "blurb": "Quezon celebrates Pahiyas Festival, one of the most colorful events in the country, where houses are decorated with fruits, vegetables, croups, and colorful rice wafers.",
+        "description": "Named after former Philippine President Manuel L. Quezon, the province celebrates one of the most colorful events in the country – the Pahiyas Festival. Houses are decorated with fruits, vegetables, croups, and colorful rice wafers called kiping\n\nAside from this colorful fiesta, white sand beaches are located in different parts of the province which can provide utmost relaxation for any visiting tourist. Mount Banahaw is accessible through Quezon which can give the adventure thrill seekers and nature lovers are looking for."
+    },
+    {
+        "region": "Region 4-B",
+        "name": "Occidental Mindoro",
+        "slogan": "Marine Wonderland of Luzon",
+        "blurb": "Occidental Mindoro is considered as one of the richest provinces in the Philippines in terms of beaches, dive sites, coral gardens, and marine biodiversity. ",
+        "description": "From its Spanish-given name, mina de oro meaning mine of gold, Occidental Mindoro is considered as one of the richest provinces in the Philippines; not in terms of gold or precious stones but in beaches, dive sites, coral gardens, and marine biodiversity. The most famous of which is the Apo Reef National Park, a 34-kilometer coral paradise. With this, the province is slowly emerging as a diving hotspot in the Philippines.\n\nAside from marine life, Occidental Mindoro is the remaining sanctuary of the tamaraws. These endemic creatures are dwindling in numbers but the rich virgin forests of the province has provided them with protection and stable food source."
+    },
+    {
+        "region": "Region 4-B",
+        "name": "Oriental Mindoro",
+        "slogan": "The Island's Loveliest Harbor",
+        "blurb": "This province boasts of its natural treasures, which include Puerto Galera, one of the most beautiful natural harbors all over the world.",
+        "description": "Like Occidental Mindoro, Oriental Mindoro has its own set of natural treasures. These are in the form of white sand beaches, coral reefs, rain forests, and dive sites. Its foremost asset is Puerto Galera, endowed with one of the most beautiful natural harbors all over the world. There are shallow coral gardens, interesting rock formations, and colorful species to watch, like crabs, shrimps, sea anemones, moray, and trumpet fishes.\n\nThe Mangyan settlement areas is another treasure of Oriental Mindoro. Amidst modernization, this ethnic tribe has managed to protect and preserve their cultural identity and keep their ways. Now, the Mangyans have become a respected community in the province and serves as the primary protector of Oriental Mindoro's natural treausres."
+    },
+    {
+        "region": "Region 4-B",
+        "name": "Marinduque",
+        "slogan": "Lenten Mecca of Southern Tagalog",
+        "blurb": "Marinduque is home to one of the biggest festivals held during Lenten Season, the Moriones Festival.",
+        "description": "Although it is the smallest province in the Southern Tagalog region, Marinduque is home to one of the biggest festivals held during Lenten Season, the Moriones Festival. Streets are filled with locals wearing masks garbed in Roman soldier clothing complete with armor, shield, lance, and sword, replicating the Roman soldier Longhinus who stabbed the side of Jesus Christ and His blood cured the centurion’s blindness.\n\nWith the number of beautiful old churches in the province, Visita Iglesia has become another spiritual activity in the province during Lent. Unknowingly, this small island offers many tourist destinations. From pristine and secluded beaches, to underwater paradise gateways, Marinduque gives tourists more than one reason to stay longer."
+    },
+    {
+        "region": "Region 4-B",
+        "name": "Romblon",
+        "slogan": "Marble Country of the Philippines",
+        "blurb": "Romblon is filled with large deposits of export-quality marble, said to be comparable to those found in Italy.",
+        "description": "The archipelagic province of Romblon is composed of 50 islands and 108 islets, 31 of which are named. The three major islands of the province are Tablas, Sibuyan, and Romblon. The island of Romblon is filled with large deposits of export-quality marble, said to be comparable to those found in Italy.\n\nBut Romblon is more than marble. The province is also blessed with natural wonders like white sand beaches, dive sites, and mountains that are yet to be explored and exposed to the public."
+    },
+    {
+        "region": "Region 4-B",
+        "name": "Palawan",
+        "slogan": "The Last Ecological Frontier of the Philippines",
+        "blurb": "Blessed with amazing natural wonders, Palawan serves as undisturbed sanctuary of various marine and terrestrial animals",
+        "description": "Composed of 1,780 islands and islets, rocky coves, and white sand beaches, Palawan has become one of the premier destination in the Philippines. It offers an array of activities such as island hopping, scuba diving, snorkeling, and swimming. Aside from this, the province serves as the undisturbed sanctuary of various marine and terrestrial animals, thus making it the biggest natural wildlife reservation area in the country."
+    },
+    {
+        "region": "Region 5",
+        "name": "Albay",
+        "slogan": "Land of the Most Perfect Cone",
+        "blurb": "The province hosts the main attraction in the whole Bicol region, Mayon Volcano.",
+        "description": "Located between Camarines Sur and Sorsogon, the province hosts the main attraction in the whole Bicolandia region, Mayon Volcano. Aside from this natural wonder, Albay offers its visitors several natural, historical, man-made and cultural spectacles. Add to that the unique and palatable delicacies which use either chili or coconut milk as main ingredient."
+    },
+    {
+        "region": "Region 5",
+        "name": "Camarines Norte",
+        "slogan": "Bicolandia's Goldmine",
+        "blurb": "Camarines Norte is gifted with various natural treasures, one of which is gold. ",
+        "description": "Camarines Norte serves as the gateway to the Bicol region. The province is gifted with various natural treasures, one of which is gold. The town of Paracale is considered as the 'gold country' of the province. With this, Paracale became the center of jewelry-making industry and is still regarded as a good place to purchase fine gold jewelry. One of the ancient jewels made in Paracale is the 'agrimon', a flat necklace chain of the 19th century.\n\nBut Camarines Norte has other ‘golden treasures’. The First Rizal monument was erected in its capital, Daet, only two years after Dr. Jose Rizal was executed in Bagumbayan. Bagasbas Beach, Mercedes and Calaguas Group of Islands are famed white sand beaches and great waves, ideal for surfing enthusiasts."
+    },
+    {
+        "region": "Region 5",
+        "name": "Camarines Sur",
+        "slogan": "Home of the Penafrancia and Wakeboarding Capital",
+        "blurb": "The province is famous for being the home of the Our Lady of Penafrancia and one of the biggest water sports complex in the country.",
+        "description": "Camarines Sur is known as the home of the Our Lady of Penafrancia. The whole Bicol Region as well as devotees all over the country visit the province September of every year to attend the fluvial festival. Their veneration to the Our Lady is proof of how religious the Bicolanos are.\n\nAside from this religious icon, CamSur has slowly developed economically. The state-of-the-art Camarines Sur Watersports Complex (CWC) has become the favored venue for water sports activities, especially wakeboarding. CWC has served as the venue of numerous local and international water sport events."
+    },
+    {
+        "region": "Region 5",
+        "name": "Catanduanes",
+        "slogan": "Eco-Adventure Paradise",
+        "blurb": "The whole strip of Catanduanes is virtually untouched, unspoiled, and unexplored, making it a curious destination among nature lovers.",
+        "description": "The whole strip of Catanduanes is virtually untouched, unspoiled, and unexplored. It has a long string of palm-fringed beaches backed by jungle-covered mountains and crowned with jewel-like islets. It offers a totally laid-back rural charm, a beautiful natural environment and plenty of easy action at a pace that is always relaxed.\n\nCatanduanes is also a budding surfing destination in the Philippines. During the months of August to September, novice and experienced surfer ride the “Majestic” wave and enjoy its white sand beach afterwards."
+    },
+    {
+        "region": "Region 5",
+        "name": "Masbate",
+        "slogan": "Rodeo Country of Bicol",
+        "blurb": "Unique ‘cowboy life’ can be experienced in Masbate during the Rodeo Masbateño Festival. It celebrates the cattle raising industry as its main source of livelihood.",
+        "description": "The province got its name from a simple misunderstanding between some Spanish explorers and a couple making chocolate. When the visitors asked them the name of the place, the couple thought the former wanted to know what they were doing and answered \"Mas bati\" meaning \"mixing vigorously\", so the Spaniards recorded it as \"Masbate\".\n\nBut it is no mistake to take time and see the wonders of this province. It is blessed with unspoiled natural beaches, falls, and rich flora and fauna. Communing with nature is a rewarding experience for any visitor. Also, one can experience the unique ‘cowboy life’ in Masbate by witnessing the Rodeo Masbateño Festival. It celebrates the cattle raising industry as its main source of livelihood through different competitions and activities."
+    },
+    {
+        "region": "Region 5",
+        "name": "Sorsogon",
+        "slogan": "Bicol's Whale Shark Paradise",
+        "blurb": "Sorsogon is one of the few places in the world  where whale sharks can be found",
+        "description": "The province of Sorsogon is one of the few places in the world  where whale sharks can be found. Known to be the biggest fish in the world, whale sharks (locally known as butanding) are well taken care off by the residents of the province. It is the only place in the world where divers can closely watch or interact with these gentle giants of the sea.\n\nAside from butandings, other natural attractions in Sorsogon include the islands of Matnog, Mt. Bulusan National Park and Mountain Lake, among others. The province is filled with numerous wonders waiting to be explored and shared with the rest of the world. Still, Sorsogon shall be able to keep its simplicity and unique beauty."
+    },
+    {
+        "region": "Region 6",
+        "name": "Aklan",
+        "slogan": "The Philippines' Paradise Island",
+        "blurb": "Aklan's prominence in the international map is largely because of Boracay, one of the premiere destinations in the Philippines due to its captivating beauty.",
+        "description": "Aklan, one of the provinces in the Panay Island, was originally known as \"Minuro it Akean\". It is considered as the oldest province in the country and is believed to have been established as early as 1213 by settlers from Borneo. No matter how old the province is, its beauty never fades.\n\nAklan is famous for Boracay island, one of the premiere destinations in the Philippines due to its captivating beauty and fine white sand beach."
+    },
+    {
+        "region": "Region 6",
+        "name": "Antique",
+        "slogan": "Malay’s First Settlement Site",
+        "blurb": "Antique was the landing site of Datu Puti and the rest of the Ten Bornean Datus who escaped persecution from a Hindu-Malay empire.",
+        "description": "Antique, one of the provinces in the island of Panay, was the landing site of Datu Puti and the rest of the Ten Bornean Datus who escaped persecution from Sri-Vishaya, a Hindu-Malay empire that existed at that time in Borneo and Sumatra. The datus bought the island from the Aeta tribe chieftain Marikudo and his wife Maniwangtiwan for a golden saduk (headpiece or helmet), and a golden necklace, given to his wife, among other gifts. This is the story behind the yearly Binirayan Festival.\n\nNow, this hidden paradise is slowly being discovered by locals and foreign tourists. Among its treasures are the Rafflesia, the world’s biggest flower, Philippine spotted deer, cloud rat, rare orchids, and other rare flora and fauna. Aside from this, modern activities like white water kayaking have found a home in the rivers of Antique."
+    },
+    {
+        "region": "Region 6",
+        "name": "Negros Occidental",
+        "slogan": "Sugar Bowl of the Philippines",
+        "blurb": "Negros Occidental is covered with vast expanse of sugar cane plantations that supply the Philippines and its neighboring countries with sugar.",
+        "description": "Found in the northwestern portion of Negros Island, this ‘sweet’ island is covered with vast expanse of sugar cane plantations that supply the Philippines and its neighboring countries with sugar. Negros Occidental also offers its visitors places of beauty and wonder. White sand beaches, ancestral houses and falls are located throughout the province. It is one of the few places in the world that has a working and operating ‘iron dinosaur’ – steam locomotives."
+    },
+    {
+        "region": "Region 6",
+        "name": "Capiz",
+        "slogan": "Country's Seafood Capital",
+        "blurb": "Capiz boasts of a rich marine life, which supplies the seafood demand of Metro Manila and nearby provinces.",
+        "description": "Another province in Panay Island, Capiz boasts of its rich marine life which supplies the seafood demand of Metro Manila and nearby provinces. Its 80-kilometer coastline and wide expanse of swampy lands are easily converted into fishponds. It holds one of the richest fishing grounds and a major contributor in the aquamarine industry of the Philippines. Capiz is also one of the country’s major suppliers of prawn and milk fish. Other agro-industrial harvests include blue marlin, squid, oysters, shrimp, seaweed, squid and angel wings.\n\nAside from its marine life, Capiz houses other treasures such as the biggest bell in Southeast Asia and the most versatile and commercially viable sea shell, the pi-os or the Capiz shell."
+    },
+    {
+        "region": "Region 6",
+        "name": "Guimaras",
+        "slogan": "Mango Country of the Visayas",
+        "blurb": "Guimaras is well-known for its agricultural crops, particularly mangoes, where some 50,000 of these trees are planted. ",
+        "description": "Guimaras is well-known for its agricultural crops, particularly mangoes, where some 50,000 of these trees are planted. The Guimaras Island is famous for producing the sweetest mangoes in the world, the golden carabao mango.\n\nThis sweet treat is not the only thing this island province has to offer. Its capital, Jordan, has become a pilgrimage site because of the popular Holy Week presentation called Ang Pagtaltal sa Guimaras, a re-enactment of the Passion of Christ. It also has an array of white sand beaches and small coral islands, most of which are still to be discovered by the world, making them a great place to commune with nature."
+    },
+    {
+        "region": "Region 6",
+        "name": "Iloilo",
+        "slogan": "Heritage Haven of Panay",
+        "blurb": "Iloilo is rich not only with cultural and historical treasures but also with mouthwatering dishes one can't say \"no\" to.",
+        "description": "Iloilo, one of the provinces found in the Panay Island is rich with cultural and historical treasures. These include the Jaro Cathedral, Miagao Church, San Joaquin Church, Casa Real de Iloilo, Panay Liberation Marker, and more.\n\nIts other treasures are not found on the streets but on the dining table, The Ilonggos' prowess in the kitchen manifests in their array of mouthwatering dishes, the most famous of which is the La Paz Batchoy."
+    },
+    {
+        "region": "Region 7",
+        "name": "Bohol",
+        "slogan": "History and Natural Wonders Combined",
+        "blurb": "Blessed with white sand beaches, breathtaking dive sites, fertile lands, and rich history and culture, Bohol surely has something for everyone.",
+        "description": "Another gem in the Visayas region is the province of Bohol. Blessed with white sand beaches, breathtaking dive sites, fertile lands, and rich history and culture, Bohol surely has something for everyone.\n\nAmong its prominent tourist destinations are the Chocolate Hills, Blood Compact Site, Baclayon Church, Panglao beaches, and Tarsier sanctuary. These endangered species are indigenous to the province and has been well protected by the government and locals."
+    },
+    {
+        "region": "Region 7",
+        "name": "Cebu",
+        "slogan": "Queen City of the South",
+        "blurb": "With its modern structure, urbanized cities, and active economy, Cebu is one of the prime provinces in the country.",
+        "description": "Cebu is the Manila of Visayas. With its modern structure, urbanized cities, and active economy, it has become one of the prime provinces in the country. But amidst the face of modernity, Cebu retained and maintained its unique color and atmosphere that makes it a premiere vacation and leisure destination in the Philippines."
+    },
+    {
+        "region": "Region 7",
+        "name": "Negros Oriental",
+        "slogan": "Whale and Dolphin Haven",
+        "blurb": "With its breathtaking caves, magnificent lakes, scenic beaches, world-class marine reserves, alluring dive sites, and sites of playful dolphins and whales, tourists will find Negros Oriental simply irresistible.",
+        "description": "The province occupies the south-eastern half of the island of Negros. With its breathtaking caves, magnificent lakes, scenic beaches, world-class marine reserves, alluring dive sites, and sites of playful dolphins and whales, tourists will find Negros Oriental simply irresistible.."
+    },
+    {
+        "region": "Region 7",
+        "name": "Siquijor",
+        "slogan": "Magical Paradise of Visayas",
+        "blurb": "From enchanting beaches to Pre-Hispanic churches, Siquijor is surely a province worth visiting.",
+        "description": "In the 16th century, the Spaniards called Siquijor Isla del Fuego or ‘Island of Fire’. They gave the name because of the abundance of fireflies that lit up the trees in the island during the night. The presence of fireflies indicates that the place has a healthy environment. This is the real magic of Siquijor.\n\nPrimarily, the province is famous for its sorcerers, shamans, and witches. Now, these stories are replaced with discoveries of its natural and cultural treasures. From enchanting beaches to Pre-Hispanic churches, Siquijor is surely a province worth visiting.."
+    },
+    {
+        "region": "Region 8",
+        "name": "Biliran",
+        "slogan": "An Untouched Paradise",
+        "blurb": "As more is learned about this hidden paradise, Biliran’s undiscovered and unexplored wonders are starting to unravel before the world. ",
+        "description": "Little is known about the province of Biliran. It was once a part of the province of Leyte until it became independent in 1992.\n\nAs more is learned about this hidden paradise, Biliran’s undiscovered and unexplored wonders are starting to unravel before the world. Among its well-kept treasure is the Higatangan Island, famous for its moving sandbar and the Tomalistis Falls, believed to have the clearest water in the world. Biliran still has more beaches, caves, dive sites, and other places of interest waiting to be discovered."
+    },
+    {
+        "region": "Region 8",
+        "name": "Eastern Samar",
+        "slogan": "Gateway To Philippine Discovery",
+        "blurb": "Facing the Pacific Ocean, Eastern Samar served as the gateway to the ‘discovery’ of the Philippines, which signaled the beginning of a new era in Philippine history.",
+        "description": "The coast of this part of Samar island faces the Pacific Ocean. As such, it has been called as the “eastern gateway to the Philippines”. History recounts how the meek island of Homonhon in Eastern Samar served as the gateway to the ‘discovery’ of the Philippines, which signaled the beginning of a new era in Philippine history.\n\nNow, local and foreign tourists are discovering the natural and historical wonders of this province. Among its gems include the Balangiga Encounter Monument, Church of the Immaculate Conception, and Kantican Island."
+    },
+    {
+        "region": "Region 8",
+        "name": "Leyte",
+        "slogan": "Land of History",
+        "blurb": "It was on the shores of Leyte that General Douglas MacArthur fulfilled his promise to the Filipino people of returning to the Philippines and helping the Filipino forces liberate the country.",
+        "description": "It was on the shores of Leyte that General Douglas MacArthur fulfilled his promise to the Filipino people of returning to the Philippines and helping the Filipino forces liberate the country. This happened on October 20, 1944. With this, Leyte became one of the most historically-rich provinces of the Philippines. From battlegrounds to memorials, Leyte has various ways to commemorate this historic event.\n\nAside from its rich history, Leyte is also home to one of the country’s architectural wonder: the San Juanico Bridge. Surely, Leyte has a lot to offer and will definitely captivate a tourist’s mind and heart."
+    },
+    {
+        "region": "Region 8",
+        "name": "Northern Samar",
+        "slogan": "Hidden Paradise of Visayas",
+        "blurb": "Northern Samar’s treasures are like crops waiting to be harvested and shared to all. It is just in a matter of time before the world discovers the beauty of the province.",
+        "description": "The province of Northern Samar is another hidden paradise of the country. Concealed to the world are its breathtaking natural wonders and rich history. One of its unexplored mysteries is the growing rock found in the municipality of Allen. There is also the fortified island of Capul and the Saint Ignatius of Loyola Church. The Sumuroy Rebellion, the first organized rebellion against the Spanish regime, began here in present-day Palapag.\n\nTruly, Northern Samar’s treasures are like crops waiting to be harvested and shared to all. It is just in a matter of time before the world discovers the beauty of the province."
+    },
+    {
+        "region": "Region 8",
+        "name": "Southern Leyte",
+        "slogan": "The Centuries Old Charmer",
+        "blurb": "Southern Leyte’s natural wonders do not fail to impress its visitors. ",
+        "description": "March 31, 1521 became the turning point in the history of the province. On that day, the ‘first’ Christian mass was held in the country, signifying the start of the spread of the Catholic faith in the Philippines. But years after, Southern Leyte still has more secrets which capture the interest of local and foreign tourists alike.\n\nSouthern Leyte’s natural wonders never fail to impress its visitors. Among its famed tourist destinations include the Sun-ok and Napantaw Fish Sanctuary, Patag Daku and Maamo Beach. These and more await the adventure loving visitors of Southern Leyte."
+    },
+    {
+        "region": "Region 8",
+        "name": "Samar",
+        "slogan": "Splendor Between Mountain and Sea",
+        "blurb": "Samar is nestled between mountain and sea, bountiful waters on the west and low mountain ranges on the east. ",
+        "description": "The province of Samar is nestled between mountain and sea, bountiful waters on the west and low mountain ranges on the east. With this, Samar is blessed with a lush rainforest, exotic flora and fauna, and natural wonders that has attracted local and foreign nature-loving tourists. Its famed attractions include the Sohoton Natural Bridge National Park and Calbiga Cave.\n\nAside from its natural treasures, it boasts of architectural and cultural wonders as well. There is the 17th century old Basey Church, Calbayog Cathedral, Samar Archeological Museum and Research Center, and the San Juanico Bridge."
+    },
+    {
+        "region": "Region 9",
+        "name": "Zamboanga del Norte",
+        "slogan": "Twin City Province",
+        "blurb": "Zamboanga del Norte has two cities, Dipolog and Dapitan, which are both rich in history and culture",
+        "description": "As the name implies, Zamboanga del Norte has two cities, Dipolog and Dapitan, which are rich in history and culture. Dapitan is dubbed as the ‘Shrine Capital of the Philippines’ since this is where Philippine National Hero Dr. Jose P. Rizal stayed in exile and brought progressive changes in the city. Dipolog on the other hand is known as the ‘Orchid City’ since most households have this plant growing in their yard.\n\nHere in Zamboanga del Norte, history, culture, and progress blend well together. Aside from cultural and historical landmarks, the province has started to show signs of progress and development brought about by the rise of tourism in the province. Soon, Zamboanga del Norte will become one of the prime destinations in the country."
+    },
+    {
+        "region": "Region 9",
+        "name": "Zamboanga del Sur",
+        "slogan": "Fusion of Diverse Cultures",
+        "blurb": "From Spanish-era forts to cultural villages showcasing indigenous arts and crafts, Zamboanga del Sur has a lot to offer to anyone seeking to know more about the rich culture of the Philippines.",
+        "description": "Zamboanga del Sur, one of the province in the Zamboanga Peninsula, is perhaps the best example on how diverse cultures have seemingly fused together in one place. The culture of the Subanons, the first inhabitants of the province, and Spaniards are well reflected in their ways and celebrations.\n\nThis fusion is very evident in the tourist attractions of the province; from Spanish-era forts to cultural villages showcasing indigenous arts and crafts, Zamboanga del Sur has a lot to offer to anyone seeking to know more about the rich culture of the Philippines."
+    },
+    {
+        "region": "Region 9",
+        "name": "Zamboanga Sibugay",
+        "slogan": "Sea snake Sanctuary and Oyster Haven",
+        "blurb": "Due to its rich and clean waters where sea snakes and oysters are aplenty, Zamboanga Sibugay has caught the attention of tourist and local media. ",
+        "description": "Due to its rich and unpolluted waters, the province of Zamboanga Sibugay has caught the attention of tourist and local media. Sea snakes, locally called walo walo swin freely on its seas and crawls on its shores. Oysters found in the province can grow as long as 12 inches in length, making them the biggest, and as some say, the juiciest in the country.\n\nBut more than snakes and oysters, Zamboanga Sibugay takes pride in its rich and unspoiled natural wonders. These include Sibuguey Bay, Tantanan Bay, and Pandilusan Island."
+    },
+    {
+        "region": "Region 10",
+        "name": "Bukidnon",
+        "slogan": "Watershed of Mindanao",
+        "blurb": "With several rivers carving its landscape and creating numerous canyos, Bukidnon earned the name \"watershed of Mindanao.\"",
+        "description": "Bukidnon is known as the watershed of Mindanao. Several rivers carved the landscape of the province, creating numerous canyons. These rivers then serve as source of potable water for the residents of Bukinon and nearby province of Misamis Oriental. More than a watershed, Bukidnon has a lot to offer, especially when it comes to tourism.\n\nThe Kitanglad Mountain Range is where the second highest peak in the country is located – Mt. Dulang-Dulang. The Philippine monkey-eating eagle lives in its thick forest, and the biggest flower in the country, the Rafflesia, is found at the foot of Mt. Kitanglad. The Del Monte Philippines Plantation, the largest pineapple plantation in the Far East, covers the vast lands of the province. With this, Bukidnon can attract tourist with different interests as it has something to offer for everyone."
+    },
+    {
+        "region": "Region 10",
+        "name": "Camiguin",
+        "slogan": "Island Born of Fire",
+        "blurb": "A pear-shaped humble island lying in the Bohol sea, Camiguin houses seven volcanoes in its territory. ",
+        "description": "Camiguin is said to be ‘born of fire’, for the province has seven volcanoes in its territory. These are Mount Hibok-Hibok, Mount Vulcan, Mount Guinsiliban, Mount Mambajao, Mount Timpoong, Mount Tres Marias, and Mount Uhay. The most notable are Mount Hibok-Hibok and Mount Vulcan. The documented eruption of these two volcanoes shaped the province to what is its today.\n\nAside from the mentioned nickname, Camiguin is known as the Philippines’ Garden of Eden because of its unique and rich natural attractions. White Island, Old Vulcan, Ardent Hot Spring, Sto. Niño Cold Spring, and Mount Hibok-Hibok are some of its famed destinations."
+    },
+    {
+        "region": "Region 10",
+        "name": "Lanao del Norte",
+        "slogan": "Land of Beauty and Bounty",
+        "blurb": "Lanao de Norte has so much to offer to tourists and travelers that those who dared explore its hidden gems leave the province with memories they will treasure forever. ",
+        "description": "The province of Lanao del Norte has so much to offer that those who dared explore its hidden gems leave the province with memories they will treasure forever. For one, it is the only province in the country that has 22 scenic waterfalls, the most famous of which is Maria Cristina Falls..\n\nLanao del Norte also takes pride in their festivities which depict their rich culture, pay tribute to their heritage and highlight their local products. Among the notable festivals include Sagayan, Diyandi and Alimango Festival."
+    },
+    {
+        "region": "Region 10",
+        "name": "Misamis Oriental",
+        "slogan": "Mindanao's Nature Front",
+        "blurb": "From white water rafting to canopy walk, nature loving visitors in Misamis Oriental will surely enjoy every activity the province has to offer. ",
+        "description": "Any nature tripping adventure is possible in Misamis Oriental. From white water rafting in Cagayan de Oro River to Canopy walk in Claveria, nature loving visitors will surely enjoy every activity the province has to offer. The province is blessed with lush greenery and unspoiled waters that serve as sanctuary for several species. With such rich ecosystem, Misamis Oriental served as the dwelling place of several ethnic tribes in Mindanao."
+    },
+    {
+        "region": "Region 10",
+        "name": "Misamis Occidental",
+        "slogan": "A Place of Beauty and Splendor ",
+        "blurb": "From religious festivals to scenic parks and bodies of water, Misamis Occidental has the tourist destinations that will make traveler visit and explore this place.",
+        "description": "Misamis Occidental has a lot to offer all year round. From religious festivals to scenic parks and bodies of water, Misamis Occidental has the tourist destinations that will make traveler visit and explore this place."
+    },
+    {
+        "region": "Region 11",
+        "name": "Compostella Valley",
+        "slogan": "Golden Valley of Mindanao",
+        "blurb": "The largest gold reserve of the country is found in Compostella Valley, specifically at Mount Diwalwal. ",
+        "description": "The newly established province of Southern Mindanao is one of the fine treasures of the entire Philippines. The largest gold reserve of the country is found here, specifically at Mount Diwalwal. But Compostela Valley is more than gold.\n\nThe province is one of the untapped natural gems of the country. Its thick, undisturbed forest serves as home to numerous endemic and endangered flora and fauna. These include the Rafflesia, the world’s biggest flower. Aside from this, Compostela Valley has several scenic spots waiting to be ‘discovered’ for the world to see."
+    },
+    {
+        "region": "Region 11",
+        "name": "Davao del Norte",
+        "slogan": "Beach Paradise of the North",
+        "blurb": "Davao del Norte offers tourists a place of tranquility where they can escape the hustle and bustle of the busy city life. ",
+        "description": "Blessed with long stretches of pristine white sand beach, Davao del Norte is one of the provinces in Mindanao that offers tourists a place of tranquility where they can escape the hustle and bustle of the busy city life. Aside from its beaches, the land of Davao has been cultivated for banana and coffee plantation."
+    },
+    {
+        "region": "Region 11",
+        "name": "Davao del Sur",
+        "slogan": "Land of Heights and Flights",
+        "blurb": "Davao del Sur is one of the richest provinces in Mindanao in terms of natural treasures, which include the country’s highest peak and the national bird.",
+        "description": "Davao del Sur is one of the richest provinces in Mindanao in terms of natural treasures. Among its gems are the country’s highest peak, Mt. Apo; Vanda Sanderiana locally known as waling-waling, dubbed as the “Queen of Philippine Orchids” and the country’s national bird, the endangered Philippine Eagle.\n\nThe capital of the Davao Region, Davao City, is geographically located inside the province of Davao del Sur. This highly urbanized city is considered as one of the country’s most progressive cities. But more than its economic stability, Davao City also boasts of historical, natural, and cultural wonders that will captivate any local or foreign tourist."
+    },
+    {
+        "region": "Region 11",
+        "name": "Davao Oriental",
+        "slogan": "The Islands' Ethnic Charmer",
+        "blurb": "One of the best kept secrets of the country, Davao Oriental is a place where man and nature perfectly coexist.",
+        "description": "It is said that Davao Oriental is one of the best kept secrets of the country. The province is a place where man and nature perfectly coexist. Here, the locals have kept the peace and beauty of the lush forests of Davao Oriental. Among its main caretakers are the members of the Mandaya Tribe.\n\nIts natural beauty is incomparable to other places. Davao Oriental offers natural wonders that will surely cater to the fantasies of tourists and travelers seeking new adventures and experiences. These include the Mandaya village, Philippine Eagle Sanctuary, Caraga Church, and the Bonsai Forest."
+    },
+    {
+        "region": "Region 12",
+        "name": "South Cotabato",
+        "slogan": "Tuna Haven and Conference Capital of Mindanao",
+        "blurb": "With agro-industrialization and globalization on the way, South Cotabato has transcended to become one of the most promising provinces in the Philippines.",
+        "description": "With agro-industrialization and globalization on the way, South Cotabato has transcended to become one of the most promising provinces in the Philippines. The tuna industry in General Santos helped the province surpass other provinces in terms of development. Also, national and international conference organizers have chosen South Cotabato as the venue for their events. "
+    },
+    {
+        "region": "Region 12",
+        "name": "Cotabato",
+        "slogan": "Land of The Mightiest Mountain",
+        "blurb": "Aside from pristine waterfalls, and unexplored caves, Cotabato has entry points to Mt. Apo, the highest mountain in the country.",
+        "description": "Mt. Apo is the main sight here in Cotabato. The highest mountain in the country spreads from the Davao region all the way to Cotabato. There are entry points to the ‘grandfather mountain’ from here.\n\nCotabato also has natural wonders that are worth exploring. These include scenic parks, modern resorts, pristine waterfalls, and unexplored caves. All these and more await the visitors of Cotabato."
+    },
+    {
+        "region": "Region 12",
+        "name": "Sultan Kudarat",
+        "slogan": "Mindanao's Unexplored Gem",
+        "blurb": "There are many caves in Sultan Kudarat that could potentially make the province a spelunking haven in the Philippines.",
+        "description": "Not much is written about Sultan Kudarat, named after Sultan Mohammed Dipatuan Kudarat of Mindanao and Sulu, the great ruler during the 17th century. Much like its name, the province has so many great things waiting to be revealed to the world. For one, it boasts of 12 unique caves, all found in one town: Sen. Ninoy Aquino. There are more caves in the province that could potentially make Sultan Kudarat a spelunking haven of the Philippines."
+    },
+    {
+        "region": "Region 12",
+        "name": "Sarangani",
+        "slogan": "Archeologists' Paradise",
+        "blurb": "The rich culture and history of Sarangani is not only present in the jars and bones found inside its caves; it is still very much alive today.",
+        "description": "Unknown to many, the province is a site of archeological importance. In 1991, archeologist found human remains and crude tools used by the first settlers in the archipelago. Items found inside the caves of Sarangani date back as far as 3,000 years ago, allowing the National Historical Institute to declare it as a National Historical Site.\n\nThe rich culture and history of Sarangani is not only present in the jars and bones found inside its caves; it is still very much alive today. It is present in the activities of the Tagakaolo and B'laan who continue to practice their culture and tradition. This is not the only treasure of Sarangani. More can be discovered and are in store for adventurous tourists."
+    },
+    {
+        "region": "Region 13",
+        "name": "Agusan del Norte",
+        "slogan": "History Haven of CARAGA",
+        "blurb": "The city of Butuan and the rest of Agusan del Norte has always been a part Philippine history. ",
+        "description": "The city of Butuan and the rest of Agusan del Norte has always been a part Philippine history. It is said to be the original site of the first Easter mass in Philippine soil. It was the site of the first formal hoisting of the Philippine flag in Mindanao. And it was the home of the \"Balanghais\" or Butuan Boats, famous pre-historic native boats in Southeast Asia.\n\nAside from history, Agusan del Norte’s tourist spots are included in the country’s main destinations. These include the mighty Agusan River, Mt. Hilong-Hilong, Lake Mainit, Goso-on Fish Sanctuary, among others."
+    },
+    {
+        "region": "Region 13",
+        "name": "Agusan del Sur",
+        "slogan": "Treasures Of Old",
+        "blurb": "Agusan del Sur is endowed with rich natural resources found in its vast agricultural, forest, and marsh lands.",
+        "description": "Agusan del Sur is the fourth largest province in the country. It is endowed with rich natural resources found in its vast agricultural, forest, and marsh lands. Much like the Golden Taga dug up on its grounds, Agusan del Sur is a treasure waiting to be unearthed and presented to the world. Its treasures await those who seek the beauty of the Philippines that are surely priceless."
+    },
+    {
+        "region": "Region 13",
+        "name": "Dinagat Islands",
+        "slogan": "The Mystical Island of Love",
+        "blurb": "A nature lover's paradise, Dinagat Island boasts of an exquisite beauty like no other.",
+        "description": "Regarded as \"The Mystical Island of Love,\" Dinagat Island boasts of an exquisite beauty like no other. From its pristine white sand beaches, amazing rock formations, and gorgeous caves to the untouched islets and loving people, the province is truly a nature lover's paradise."
+    },
+    {
+        "region": "Region 13",
+        "name": "Surigao del Norte",
+        "slogan": "Surfing Capital of the Philippines",
+        "blurb": "Surigao del Norte's beautiful and powerful waves have attracted both local and foreign surfers to go and visit the country.",
+        "description": "The scenic province of Surigao del Norte is known as the surfing capital of the country because of its beautiful and powerful waves, which has attracted both local and foreign surfers. Its pristine beaches have also mesmerized its visitors."
+    },
+    {
+        "region": "Region 13",
+        "name": "Surigao del Sur",
+        "slogan": "Nature Pride of CARAGA",
+        "blurb": "Aside from its famed waves, Surigao del Sur also takes pride of its rich heritage.",
+        "description": "Like Surigao del Norte, Surigao del Sur is also a paradise for divers and surfers. Both share in the beautiful and powerful waves of the Surigao Strait, which produces the waves surfing enthusiasts love to ride.\n\nAside from its famed waves, the province takes pride of its heritage. This is well reflected in the Sirong Festival where the natives of Surigao del Sur celebrate their successful defense against Muslim invaders."
+    },
+    {
+        "region": "Region 14",
+        "name": "Basilan",
+        "slogan": "Island of Hope",
+        "blurb": "Blessed with natural bounties since its early years of existence, it has been called by merchants and travelers as an island of hope.",
+        "description": "Basilan is one province in a setting that reflects the true description of an island paradise. Blessed with natural bounties since its early years of existence, it has been called by merchants and travelers as an island of hope. The province, bestowed with different cultures and traditions and rich in aquatic resources, was once considered the trading center of Mindanao in the early days. Now, Basilan awaits travelers to discover its unique beauty that can never be compared to any other place in the world."
+    },
+    {
+        "region": "Region 14",
+        "name": "Lanao del Sur",
+        "slogan": "Cradle Of Muslim Art",
+        "blurb": "Lanao del Sur has many sights to see that reflect Muslim culture.",
+        "description": "Lanao comes from the word ranao, meaning \"lake.\" The province centers on the basin of Lake Lanao; thus, it is the land of the Maranaos, the \"people of the lake.\" The Maranaos are among the most devout of Muslim tribes as well as the most artistic. Nowhere is this more evident than in the people's most natural way of life and the land's most attractive destinations.\n\nLanao del Sur has an array of sights to see that reflect the Maranao way of life and the Muslim culture. From museums to cultural villages, once can see a reflection and experience their culture-rich way of life."
+    },
+    {
+        "region": "Region 14",
+        "name": "Maguindanao",
+        "slogan": "The Seat Of Muslim Mindanao",
+        "blurb": "Maguindanao is the center of trade and culture of the region.",
+        "description": "Maguindanao is the only predominantly Muslim province of the four that were created out of the former province of Cotabato. Today it holds the seat of the Autonomous Region for Muslim Mindanao (ARMM), specifically in Cotabato City. As the seat of ARMM, Cotabato City and the rest of Maguindanao has become the center of trade and culture of the region.\n\nMore than a regional capital, Cotabato City is home to natural wonders for the nature loving visitor. As for the municipalities of Maguindanao, its treasures await discoverers who will pronounce to the world the wonderful gems of the province."
+    },
+    {
+        "region": "Region 14",
+        "name": "Sulu",
+        "slogan": "Land of Treasures and Farers of the Sea\n",
+        "blurb": "Far-flung Sulu is the southernmost part of the Philippines, lying between the Sulu Sea on the north and the Celebes Sea on the south. ",
+        "description": "Far-flung Sulu is the southernmost part of the Philippines, lying between the Sulu Sea on the north and the Celebes Sea on the south. Although far, many tourist travel here to see and experience the beauty of island province. One of its famed sites is the Tubbataha Reef. The Tubbataha Reef Marine Park was honored by UNESCO in December 1993 as the first natural site in the Philippines to be inscribed in the prestigious World Heritage List.\n\nSulu has other treasures aside from its rich natural resources. Its capital, Jolo, has its own version of Intramuros. The province also has white sand beaches, museums, and other sites worth visiting."
+    },
+    {
+        "region": "Region 14",
+        "name": "Tawi-Tawi",
+        "slogan": "Philippines' Southernmost Pearl",
+        "blurb": "Tawi-Tawi boasts of numerous destinations that are a must-see for anyone who wish to see the beauty of Mother Nature.",
+        "description": "Tawi-Tawi is a projection of the Malay word “jaui\" meaning \"far.\" Prehistoric travelers from the Asian mainland would repeat the word as “jaui-jaui” to mean “far away” because of the distance of the islands from the continent of Asia. The word “Tawi-Tawi” was picked up to later become the official name of the province.\n\nAlthough ‘far away’, Tawi-Tawi is not far from other provinces when it comes to industrial improvement and tourists spots. It boasts of numerous destinations that are a must-see for anyone who wish to see the beauty of Mother Nature."
+    }
+]

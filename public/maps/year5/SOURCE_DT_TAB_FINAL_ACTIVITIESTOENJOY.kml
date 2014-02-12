@@ -1,0 +1,846 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+
+
+
+
+
+    <Style id="style_HISTORICALMONUMENT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HISTORICAL-MONUMENT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_CONVENTION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/CONVENTION-CENTER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_PLACEOFWORSHIP">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/PLACEOFWORSHIP.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_BORDERCROSSING">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/BORDER CROSSING.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PARK">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/PARK.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_GOVERMENTOFFICE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/GOVERNMENT OFFICE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_CAMPGROUND">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/CAMP GROUND.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id='tabbed'>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<ul class="nm_tabnav">
+			<li class="nm_tab_current">Excerpt</li>
+			<li class="nm_tab">Combatants</li>
+			</ul><h2>$[name]</h2><br/>$[description]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+    <Style id="style_TOURISTATTRACTION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/TOURISTATTRACTION.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_CONVENSION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/CONVENTION-CENTER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_BUSINESSFACILITY">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/BUSINESS FACILITY.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+    <Style id="style_MUSEUM">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/MUSEUM.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PARK">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/PARK.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+
+
+    <Style id="style_TOURISTINFORMATION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/TOURIST INFORMATION.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_RESTAURANT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/RESTAURANT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_SHOPPING">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/SHOPPING.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_AMUSEMENTPARK">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/AMUSEMENT PARK.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_HOSPITAL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HOSPITAL.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+    <Style id="style_INDUSTRIALZONE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/INDUSTRIAL ZONE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+    <Style id="style_HIGHEREDUCATION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HIGHER EDUCATION.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+    <Style id="style_SCHOOL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/SCHOOL.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_RESIDENTIAL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/RESIDENTIAL AREA-BUILDING.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_SPECIALTYSTORE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/SPECIALTY STORE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_HOTEL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HOTEL.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_GOLFCOURSE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/GOLF COURSE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+			    <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+  	      </ul><h1>$[name]</h1>$[description]<br/>
+           ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+
+
+       <Placemark >						
+						
+        <name>						
+          Pista 'Y ang Cagueban Planting Site						
+        </name>						
+        <description>						
+          <![CDATA[<div align="center"> 						
+        <iframe width="800" height="450" src="http://simplebooklet.com/embed.php?						
+						
+wpKey=Ys2uobYhy0nIG57NTzI1Il"></iframe> 
+
+
+
+ <h2><Strong>To view the entire flip book, please click</Strong></h2><H2><Strong><a href="http://simplebooklet.com/embed.php?wpKey=Ys2uobYhy0nIG57NTzI1Il"  target="_blank">HERE</a></Strong></h2>					
+ 
+
+</div>						
+        						
+      <div><br /><br />						
+			 <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" 			
+						
+size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Bayani'y Patpatin<br /> 						
+          <strong>Location:</strong> Palawan<br />						
+          <strong>Subtitle:</strong> Feast of Cagueban, Trees are Born To Save My Land<br />						
+          <strong>Category:</strong> Activities to Enjoy</p>						
+<p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 						
+						
+One of the stress-relieving activities that one should not miss in the City in the Forest is the 						
+						
+annual Pista 'Y ang Cagueban 						
+                                     where any person, young or old, may participate freely and 						
+						
+happily while helping the environment.						
+                                     Due to this massive planting activity, it has also been 						
+						
+recorded that numerous trees have already been planted and are still						
+                                     growing since the establishment of Pista ‘Y ang Cagueban. 						
+						
+Long live the forest! Long live Pista ‘Y ang Cagueban!</p><br /> 						
+						
+<p style="margin-left: 20px; "> 						
+          <strong>School Name:</strong> Palawan National School<br />						
+          <strong>School Type:</strong> Public<br />						
+          <strong>School Level:</strong> Secondary<br />						
+          <strong>Teacher Coach:</strong> Johnnito G. Peradilla<br />						
+          <strong>School Team:</strong>						
+          <ul>  Shari Ezra Z. Abarca<br />						
+                Audrey Gidgette V. Aguilos<br />						
+                Julie Ann N. Alicos<br />						
+                Alyssa Mae T. Avila<br />						
+                Diane Monique S. Baladjay<br />						
+                Churchelle M. Ballon<br />						
+                Mary Joan L. Katon<br />						
+                Maybelle Kate N. Manila<br />						
+                Johnnito G. Peradilla<br />						
+          </ul></font></p><br /></div>						
+      ]]>						
+        </description>						
+        <Point>						
+          <coordinates>						
+118.7031866						
+						
+            ,9.822347526						
+						
+            ,0.000000						
+          </coordinates>						
+        </Point>						
+        <styleUrl>#style_RESIDENTIAL</styleUrl>						
+      </Placemark>		
+
+
+
+    <Placemark >						
+						
+      <name>						
+        Daranak Falls						
+      </name>						
+      <description>						
+        <![CDATA[<div align="center"> 						
+            <iframe src="http://www.youtube.com/embed/Z4wncMBdxb8" width="550" height="400" 						
+						
+frameBorder="0"></iframe> </div>						
+        						
+           <div><br />						
+			     <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" 			
+						
+size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Gandang Tanay Hane!<br />						
+              <strong>Location:</strong> Rizal<br />						
+              <strong>Subtitle:</strong> Tanay Tourist Haven<br />						
+              <strong>Category:</strong> Activities to Enjoy</p>						
+<p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 						
+						
+Tanay Tourist Haven (Gandang Tanay Hane!) entry is very unique because it was a compilation of 						
+						
+the student’s						
+				   documentary then collaborated and makes it a news program. the 		
+						
+scenery shown in this entry was composed of the 						
+				   different tourist spots in Tanay, Each of their documentary 		
+						
+appears in different moods because this entry wants to 						
+				   inform its audience as well as to entertain them the student 		
+						
+participants saw by themselves the beauty of this scenery						
+				   that’s why they can actually say their opinions or report 		
+						
+about this.</p><br /> 						
+						
+<p style="margin-left: 20px; "> 						
+               <strong>School Name:</strong> Ilaya Elementary School<br />						
+              <strong>School Type:</strong> Public<br />						
+              <strong>School Level:</strong> Primary<br />						
+              <strong>Teacher Coach:</strong> Ms. Lorna Sacramento and Ms. Ma. Lerissa Poblete<br />						
+              <strong>School Team: </strong>						
+              <ul>  Jera Mae B. Osio<br/>
+                    Jhaira Mae. T. Zapanta<br/>
+                    Daniela T. Carreron<br/>
+                    Marvin T. Casapangra<br/>
+                    Janelle Maxine I. Galinato<br/>
+                    Ma. Christa Pauline L. Reyes<br/>
+                    Michael T. Fajardo<br/>			
+                 </ul></font></p><br /></div>						
+          ]]>						
+      </description>						
+      <Point>						
+        <coordinates>						
+121.3140143						
+          ,14.51948378						
+          ,0.000000						
+        </coordinates>						
+      </Point>						
+      <styleUrl>#style_TOURISTATTRACTION</styleUrl>						
+    </Placemark>		
+
+
+
+
+
+
+
+      <Placemark >						
+						
+      <name>						
+        HAMAKA at Kalayaan Park						
+      </name>						
+      <description>						
+        <![CDATA[<div align="center"> 						
+           <iframe width="500" height="400" src="http://www.youtube.com/embed/VQPB4a9Dwig" 						
+						
+frameborder="0" allowfullscreen></iframe> </div>						
+        						
+           <div><br />						
+			     <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" 			
+						
+size="2"><strong>Entry Title:</stronG> Doon Po Sa Amin, Hamba, Makina at Kasuotan Aming 						
+						
+Kabuhayan, Inyong Kalulugdan<br />						
+              <strong>Location:</strong> Rizal<br />						
+              <strong>Subtitle:</strong> HAMAKA Festival<br />						
+              <strong>Category:</strong> Activities to enjoy</p>						
+<p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong> 						
+						
+HAMAKA Festival is one of the most prestigious events in Taytay. The beautiful colors 						
+			        of costumes and amusing performances of different kinds are what 			
+						
+made the parade interesting. 						
+				Hamba, Makina, Kasuotan are the products featured. Our town 		
+						
+emphasizes in Hamba which refers 						
+				to the frame of doors but other than that are all kinds of wood 		
+						
+products made in Taytay.						
+			        Makina specifically sewing machines assembled in our town. And 			
+						
+lastly the Kasuotan where we 						
+				we’ve been called as the “Garment Capital of the 		
+						
+Philippines</p><br /> 						
+						
+<p style="margin-left: 20px; "> 						
+              <strong>School Name:</strong> Taytay National High School<br />						
+              <strong>School Type:</strong> Public<br />						
+              <strong>School Level:</strong> Secondary<br />						
+              <strong>Teacher Coach:</strong> Mr. Cris F. Diñozo<br />						
+              <strong>School Team: </strong>						
+              <ul>  Cris F. Diñozo<br />						
+                    Cristy R. Gestiada<br />						
+                    Ma. Schanine Orig<br />						
+                    Ma. Victoria Harria Borja<br />						
+                    Rommel Dones<br />						
+                    Deniel Tejor<br />						
+                    Mheya Espiritu<br />						
+                    Antoneth Pearl Olayao<br />						
+                    Anthony Legarta<br />						
+                    Marielle Aniceta<br />						
+                 </ul></font></p<br /></div>						
+          ]]>						
+      </description>						
+      <Point>						
+        <coordinates>						
+121.1309731						
+          ,14.56746641						
+          ,0.000000						
+        </coordinates>						
+      </Point>						
+      <styleUrl>#style_PARK</styleUrl>						
+    </Placemark>						
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </Document>
+</kml>

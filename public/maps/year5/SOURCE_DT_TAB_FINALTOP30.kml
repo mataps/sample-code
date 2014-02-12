@@ -1,0 +1,2459 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+
+
+
+
+
+    <Style id="style_HISTORICALMONUMENT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HISTORICAL-MONUMENT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_CONVENTION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/CONVENTION-CENTER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_PLACEOFWORSHIP">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/PLACEOFWORSHIP.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_BORDERCROSSING">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/BORDER CROSSING.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PARK">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/PARK.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_GOVERMENTOFFICE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/GOVERNMENT OFFICE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_CAMPGROUND">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/CAMP GROUND.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id='tabbed'>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<ul class="nm_tabnav">
+      <li class="nm_tab_current">Excerpt</li>
+      <li class="nm_tab">Combatants</li>
+      </ul><h2>$[name]</h2><br/>$[description]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+    <Style id="style_TOURISTATTRACTION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/TOURISTATTRACTION.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_CONVENSION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/CONVENTION-CENTER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_BUSINESSFACILITY">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/BUSINESS FACILITY.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+    <Style id="style_MUSEUM">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/MUSEUM.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PARK">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/PARK.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+
+
+    <Style id="style_TOURISTINFORMATION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/TOURIST INFORMATION.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_RESTAURANT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/RESTAURANT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_SHOPPING">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/SHOPPING.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_AMUSEMENTPARK">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/AMUSEMENT PARK.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_HOSPITAL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HOSPITAL.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+    <Style id="style_INDUSTRIALZONE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/INDUSTRIAL ZONE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+    <Style id="style_HIGHEREDUCATION">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HIGHER EDUCATION.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+    <Style id="style_SCHOOL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/SCHOOL.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_RESIDENTIAL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/RESIDENTIAL AREA-BUILDING.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_SPECIALTYSTORE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/SPECIALTY STORE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_HOTEL">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/HOTEL.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_GOLFCOURSE">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/GOLF COURSE.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]<br/>
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+
+
+
+
+
+    <!--TOP HS-->
+
+    <Folder>
+
+      <name>HIGH SCHOOL TOP ENTRIES</name>
+      <open>1</open>
+
+
+      <!--SCHOOL-->
+
+
+      <!--REGION II-->
+
+      <!--Cagayan National High School-->
+
+      <Folder>
+
+        <name>Cagayan National High School-</name>
+        <open>0</open>
+
+        <Placemark >
+
+          <name>
+            Tuguegarao City
+          </name>
+          <description>
+            <![CDATA[<div align="center">
+         <iframe src="http://prezi.com/embed/d8404b4d3fb5fd960876fb9a239130aa4dd72821/?bgcolor=ffffff&amp" width='600' height='400' style='border: 0px; overflow: hidden;' scrolling='yes'></iframe></div>
+        
+      <div><BR/><br/>
+      <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Napakaru y Lugar nga Nakasta, Awan tu Caguitta</br>
+          <strong>Location:</strong> Cagayan Valley<br/></br>
+          <strong>Subtitle:</strong> The Beautiful Spots Tuguegaraoenos often visit</br>
+          <strong>Category:</strong> Places to go
+      </p>
+      <p style="margin-left: 20px; word-wrap:break-word; width: 650px;">
+          <strong>Summary: </strong> Tuguegarao City may not be one of the most popular and most visited city in the Philippines, but after watching this
+                                     documentary, you might consider booking a trip to the city. This video unravels its hidden beauty and mystifying features.
+                                     You will also learn some facts and history that helped to shape what Tuguegarao City is now.Come and see the beauty of the
+                                     Premiere Urban Center and Center of Excellence in Commerce, Trade and Culture!</p><br/>
+    <p style="margin-left: 20px; ">                             
+          <strong>School Name:</strong> Cagayan National High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Rizalino G. Caronan</br>
+          <strong>School Team:</strong>
+          <ul>Nova Castro</BR>
+              Airon Calica</BR>
+              Jedidiah Baquiran</BR>
+              Georgette Battad</BR>
+              Ashley Cumigad</BR>
+              Megan Aglaua</BR>
+              Hannah Resuello</BR>
+              Edmund Madrid<br/>
+         </ul></font></p></br></div>
+      ]]>
+          </description>
+          <Point>
+            <coordinates>
+              121.7610208
+              ,17.5877708
+              ,0.000000
+            </coordinates>
+          </Point>
+          <styleUrl>#style_TOURISTATTRACTION</styleUrl>
+        </Placemark>
+
+
+
+      </Folder>
+
+
+
+
+
+      <Folder>
+
+        <!--REGION IV-->
+
+        <name>Manuel I. Santos Memorial National High School</name>
+        <open>1</open>
+
+
+        <Placemark >
+
+          <name>
+            Tres Escalon Falls
+          </name>
+          <description>
+            <![CDATA[<div align="center">
+                   <iframe src="http://simplebooklet.com/embed.php?wpKey=yIHWxtppGBgqvMfIRPjuXf" width='600' height='450' display='block'></iframe><br/>
+                  <h2><strong>To view the entire flip book entry, please click </strong></h2> <a href="http://simplebooklet.com/embed.php?wpKey=yIHWxtppGBgqvMfIRPjuXf"> <h2><strong>Here</strong></h2> </a></div>
+        
+                <div><BR/><br/>
+                <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: May Nakatagong Paraiso</br>
+                    <strong>Location:</strong> Rizal<br/></br>
+                    <strong>Subtitle:</strong> Tres Escalon Falls, The Hidden Paradise</br>
+                    <strong>Category:</strong> Places to go</p>
+                    <p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> 
+                    <strong>Summary: </strong> Tres Escalon Falls is a natural land formation situated inside Melendrez Subdivision, Brgy. </br>
+                                               Dolores, Taytay, Rizal which is a one-hour travel to the eastern part of manila going to </br>
+                                               Antipolo City.  It is one of Taytay’s tourists’ spot where the water flows freely in a three</br>
+                                               scaled rocky formation which is suited for people who seeks for a challenging trail of </br>
+                                               surprises after every scale of water drop off is reached.</p><br/>
+                    <p style="margin-left: 20px; ">  
+                    <strong>School Name:</strong> Manuel I. Santos Memorial National High School</br>
+                    <strong>School Type:</strong> Public</br>
+                    <strong>School Level:</strong> Secondary</br>
+                    <strong>Teacher Coach:</strong> Bernadette G. Bautista</br>
+                    <strong>School Team:</strong>
+                    <ul>Bengie F. Dulay</br>
+                        Patrick Jade Flavier</br>
+                        Paul John N. Daban</br>
+                        Jedidiah Grace Maceda</br>
+                        Cassandra Guillano</br>
+                        Ferdinand Ramento</br>
+                        Venia Diolata</br>
+                        Royett Pagaran<br/>
+                       </ul></font></p></br></div>
+                ]]>
+          </description>
+          <Point>
+            <coordinates>
+              121.1520815
+              ,14.58969461s
+              ,0.000000
+            </coordinates>
+          </Point>
+          <styleUrl>#style_TOURISTATTRACTION</styleUrl>
+        </Placemark>
+
+      </Folder>
+
+
+      <Folder>
+
+        <!--REGION IV-->
+
+        <name>Jose J. Leido Jr. Memorial National High School</name>
+        <open>1</open>
+
+
+        <Placemark >
+
+          <name>
+            Calapan City Plaza
+          </name>
+          <description>
+            <![CDATA[<div align="center"><q>
+                   <iframe src="http://simplebooklet.com/embed.php?wpKey=gYK72QnEn5SirfhcFxh9t8" width='900' height='450'></iframe></q></div>
+        
+                 <div><BR/><br/>
+                 <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, May Iniwang Bakas ang Isang Bayani, Salamin ng Amin Pagkakakilanlan at Inspirasyon ng Kinabuksan</br>
+                    <strong>Location:</strong> Camarines Norte<br/></br>
+                    <strong>Subtitle:</strong> The Life and Legacy of Wenceslao Q. Vinzons, Sr.</br>
+                    <strong>Category:</strong> Places to go</br>
+                    <strong>Summary: </strong> Calapan City is located in the province of Oriental Mindoro. This renowned</br>
+                                               “Gateway to the Golden Isle” is one of the developing cities in the</br>
+                                               Philippines. Also known as “The Discipline City”, Calapan has various ordinances</br>
+                                               that keep the citizens safe and at bay. But, along with progress, </br>
+                                               Calapan keeps track of culture and history as it preserves notable places and</br>
+                                               ancestral houses. Each historic landmark tells different stories that </br>
+                                               spans from the Spanish period up to today</br></br>
+                    <strong>School Name:</strong> Jose J. Leido Jr. Memorial National High School</br>
+                    <strong>School Type:</strong> Public</br>
+                    <strong>School Level:</strong> Secondary</br>
+                    <strong>Teacher Coach:</strong> Serafin Eusebio Jr.</br>
+                    <strong>School Team:</strong>
+                    <ul>  Edmundo E. Villa del Rey III</BR>
+                          Mia Claire L. Catapang</BR>
+                          Flora Roxanne S. Portus</BR>
+                          Christia Marizze C. Ornedo</BR>
+                          Ronnel A. Deinla</BR>
+                          Mikhail S. Roxas</BR>
+                          Hanna Camille G. Aguilon</BR>
+                          Shayxanthe Lois M. Guico</BR>
+                          Jestoni M. Decillo</BR>
+                          Serafin C. Eusebio, Jr.
+                          <br/>
+                       </ul></font></p></br></div>
+                ]]>
+          </description>
+          <Point>
+            <coordinates>
+              121.1950673
+              ,13.3550976
+              ,0.000000
+            </coordinates>
+          </Point>
+          <styleUrl>#style_PARK</styleUrl>
+        </Placemark>
+      </Folder>
+
+
+
+
+      <Folder>
+
+        <!--REGION IV-->
+
+        <name>Bataan National High School</name>
+        <open>1</open>
+
+        <Placemark >
+
+          <name>
+            Mt. Samat
+
+          </name>
+          <description>
+            <![CDATA[<div align="center"><q>
+         <iframe src="http://www.youtube.com/embed/wOLfABPTi1Y" width='600' height='400' style='border: 0px; overflow: hidden;' scrolling='yes'></iframe></q></div>
+        
+       <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon po sa amin May nakakubling nakaraan</br>
+          <strong>Location:</strong> Bataan<br/></br>
+          <strong>Subtitle:</strong> Bataan, the enigma of its past</br>
+          <strong>Category:</strong> History to uncover</br>
+          <strong>Summary: </strong> This animated video entry showed how our countrymen stood the war and fought for peace and freedom set in Bataan </br>
+                                      during Japanese regime.  It was morning of December 7, 1941 when the Japanese warplanes bombed Pearl Harbor, </br>
+                                      Hawaii which started a war against the US army forces and then headed to Philippines, knowing that American Military bases</br>
+                                      existed in the country as the Filipinos struggled against the conflict of the two colonizers. </br></br>
+          <strong>School Name:</strong> Bataan National High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Elena Mallari, Leah Medina</br>
+          <strong>School Team:</strong>
+          <ul>Carlo Aquino</br>
+              Renz Michael Magat</br>
+              Ian-Ser Rey Pascual</br>
+              Ayana Joyce Guanzon</br>
+              Pamela Grace Ledesma</br>
+              Aleli Ludovico</br>
+              Charmaine Montano</br>
+              Alexandria Tanciongco</br>
+             </ul></font></p></br></div>
+      ]]>
+          </description>
+          <Point>
+            <coordinates>
+              120.50869
+              ,14.60628783
+              ,0.000000
+            </coordinates>
+          </Point>
+          <styleUrl>#style_HISTORICALMONUMENT</styleUrl>
+        </Placemark>
+      </Folder>
+
+
+
+
+      <Folder>
+
+        <!--REGION V-->
+
+        <name>
+          Vinzons Pilot High School
+        </name>
+        <open>1</open>
+
+
+        <Placemark >
+
+          <name>
+            Wencelao Q. Vinzons Sr. Shrine
+          </name>
+          <description>
+            <![CDATA[<div align="center"><q>
+                   <iframe src="http://prezi.com/embed/0004b1ebfc5ec8b2a61d1cbe01412552d6b5bfa2/?bgcolor=ffffff&amp" width='600' height='400' style='border: 0px; overflow: hidden;' scrolling='no'></iframe></q></div>
+        
+                 <div><BR/><br/>
+                 <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Mga Tanawin at Kultura ay Kagiliw-giliw Mandin</br>
+                    <strong>Location:</strong> Oriental Mindoro<br/></br>
+                    <strong>Subtitle:</strong> A Vista From the Past, A Haven of the Present</br>
+                    <strong>Category:</strong> People to Meet</br>
+                    <strong>Summary: </strong> "The path that Wenceslao Quinito Vinzons traveled is that which is less traveled.  His deeds and accomplishments are worthy </br>
+                    of emulation while the principles and ideologies he upheld are norms that every public servant should possess.</br>  Bintao's life story is source of </br>
+                    pride among Vinzonians.  Spreading it further can inspire more youth to strive for excellence in a manner that is both righteous and dignified.</br></br>
+                    <strong>School Name:</strong> Vinzons Pilot High School</br>
+                    <strong>School Type:</strong> Public</br>
+                    <strong>School Level:</strong> Secondary</br>
+                    <strong>Teacher Coach:</strong> Anthony S. Capistrano</br>
+                    <strong>School Team:</strong>
+                    <ul>Joie Kristine Allaga</br>
+                        Johnrei Razona</br>
+                        Neil Jordan Borromeo</br>
+                        Simeon James Villacrusis</br>
+                        Cyrus David Ibis</br>
+                        Evan Roy Calmateo</br>
+                        Aila Marie Manlangit</br>
+                        Joyce Mallete</br>
+                        Kim Paulo Cardona</br>
+                        Jonathan Vega<br/>
+                       </ul></font></p></br></div>
+                ]]>
+          </description>
+          <Point>
+            <coordinates>
+              122.9065338
+              ,14.17565887
+              ,0.000000
+            </coordinates>
+          </Point>
+          <styleUrl>#style_MUSEUM</styleUrl>
+        </Placemark>
+      </Folder>
+
+
+
+      <Folder>
+
+        <!--REGION X-->
+
+        <name>
+          Misamis Occidental National High School
+        </name>
+        <open>1</open>
+
+        <Placemark >
+
+          <name>
+            Baga Falls
+          </name>
+          <description>
+            <![CDATA[<div align="center"><q>
+         <iframe src="http://simplebooklet.com/embed.php?wpKey=MEMns2UR28MeuVuewRs1p5" width='900' height='450'></iframe></q></div>
+        
+       <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Nakabalot ang Ganda ng Baga Falls</br>
+          <strong>Location:</strong> Misamis Occidental<br/></br>
+          <strong>Subtitle:</strong> The Hidden Beauty of Baga Falls</br>
+          <strong>Category:</strong> Places to go</br>
+          <strong>Summary: </strong> This entry proudly features the Baga falls because its magnificence is left unrecognized</br>
+                                     and less appreciated by the townspeople. They would travel to different places to enjoy</br>
+                                     bathing in waterfalls, though Baga falls is just a cab ride away. Researchers hope to</br>
+                                     unravel its beauty and show to the people what they’re missing on. This will boost Oroquieta’s</br>
+                                     thriving tourism industry, making it popular around the world. This can pave the way </BR>
+                                     for local economic development in barangay Upper Rizal.</br></br>
+          <strong>School Name:</strong> Misamis Occidental National High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Vivian D. Echalico</br>
+          <strong>School Team:</strong>
+          <ul>Aubrey N. Antepuesto</br>
+              Arvin Jay B. Rabina</br>
+              Rovic Jan Rafael L. Roa</br>
+              Marie Novie J. Triambulo</br>
+              Christian Laurence L. Eugenio</br>
+              Tristan Adrian T. Catane</br>
+              Aryen Gem T. Neri</br>
+              Hannah Veyma c. Jumawan</br>
+          </ul></font></p></br></div>
+      ]]>
+          </description>
+          <Point>
+            <coordinates>
+              123.7226433
+              ,8.460669697
+              ,0.000000
+            </coordinates>
+          </Point>
+          <styleUrl>#style_TOURISTATTRACTION</styleUrl>
+        </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+      <Placemark >
+
+          <name>
+            Barangay Canubay Wharf
+          </name>
+          <description>
+            <![CDATA[<div align="center"><q>
+         <iframe src="http://simplebooklet.com/embed.php?wpKey=oLVVsL4EOQy2nP4kkDib1K#wpKey=oLVVsL4EOQy2nP4kkDib1K#page=0" width='900' height='450'></iframe></q></div>
+        
+      <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Lumyagan ang Gipanghinamhinaman!</br>
+          <strong>Location:</strong> Misamis Occidental<br/></br>
+          <strong>Subtitle:</strong> Squid : A Mouth-Watering Viand to the Oroquietaniand and the Balikbayan</br>
+          <strong>Category:</strong> Food to eat</br>
+          <strong>Summary: </strong> This entry features how to catch lumyagan and how to cook its different recipes.  Through this we could also </br>
+                                     tell to the whole world that our lumyagan is one of a kind and that they should come in Oroquieta City for </br>
+                                     them to try its savory taste. This will surely boost the tourism and business industries in the city, thus </br>
+                                     a very significant opportunity for employment creation and local economic development.</br></br>
+          <strong>School Name:</strong> Misamis Occidental National High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Vivian D. Echalico</br>
+          <strong>School Team:</strong>
+          <ul>Carlo G. Mananggit</br>
+              Saira Apple M. Narit</br>
+              Maria Fleurellei L. Santos</br>
+              Joel O. Pausanos, Jr.</br>
+              Marjie T. Legaspi</br>
+              Lein Patricia S. Pamatong</br>
+              Chandler Lyle G. Yu</br>
+              Graciel Khen D. Ocaya</br>
+          </ul></font></p></br></div>
+      ]]>
+          </description>
+          <Point>
+            <coordinates>
+              123.7997631
+              ,8.495684603
+              ,0.000000
+            </coordinates>
+          </Point>
+          <styleUrl>#style_TOURISTATTRACTION</styleUrl>
+        </Placemark>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </Folder>
+
+
+
+
+
+
+
+      <Folder>
+
+        <!--REGION IV-->
+
+        <name>
+          Lipa Montessori School of Learning, Inc.
+        </name>
+        <open>1</open>
+
+        <Placemark >
+
+          <name>
+            San Sebastian Cathedral Church
+          </name>
+          <description>
+            <![CDATA[<div align="center"><q>
+         <iframe src="http://www.youtube.com/embed/gbnJrrpl2j0" width='600' height='400' style='border: 0px; overflow: hidden;' scrolling='yes'></iframe></q></div>
+        
+      <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Ang Nakaraan ay Kaysarap Balik-balikan</br>
+          <strong>Location:</strong> Batangas<br/></br>
+          <strong>Subtitle:</strong> LIpa City's cryptic momenrts in different places</br>
+          <strong>Category:</strong> History to uncover</br>
+          <strong>Summary: </strong> Masdan ang kagandahan ng Lungsod ng Lipa sa pamamagitan ng pagbalik sa kasaysayan. Alamin natin ang mga pangyayari na </br>
+                                     bumuo dito. Tuklasin natin ang himalang nangyari sa Simbahan ng Carmel, Divino Amor, at Archdiocesan Shrine of San Vicente Ferrer.</br>
+                                     Puntahan din natin ang pinakalumang simbahan, ang San Sebastian Cathedral. Kilalanin din natin ang isang bayani sa Lipa,</br>
+                                     si Claro M. Recto. At ating balikan ang naranasan nila noong Ikalawang Digmaang Pandaigdig. Dito po sa Lipa, ang nakaraan ay </br>
+                                     kaysarap balik-balikan.</br></br>
+          <strong>School Name:</strong>  Lipa Montessori School of Learning, Inc.</br>
+          <strong>School Type:</strong> Private</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Merilou Danila</br>
+          <strong>School Team:</strong>
+          <ul>MATANGUIHAN, Paula Bianca P.</br>
+              CABALO, Angela C.</br>
+              RULIOG, Leanne Paula G.</br>
+              MERCADO, Mari – Antoinette R.</br>
+              RONQUILLO, Christian Oliver M.</br>
+              HERNANDEZ, Richmond Martin M. </br>
+              CACANINDIN, Norman V.</br>
+              RODEO, Christian Oliver T.</br>
+          </ul></font></p></br></div>
+      ]]>
+          </description>
+          <Point>
+            <coordinates>
+              121.1627416
+              ,13.94064661
+              ,0.000000
+            </coordinates>
+          </Point>
+          <styleUrl>#style_PLACEOFWORSHIP</styleUrl>
+        </Placemark>
+      </Folder>
+
+      <Folder>
+
+
+
+        <!--Cavite National Science High School-->
+
+        <Folder>
+
+          <name>Cavite National Science High School</name>
+          <open>0</open>
+
+
+
+          <Placemark>
+
+            <name>
+              Dept. of Agriculture - Alfonso
+            </name>
+            <description>
+              <![CDATA[<div align="center"><q>
+     <iframe src="http://prezi.com/embed/yximl_4seye9/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe></q></div>
+       <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin Nasa Pait ang Buhay</br>
+          <strong>Location:</strong> Cavite<br/></br>
+          <strong>Subtitle:</strong> Beyond the Coffee Beans of Amadeo</br>
+          <strong>Category:</strong> Community products to support</br>
+          <strong>Summary: </strong> Doon Po Sa Amin Nasa Pait ang Buhay tackles the team’s investigation of Cavite’s finest coffee products. Given this great opportunity</br>
+                                     to introduce Kapeng Amadeo to the world as one of the riches of Cavite, the topic was explored, surveys and interviews were conducted. </br>
+                                     Written articles and videos document the struggles of the coffee industry and its significance to people. The team now hopes for a brighter</br>
+                                     tomorrow for the people of Amadeo and the success of their coffee industry.</br></br>
+          <strong>School Name:</strong> Cavite National Science High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Jennylou A. Pangilinan</br>
+          <strong>School Team: </strong>
+          <ul>Maria Beatriz L. Fojas</br>
+              Darlene Joie C. Tigcal</br>
+              Zyrah Regina R. Baltazar</br>
+              Erica Michelle C. Miranda</br>
+              Roxanne P. Reyes</br>
+              Justine James P. Ledesma</br>
+              Khyleri B. Gancayco</br>
+              Christine Senan C. Pechay</br>
+              Kristel Marie B. Naca</br>
+             </ul></font></p></br></div>
+      ]]>
+            </description>
+            <Point>
+              <coordinates>
+                120.9226885
+                ,14.16985478
+                ,0.000000
+              </coordinates>
+            </Point>
+            <styleUrl>#style_GOVERMENTOFFICE</styleUrl>
+          </Placemark>
+
+        </Folder>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!--REGION V-->
+      </Folder>
+      <name>
+        Naga City Science High School
+      </name>
+      <open>1</open>
+      
+      <Placemark >
+
+        <name>
+          Rafflesia site
+        </name>
+        <description>
+          <![CDATA[<div align="center">             
+         <iframe src="http://www.youtube.com/embed/NGHGXd6bYlA" width='600' height='400'            
+            
+style='border: 0px; overflow: hidden;' scrolling='yes'></iframe> </div>           
+                    
+      <div><br/><br />            
+      <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry      
+            
+Title:</strong> Doon Po Sa Amin, Mailap na Bulaklak, May Kakaibang Halimuyak<br />            
+          <strong>Location:</strong>  Iriga City<br/>           
+          <strong>Subtitle:</strong> The Amazingly Peculiar Rafflesia<br />           
+          <strong>Category:</strong> Plants and animals to discover</p>           
+<p style="margin-left: 20px; word-wrap:break-word; width: 650px; "> <strong>Summary: </strong>            
+            
+Rafflesia :  The world’s largest flower  was discovered by Sir Stamford Raffles and Dr. Joseph            
+             Arnold on May 19, 1818 at Bengkalu, Sumatra. However, the first      
+            
+actual account made, was written by             
+             Louis Auguste Deschamp 27 years earlier in Java. In some mountains       
+            
+of Camarines Sur, Camarines Norte,            
+             Albay, and Sorsogon; Rafflesia was also sighted, particularly in       
+            
+Mt. Asog where Rafflesia is locally             
+             known as “laun”.  Scientific controversy on naming this specie       
+            
+continues specifically on its taxonomic           
+             characteristics.</p><br />       
+            
+<p style="margin-left: 20px; ">             
+          <strong>School Name:</strong> Naga City Science High School<br />           
+          <strong>School Type:</strong> Public<br />            
+          <strong>School Level:</strong> Secondary<br />            
+          <strong>Teacher Coach:</strong> Maria Lourdes B. Labao<br />            
+          <strong>School Team:</strong>           
+          <ul> Patricia Anne L.  Bongulto<br/>
+               Kate P. Sarmiento<br/>
+               Margaret Ann O. Zaragoza<br/>
+               Precy Rose M. Soriano<br/>
+               Justine Marie U. Revilla<br/>
+               Og S. Locaba<br/>
+               Helen Grace V. Aureus<br/>
+               Joretze S. Carandang (teacher coach)<br/>
+               Catherine Q. Ramos (teacher coach)<br/>
+          </ul></font></p><br /></div>            
+      ]]>
+        </description>
+        <Point>
+          <coordinates>
+            123.4411323
+            ,13.42540033
+            ,0.000000
+          </coordinates>
+        </Point>
+        <styleUrl>#style_CAMPGROUND</styleUrl>
+      </Placemark>
+
+
+
+
+
+      <Placemark >
+
+        <name>
+          Zone 3 Barangay Flordeliz
+        </name>
+        <description>
+          <![CDATA[<div align="center"><q>
+         <iframe src='http://simplebooklet.com/embed.php?wpKey=y3cS6jSzCCnKBacjdjZmfV' width='908' height='408' style='border: 0px; overflow: hidden;' scrolling='no'></iframe></q></div>
+        
+   <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: Ang Perwisyo, Susi sa Negosyo</br>
+          <strong>Location:</strong> Naga City<br/>
+          <strong>Subtitle:</strong> </br></br>
+          <strong>Category:</strong> Plants and animals to discover</br>
+          <strong>Summary: </strong> “Ang Perwisyo, Susi sa Negosyo” is this year’s Doon Po Sa Amin Community Mapping Competition entry of the Naga City Science High School</br>
+                                      under community products to support category. Ragiwdiw, also known locally as agas or seagrass in English, is a pest to farmers before,</br>
+                                      but now a great factor in the emerging handicraft industry. Thus, this features the Ragiwdiw handicraft industry in the municipalities</br>
+                                      of San Fernando and Milaor, Camarines Sur</br></br>
+          <strong>School Name:</strong> Naga City Science High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Mrs. Marissa P. Esmeralda</br>
+          <strong>School Team:</strong>
+          <ul>Patricia Bongulto</br>
+              Kate Sarmiento </br>
+              Margaret Zaragoza</br>
+              Precy Soriano</br>
+              Justine Revilla</br>
+              Og Locaba</br>
+              Jonathan Briones- Teacher Coach</br>
+          </ul></font></p></br></div>
+      ]]>
+        </description>
+        <Point>
+          <coordinates>
+            123.1250522
+            ,13.60018891
+            ,0.000000
+          </coordinates>
+        </Point>
+        <styleUrl>#style_RESIDENTIAL</styleUrl>
+      </Placemark>
+
+
+
+
+
+      <Placemark >
+
+        <name>
+          1st Colonial Grill
+        </name>
+        <description>
+          <![CDATA[<div align="center"><q>
+         <iframe src='HTTP://simplebooklet.com/embed.php?wpKey=YvNDFXoCvKYT3TFrJxJ6F3' width='696' height='481' style='border: 0px; overflow: hidden;' scrolling='no'></iframe></q></div>
+        
+     <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po sa Amin: Ang Sili Di Lang Pampainit, Pampalamig Din</br>
+          <strong>Location:</strong> Naga City<br/></br>
+          <strong>Subtitle:</strong> Chillis that Chill</br>
+          <strong>Category:</strong> Food to eat</br>
+          <strong>Summary: </strong> Bicolanos are known worldwide for having a soft spot for spicy foods as part of their culture. Bicol Express, Pinangat and Laing are just some</br>
+                                     of the popular examples of spicy delicacies Bicolanos love. As a result, a new dessert with a spicy twist, the SILI ICE CREAM came into existence.</br>
+                                     With every scoop, one will not only enjoy the creamy and flavorful taste but will also savor the spicy aftertaste of this chili flavored ice cream.</br>
+          <strong>School Name:</strong> Naga City Science High School</br></br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Sylvia D. Serrado</br>
+          <strong>School Team:</strong>
+          <ul> Sylvia D. Serrado</BR>
+               Ryan Earl B. Grajo</BR>
+               Paula Bianca O. Samson</BR>
+               Diana Marie M. Romero</BR>
+               Johanna Marie F. Drece </BR>
+               Jan Niko A. Lagdaan</BR>
+               Ina Francesca C. Caramoan</BR>
+               Allyza May B. Tosoc</BR>
+               Joriza K. Novio</BR>
+               Dann Kristopher B. Sarte</br>
+          </ul></font></p></br></div>
+      ]]>
+        </description>
+        <Point>
+          <coordinates>
+            123.7223581
+            ,13.1467874
+            ,0.000000
+          </coordinates>
+        </Point>
+        <styleUrl>#style_RESIDENTIAL</styleUrl>
+      </Placemark>
+
+
+
+
+
+
+      <Placemark >
+
+        <name>
+          Penafrancia Museum
+        </name>
+        <description>
+          <![CDATA[<div align="center"><q>
+        <iframe width="600" height="400" src="http://www.youtube.com/embed/KXlIPbLwgwA" frameborder="0" allowfullscreen></iframe></q></div>
+        
+       <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: Bawat Sulok Patok!</br>
+          <strong>Location:</strong> Naga City<br/>
+          <strong>Subtitle:</strong> Naga's Tableaux</br></br>
+          <strong>Category:</strong> Places to go</br>
+          <strong>Summary: </strong> Naga City, a dynamic city situated in the Bicol Peninsula, known as one of the most livable and progressive cities in Asia.</br>
+                                     It has maintained its reputation as the Pilgrim City, Center of Good Governance, Cradle of Arts and Culture, and Metropolis of </br>
+                                     Trade and Commerce. Moreover, the city has amazing places to visit: from large malls, entertainment hubs and delightful restaurants </br>
+                                     to adventure parks, captivating resorts and luxurious hotels. It is our pride indeed to showcase our vibrant city.</br></br>
+          <strong>School Name:</strong> Naga City Science High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Marissa P. Esmeralda, ALicia C. Naag, Sylvia D. Serrado</br>
+          <strong>School Team: </strong>
+          <ul>  Tristan Joseph G. Velarde </br>
+                Patricia Mae D. Nobleza</br>
+                Angelica Joy G. Luciano</br>
+                Nischelle V. Villaraza</br>
+                Jeron G. Albaño</br>
+                Vince Kenneth T. Hernandez</br>
+                Ryan Earl B. Grajo</br>
+          </ul></font></p></br></div>
+      ]]>
+        </description>
+        <Point>
+          <coordinates>
+            123.1949065
+
+            ,13.63335439
+
+            ,0.000000
+          </coordinates>
+        </Point>
+        <styleUrl>#style_MUSEUM</styleUrl>
+      </Placemark>
+
+
+
+
+
+
+
+
+
+
+      <Placemark >
+
+        <name>
+          Naga City Peoples Council
+        </name>
+        <description>
+          <![CDATA[<div align="center"><q>
+        <iframe width="560" height="315" src="http://www.youtube.com/embed/sYkydEO2gdM" frameborder="0" allowfullscreen></iframe></q></div>
+        
+    <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Boses kan Nagueno, kusog kan lokal na gobyerno an</br>
+          <strong>Location:</strong> Naga City<br/></br>
+          <strong>Subtitle:</strong> People's Voice Spells Good Governance</br>
+          <strong>Category:</strong> Places to go</br>
+          <strong>Summary: </strong> Naga City, a dynamic city situated in the Bicol Peninsula, known as one of the most livable and progressive cities in Asia.</br>
+                                     It has maintained its reputation as the Pilgrim City, Center of Good Governance, Cradle of Arts and Culture, and Metropolis of </br>
+                                     Trade and Commerce. Moreover, the city has amazing places to visit: from large malls, entertainment hubs and delightful restaurants </br>
+                                     to adventure parks, captivating resorts and luxurious hotels. It is our pride indeed to showcase our vibrant city.</br></br>
+          <strong>School Name:</strong> Naga City Science High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> </br>
+          <strong>School Team: </strong>
+          <ul></br>
+          </ul></font></p></br></div>
+      ]]>
+        </description>
+        <Point>
+          <coordinates>
+            123.1885993
+            ,13.62032985
+            ,0.000000
+          </coordinates>
+        </Point>
+        <styleUrl>#style_CONVENTION</styleUrl>
+      </Placemark>
+
+
+
+
+
+
+
+
+
+
+      <Placemark >
+
+        <name>
+          Colgante Tragedy
+        </name>
+        <description>
+          <![CDATA[<div align="center"><q>
+     <iframe width="500" height="400" src="http://www.youtube.com/embed/qVqk-lEh_Jk" frameborder="0" allowfullscreen></iframe></q></div>
+        
+      <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin Ining Tulay kan Colgante May Trahediang Sinasabi/br>
+          <strong>Location:</strong> Naga City<br/></br>
+          <strong>Subtitle:</strong> The Tragedy Behind the Colgante Bridge</br>
+          <strong>Category:</strong> History to uncover</br>
+          <strong>Summary: </strong> This documentary is a tribute to all the people who were involved in the fall of Colgante Bridge on September 16, 1972: those who perished,</BR>
+                                     those who survived and those who helped.  For forty years that the incident appeared vague to Nagueños and Bikolanos, the documentary offers</BR>
+                                     explanation. For questions on what caused the fall and other accounts surrounding the incident, the documentary has answers.  It claims no </BR>
+                                     authority on the subject. It is only a little piece of history.</br></br>
+          <strong>School Name:</strong> Naga City Science High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> mr. jaimito de leon</br>
+          <strong>School Team: </strong>
+          <ul>Christian  Emil  B. REYES </BR>
+              Kristi  Maria  Dominique AGUILAR</BR>
+              Graciel  M. PALAROAN</BR>
+              Al  Francis  A. ARANDELA</BR>
+              Josef  Patrick PADUA</BR>
+              Kim  Kryshan  A. ANCIANO</BR>
+              Myla  R. PEÑA</BR>
+              Joretze CARANDANG (teacher coach)</BR>
+              Catherine RAMOS (teacher coach)
+              </br>
+          </ul></font></p></br></div>
+      ]]>
+        </description>
+        <Point>
+          <coordinates>
+            123.1890031
+            ,13.62706463
+            ,0.000000
+          </coordinates>
+        </Point>
+        <styleUrl>#style_BORDERCROSSING</styleUrl>
+      </Placemark>
+
+
+
+
+
+
+
+
+
+
+    </Folder>
+
+
+
+
+
+
+
+
+
+
+    <Folder>
+
+      <!--REGION IV-->
+
+      <name>
+        Rizal National Science High School
+      </name>
+      <open>1</open>
+
+      <Placemark >
+
+        <name>
+          St. Monique Valais
+        </name>
+        <description>
+          <![CDATA[<div align="center"><q>
+         <iframe src="http://simplebooklet.com/index.php#wpKey=k6TapUpk9H6uraTpYkL97F#page=6" width='900' height='450' style='border: 0px; overflow: hidden;' scrolling='yes'></iframe></q></div>
+     
+     <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin; Binangonan,Bayang Masagana</br> 
+          <strong>Location:</strong> Rizal<br/></br>
+          <strong>Subtitle:</strong> Here at Binangonan, the Place of Galore</br>
+          <strong>Category:</strong> Places to go</br>
+          <strong>Summary: </strong> Binangonan; Bayan ng Kasaganahan (The place of Galore) is the homeland of beauty and fruitful lands. A pot sculptured through God's mighty hands.</br>
+                                     From the magnificent places of the town that would make you amazed; these would leave you the thought that Binangonan is really a town of prosperity. </br>
+                                     Rizal National Science High School proudly presents to you, Binangonan at its finest - The webpage that would allow you to witness Binangonan’s </br>
+                                     prides which were fulfilled incomparably by beautiful sceneries.</br></br>
+          <strong>School Name:</strong> Naga City Science High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Marilyn M. Arcilla</br>
+          <strong>School Team:</strong>
+          <ul>Jeph Marl P. Benabaye</br>
+              Marc Reinhard C. Ballon</br>
+              Yohanno Daniel T. Alipio</br>
+              Lei Andrea B. San Juan</br>
+              Christine Joy R. Pigtain</br>
+              Casey Anne C. Cruz</br>
+              Jan Louis C. Reyes</br>
+              Jerran R. Del Mundo</br>
+          </ul></font></p></br></div>
+      ]]>
+        </description>
+        <Point>
+          <coordinates>
+            121.1873286
+            ,14.50958229
+            ,0.000000
+          </coordinates>
+        </Point>
+        <styleUrl>#style_RESIDENTIAL</styleUrl>
+      </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </Folder>
+
+
+
+
+
+
+
+
+
+
+    <Folder>
+
+      <!--REGION VI-->
+
+      <name>
+        Oton National High School
+      </name>
+      <open>1</open>
+
+      <Placemark >
+
+        <name>
+          Tagbac Elementary School
+        </name>
+        <description>
+          <![CDATA[<div align="center"><q>
+        <iframe width="420" height="315" src="http://www.youtube.com/embed/sEyV3wn2xqk" frameborder="0" allowfullscreen></iframe></q></div>
+        
+      <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon po sa amin Merong Gulayan sa Loob ng Paaralan</br> 
+          <strong>Location:</strong> ILOILO<br/></br>
+          <strong>Subtitle:</strong> School-based Vegetable Garden</br>
+          <strong>Category:</strong> Places to go</br>
+          <strong>Summary: </strong> Responding to hindrances dares to make a difference.  The Tagbac Elementary School located at Tagbac Sur, </br>
+                                     Oton, Iloilo established a School in the Garden Program, which enables them to plant organic vegetables. </br>
+                                     Moreover, they also have a Supervised Recess Program that aims not only by feeding nutritious foods to the</br>
+                                     children but also acquiring technical and entrepreneurial skills, which is the answer. Poverty is not a</br>
+                                     barrier. What matters is a quality education through a healthy nutrition.</br></br>
+          <strong>School Name:</strong> Oton National High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Jennifer P. Domingo</br>
+          <strong>School Team:</strong>
+          <ul>  MArvin Rojo</br>
+                Zaldy Tondo</br>
+                Jennifer Domingo</br>
+                Benjie Selebio</br>
+                Winna Mae Suribas</br>
+                John Christian Suribas</br>
+                Julie Mae Cao</br>
+                Bryan Morit</br>
+          </ul></font></p></br></div>
+      ]]>
+        </description>
+        <Point>
+          <coordinates>
+            122.4832397
+
+            ,10.69114197
+
+            ,0.000000
+          </coordinates>
+        </Point>
+        <styleUrl>#style_SCHOOL</styleUrl>
+      </Placemark>
+    </Folder>
+
+
+
+
+
+
+
+
+
+
+
+    <Folder>
+    <!--REGION VI-->
+
+    <name>
+      Science and Technology Education Center High School
+    </name>
+    <open>1</open>
+
+    <Placemark >
+
+      <name>
+        Lapu-Lapu and Magellan Shell Arts
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+        <iframe width="420" height="315" src="http://www.youtube.com/embed/aqrcdmGcJi0" frameborder="0" allowfullscreen></iframe></q></div>
+        
+ <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Bagal Mauy Adurno at Lapu-Lapu and Magellan Shellcrafts  </br> 
+          <strong>Location:</strong> CEBU<br/></br>
+          <strong>Subtitle:</strong> </br>
+          <strong>Category:</strong> Places to go</br>
+          <strong>Summary: </strong> Bagal Mauy Adurno, is derived from Cebuano, ‘bagal’ that refers a shell, and ‘adurno’ for ‘decorations’ as <br/>
+                                     put together forms ‘Ornamental Shells’.  In the east side of Cebu lies a small island Lapu-Lapu City gifted <br/>
+                                     for its shells and skills. Through Oponganon’s creativity, these shells have been <br/>
+                                     turned into world-class ornaments and accessories which are known not just inside the <br/>
+                                     country but also abroad. These shell crafts are a treasure <br/>
+                                     surely to be proud of<br/>
+                                          </br>
+          <strong>School Name:</strong> Science and Technology Education Center High School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong></br>
+          <strong>School Team:</strong>
+          <ul></br>
+          </ul></font></p></br></div>
+      ]]>
+      </description>
+      <Point>
+        <coordinates>
+          124.0108999
+          ,10.31068749
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_INDUSTRIALZONE</styleUrl>
+    </Placemark>
+    </Folder>
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    <Folder>
+      <!--REGION IV-->
+
+      <name>
+        Palawan National School
+      </name>
+      <open>1</open>
+
+      <Placemark >
+
+        <name>
+          Plaza Cuartel
+        </name>
+        <description>
+          <![CDATA[<div align="center"><q>
+        <iframe width="420" height="315" src="http://prezi.com/embed/0d69538819cf0e95a6bb7abb8100a0da77a31e0e/?bgcolor=ffffff&amp" frameborder="0" allowfullscreen></iframe></q></div>
+        
+       <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon po sa amin, May daanang pailalim</br> 
+          <strong>Location:</strong> Palawan<br/></br>
+          <strong>Subtitle:</strong>  Discovering the mysteries behind the tunnel</br>
+          <strong>Category:</strong> History to uncover</br>
+          <strong>Summary: </strong> Doon Po Sa Amin, May Daang Pailalim features one of the historical places to be found in Puerto Princesa City – the “Plaza Cuartel”.</br>
+                                     The entry unveils the dark past of the place and how it is being commemorated through the monuments and memorial markers. One could </br>
+                                     also find a tunnel where 143 American soldiers were burned alive by the Japanese invaders of the Philippines during World War II. </br>
+                                     From those who were burned, there are only eleven who survived.</br></br>
+          <strong>School Name:</strong> Palawan National School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Johnnito G. Peradilla</br>
+          <strong>School Team:</strong>
+          <ul>  Johnnito G. Peradilla </br>
+                Shaira A. Cabrera</br>
+                Syra Noemi L. Calanday</br>
+                Maricar D. Dasmarinas</br>
+                Eviclaire L. Dela Cruz</br>
+                Mclene Anne S. Moreno</br>
+                Joanna Rose L. Nono</br>
+                Abegail B. Ong</br>
+                Kimberly G. Silva</br>
+          </ul></font></p></br></div>
+      ]]>
+        </description>
+        <Point>
+          <coordinates>
+            118.7297077
+            ,9.740098225
+            ,0.000000
+          </coordinates>
+        </Point>
+        <styleUrl>#style_HISTORICALMONUMENT</styleUrl>
+      </Placemark>
+
+
+
+
+
+      <Placemark >
+
+        <name>
+          Pista 'Y ang Cagueban Planting Site
+        </name>
+        <description>
+          <![CDATA[<div align="center"><q>
+        <iframe width="800" height="450" src="http://simplebooklet.com/embed.php?wpKey=Ys2uobYhy0nIG57NTzI1Il" frameborder="0" allowfullscreen="yes"></iframe></q></div>
+        
+     <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Bayani'y Patpatin</br> 
+          <strong>Location:</strong> Palawan<br/></br>
+          <strong>Subtitle:</strong> Feast of Cagueban, Trees are Born To Save My Land</br>
+          <strong>Category:</strong> Activities to Enjoy</br>
+          <strong>Summary: </strong> One of the stress-relieving activities that one should not miss in the City in the Forest is the annual Pista 'Y ang Cagueban </br>
+                                     where any person, young or old, may participate freely and happily while helping the environment.</br>
+                                     Due to this massive planting activity, it has also been recorded that numerous trees have already been planted and are still</br>
+                                     growing since the establishment of Pista ‘Y ang Cagueban. Long live the forest! Long live Pista ‘Y ang Cagueban!</br></br>
+          <strong>School Name:</strong> Palawan National School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Secondary</br>
+          <strong>Teacher Coach:</strong> Johnnito G. Peradilla</br>
+          <strong>School Team:</strong>
+          <ul>  Shari Ezra Z. Abarca</br>
+                Audrey Gidgette V. Aguilos</br>
+                Julie Ann N. Alicos</br>
+                Alyssa Mae T. Avila</br>
+                Diane Monique S. Baladjay</br>
+                Churchelle M. Ballon</br>
+                Mary Joan L. Katon</br>
+                Maybelle Kate N. Manila</br>
+                Johnnito G. Peradilla</br>
+          </ul></font></p></br></div>
+      ]]>
+        </description>
+        <Point>
+          <coordinates>
+            118.7031866
+
+            ,9.822347526
+
+            ,0.000000
+          </coordinates>
+        </Point>
+        <styleUrl>#style_RESIDENTIAL</styleUrl>
+      </Placemark>
+
+
+
+     
+      
+      
+      
+    </Folder>
+
+
+
+
+
+
+    <Folder>
+      <!--REGION -->
+
+      <name>
+        San Roque Central Elementary School
+      </name>
+      <open>1</open>
+
+      <Placemark >
+
+        <name>
+          Davao City Central 911
+        </name>
+        <description>
+          <![CDATA[<div align="center"><q>
+      <iframe src="http://www.youtube.com/embed/ycF0CfMii7o" width="500" height="400" frameBorder="0"></iframe></q></div>
+        
+       <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Numero? Tagasalbar...</br> 
+          <strong>Location:</strong> Davao<br/></br>
+          <strong>Subtitle:</strong> Davao City Central 911, Save Lives</br>
+          <strong>Category:</strong> People to meet</br>
+          <strong>Summary: </strong> Davao City Central 911-To provide the residents of Davao City a vital and efficient link</br>
+                                     to the emergency resources of the government-police, fire, medical and rescue - on a 24 </br>
+                                     hour basis anywhere within the territorial jurisdiction of the local government unit of </br>
+                                     Davao City a mission that is truly indeed a true hero of Davao City.</br>
+                                     A decade of serving the people, saving lives, protecting the community from disaster and </br>
+                                     monitoring the whole area of the city. It is a highly computerized, fully integrated </br>
+                                     emergency and rescue dispatch system in the Philippines.</br></br>
+          <strong>School Name:</strong> San Roque Central Elementary School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Primary</br>
+          <strong>Teacher Coach:</strong>Randy Jun R. Radores</br>
+          <strong>School Team:</strong>
+          <ul>  Roldan L. Roperos</br>
+                Angeline Giagonia </br>
+                Hanna Rica Llevado</br>
+                Yna Kassandra Duran</br>
+                Cyril Phoebe Reta</br>
+                Maria Cristina Rosales</br>
+                Herlen Licong</br>
+                Cathy Paypa</br>
+          </ul></font></p></br></div>
+      ]]>
+        </description>
+        <Point>
+          <coordinates>
+            125.5989294
+            ,7.057110128
+            ,0.000000
+          </coordinates>
+        </Point>
+        <styleUrl>#style_TOURISTATTRACTION</styleUrl>
+      </Placemark>
+
+
+
+
+      <Placemark >
+
+        <name>
+          People's Park
+        </name>
+        <description>
+          <![CDATA[<div align="center"><q>
+      <iframe src="http://www.youtube.com/embed/ft9-AUpJxTQ" width="500" height="400" frameBorder="0"></iframe></q></div>
+        
+       <div><BR/><br/>
+       <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin, Nindot na Suroyanan para sa tanan</br> 
+          <strong>Location:</strong> Davao<br/></br>
+          <strong>Subtitle:</strong> People's Park: A place to be Delight</br>
+          <strong>Category:</strong> Places to go</br>
+          <strong>Summary: </strong> People's Park is situated in the heart of the city at the corners of Jose Camus and J. Palma Gil</br>
+                                     streets. It is a 4-hectare cultural theme park that enhanced with tropical rainforest trees,</br>
+                                     large sculptures, interactive fountains, ponds and waterfall, a durian dome, an open plaza and a </br>
+                                     statue of a gigantic Philippine Eagle. It also mirrors the rich culture of the city and the life </br>
+                                     styles of the people in the city. It has now become a popular destination and a city </br>
+                                     landmark in Davao City.</br></br>
+          <strong>School Name:</strong> San Roque Central Elementary School</br>
+          <strong>School Type:</strong> Public</br>
+          <strong>School Level:</strong> Primary</br>
+          <strong>Teacher Coach:</strong> Roldan L. Roperos</br>
+          <strong>School Team:</strong>
+          <ul>    Mary Jean F. Leonar</br>
+                  Dexter Digal</br>
+                  Peter Escalante</br>
+                  Jacinth Calamatan</br>
+                  Viannah Joyce Erispe</br>
+                  Grace Anne Horcerada</br>
+                  Alliyah Jannine Perez</br>
+                  Michelle Angela Ucab</br>
+          </ul></font></p></br></div>
+      ]]>
+        </description>
+        <Point>
+          <coordinates>
+            125.6078111
+            ,7.0704713
+            ,0.000000
+          </coordinates>
+        </Point>
+        <styleUrl>#style_PARK</styleUrl>
+      </Placemark>
+      
+      
+      
+      
+    </Folder>
+
+
+
+
+
+
+
+
+      <Placemark >
+
+        <name>
+          DPSA: "Ang Pinkamtaas nga Kahoy"
+        </name>
+        <description>
+          <![CDATA[<div align="center"><q>
+             <iframe src="http://prezi.com/embed/uhmrn9yagfa6/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=no&amp;autohide_ctrls=0" width="550" height="400" frameBorder="0"></iframe></q></div>
+        
+            <div><br/><br/>
+          <p style="margin-left: 20px;"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon PO Sa Amin: Ang Pinakamataas nga Kahoy</br>
+              <strong>Location:</strong> Agusan Del Norte<br/>
+              <strong>Subtitle:</strong> Bitaog Tree</br>
+              <strong>Category:</strong> Places to go</p></br>
+                <p style="margin-left: 20px; word-wrap:break-word; width: 650px; ">          
+
+              <strong>Summary: </strong> A historical landmarks that gained the popularity  not only  in Caraga Region and other places in the Philippines but also in outside world.
+                                         The 500 year-old-locally known as "Bitaog Tree "  belongs to the Guttiferae family of trees with the scientific name of Callophyllum Inophyllum.
+                                         It is situated at Sitio Dahican ,Barangay Caloc-an, Magallanes, Agusan del Norte. This symbolic shady and branchy  Bitaog tree  got First Place 
+                                         in the National Search for the Philippine Centennial Trees last June 6, 1998   during the observation of the 100th Anniversary of the Philippines
+                                         Since,  it  is one of the tourist destination . So watch and discover  the significance of the country's oldest tree.</p></br>
+                                         
+                        <p style="margin-left: 20px;">                    
+              <strong>School Name:</strong> Butuan CES-STEC</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Primary</br>
+              <strong>Teacher Coach:</strong> Ophelia C. Balla</br>
+              <strong>School Team: </strong>
+              <ul> Krista Dannisse C. Balla</br>
+                   Jose Rafael L. Laput</br>
+                   Maria Manel A. Lumawag</br>
+                   Xanthea Dane S. Balbarino</br>
+                   Czarina Mhaey C. Ruales</br>
+                   Jenny Louise S. Mission</br>
+                   Paula Margarette M. Tulin</br>
+                   Ciara Joy E. Bentain<br/>
+                 </ul></font></p></br></div>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>
+            125.5198244
+            ,9.024922159
+            ,0.000000
+          </coordinates>
+        </Point>
+        <styleUrl>#style_TOURISTATTRACTION</styleUrl>
+      </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <Placemark >
+
+      <name>
+        Daranak Falls
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+            <iframe src="http://www.youtube.com/embed/Z4wncMBdxb8" width="550" height="400" frameBorder="0"></iframe></q></div>
+         <div><BR/><br/>
+           <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</stron> Doon Po Sa Amin, Gandang Tanay Hane!</br>
+              <strong>Location:</strong> Rizal<br/></br>
+              <strong>Subtitle:</strong> Tanay Tourist Haven</br>
+              <strong>Category:</strong> Activities to Enjoy</br>
+              <strong>Summary: </strong> Tanay Tourist Haven (Gandang Tanay Hane!) entry is very unique because it was a compilation of the student’s documentary</br>
+                                         then collaborated and makes it a news program. the scenery shown in this entry was composed of the different tourist </br>
+                                         spots in Tanay, Each of their documentary appears in different moods because this entry wants to inform its audience </br>
+                                         as well as to entertain them the student participants saw by themselves the beauty of this scenery that’s why they </br>
+                                         can actually say their opinions or report about this.</br></br>
+              <strong>School Name:</strong> Ilaya Elementary School</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Primary</br>
+              <strong>Teacher Coach:</strong> Mrs. Norberta R. Jarlego</br>
+              <strong>School Team: </strong>
+              <ul>  Leonora D.V. Tibay</br>
+                    Jhaira Mae T. Zapanta</br>
+                    Jen Mark Louie R. Chualong</br>
+                    Janelle Maxine I. Galinato</br>
+                    Aaron Jethro J. Cerillo</br>
+                    Kate A. Boca</br>
+                    Randell D. Delgado</br>
+                    Jhon Venric A. Corral</br>
+                    Mica Mae San Felipe<br/>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          121.3140143
+          ,14.51948378
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_TOURISTATTRACTION</styleUrl>
+    </Placemark>
+
+
+
+
+    <Placemark >
+
+      <name>
+        Banza Church Ruins
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+             <iframe src="http://www.youtube.com/embed/vPcpjxuOs_I" width='600' height='400' style='border: 0px; overflow: hidden;' scrolling='yes'></iframe></q></div>
+        
+         <div><BR/><br/>
+           <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: Kabilin sa Karaang Simbahan Hong Banza</br>
+              <strong>Location:</strong> Agusan Del Norte<br/></br>
+              <strong>Subtitle:</strong> Banza Church Ruins: Remnants of the Past</br>
+              <strong>Category:</strong> History to uncover</br>
+              <strong>Summary: </strong> The oldest stone church ruins in Mindanao. Banza Church was built in 1625 as the first Spanish stone church and rectory in Mindanao</br>
+                                         in Banza by the Recollects. However, after 128 years of existence, it was razed to the ground by Moro invaders in 1753. </br>
+                                         The church ruins - a lone pillar hugged by the trunk of the huge Banyan Tree was considered as a mute witness to the more than </br>
+                                         200 years of the old colonial pueblo in Banza. </br></br>
+              <strong>School Name:</strong> Butuan Central ES</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Primary</br>
+              <strong>Teacher Coach:</strong> Edalyn B. Sumayo,Rubecita B. Durano, Annabelle M. Dorado</br>
+              <strong>School Team: </strong>
+              <ul> Jelly Ann E. Ledesma</br>
+                   Shirlyn Mae T. Rosales</br>
+                   Christian Zedrick A. Jumawan</br>
+                   John Xent M. Galeon</br>
+                   Micheal Angelo D. Llagas</br>
+                   Giovanni Felicitas</br>
+                   Micheal Lance S. Desoloc<br/>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          125.5650922
+          ,8.986267891
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PLACEOFWORSHIP</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Camarines Sur Provincial Capitol
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+             <iframe src="http://prezi.com/embed/1gedxzqsitdh/?bgcolor=ffffff&amp" width='600' height='400' style='border: 0px; overflow: hidden;' scrolling='yes'></iframe></q></div>
+        
+      <div><BR/><br/>
+           <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po Sa Amin: An Puno ng Pili, Punong Pinili</br>
+              <strong>Location:</strong> Naga Citye<br/></br>
+              <strong>Subtitle:</strong> In a Nutshell, Success is a Choice</br>
+              <strong>Category:</strong> Community products to support</br>
+              <strong>Summary: </strong> Pili is the flagship crop of the Bicol Region. It plays a significant role in the economy as it generates</br>
+                                         employment and provides income to all walks of life. This is because almost, if not all the parts of the</br>
+                                         PILI TREE has various uses. Through this community mapping, our team desires to show the world its rightful</br>
+                                         place in the international market. Thus, Bicolanos will be encouraged to plant and nurture more pili trees.</br></br>
+              <strong>School Name:</strong> Naga Central School 1</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Primary</br>
+              <strong>Teacher Coach:</strong> Mr. Francis Andrew P. Conde, Dawn Obligacion, Charina Factor</br>
+              <strong>School Team: </strong>
+              <ul> Mary Katherine Balane</br>
+                   Julma Escol, Vina Marie Aurellano</br>
+                   Gabriel Jean San Joaquin</br>
+                   Lorefei Boniface Acabado</br>
+                   Christine Anne Balcueva</br>
+                   Nicole Palmeda<br/>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          123.2488685
+          ,13.59636259
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_TOURISTINFORMATION</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Coi Fish Industry
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+             <iframe src="http://www.youtube.com/embed/HYWQmgcQq7I" width='600' height='400' style='border: 0px; overflow: hidden;' scrolling='yes'></iframe></q></div>
+        
+          <div><BR/><br/>
+           <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</strong> Doon Po sa Amin: May Minahan ng Gintong Isda!!!</br>
+              <strong>Location:</strong> Rizal<br/></br>
+              <strong>Subtitle:</strong> Pililla's Gold Fish Mine</br>
+              <strong>Category:</strong> Community products to support</br>
+              <strong>Summary: </strong> Doon Po Sa Amin: May Minahan ng Gintong Isda is Pililla National High School’s official entry to the DPSA Learning Challenge Year 5</br> 
+                                         under the category   Community products to support. This is about the Koi Fish Industry in Pililla which serves as a great means of </br>
+                                         business because of its importance and uniqueness. Many people usually thought that koi fish and gold fish are just the same.</br>
+                                         But these are their common mistakes. Gold fish is so different than a koi, it is smaller and comes from different body figures. </br>
+                                         Koi fish can be eaten but due to its expensive price, it is rarely found on dishes.  This fish can cost a hundred dollars or </br>
+                                         thousand pesos, so it’s really a “Gintong Isda”.  Our Team wanted to inform the people of something about koi fish in the </br>
+                                         Municipality of Pililla and be inspired with story behind the success of a great man.</br></br>
+              <strong>School Name:</strong> Pililla National High School</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Primary</br>
+              <strong>Teacher Coach:</strong> Christopher Olaya</br>
+              <strong>School Team: </strong>
+              <ul>  John Mark Abanes</BR>
+                    Diana Navarrete</BR>
+                    Sherry Mae Marasigan</BR>
+                    Francess Ann Guinto</BR>
+                    Irene Basa</BR>
+                    Ver Anthony Maala</BR>
+                    Merari Uzziel Ain Dizon</BR>
+                    Mr. Roger L. Bodegon</BR>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          121.3269294
+          ,14.4621
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_RESTAURANT</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Ilaya Elementary School
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+            <iframe src="http://www.youtube.com/embed/4pdUKMBhKcY" width="550" height="400" frameBorder="0"></iframe></q></div>
+        
+     <div><BR/><br/>
+           <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</stron> Doon po sa amin, Bulok ay kinakain</br>
+              <strong>Location:</strong> Rizal<br/></br>
+              <strong>Subtitle:</strong> Balaw-Balaw, a True Tanayan Delicacy</br>
+              <strong>Category:</strong> Food to eat</br>
+              <strong>Summary: </strong> This entry is about a food that can make you step backward and say "No Thanks" because the food cooked</br> 
+                                         and eat here was a mixture of shrimp, rice , coconut milk and other spices that has been fermented for</br> 
+                                         3 days that’s why it smells unpleasant. but when it was already cooked and prepared with our favourite</br>
+                                         dishes mainly Sinigang and fried fish you will understand why here in Tanay "bulok ay kinakain". </br>
+                                         The kids who prepared the dish was supervised by experts to make it safe and precise.</br></br>
+              <strong>School Name:</strong> Ilaya Elementary School</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Primary</br>
+              <strong>Teacher Coach:</strong> Mrs. Alicia B. Tongohan</br>
+              <strong>School Team: </strong>
+              <ul>  Odyssey R. Chualong<BR/>
+                    Jersey Mae F. Regalado<BR/>
+                    Kyla Mae F. Valencia<BR/>
+                    Rosenel D. Delgado<BR/>
+                    Darlene Dyann R. Miras<BR/>
+                    Kia Nicole B. Sacramento<BR/>
+                    Joan Samantha V. Berdan<BR/>
+                    Christina Toquero (teacher coach)<BR/>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          121.2899878
+          ,14.50349642
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_SCHOOL</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        HAMAKA at Kalayaan Park
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+           <iframe width="500" height="400" src="http://www.youtube.com/embed/VQPB4a9Dwig" frameborder="0" allowfullscreen></iframe></q></div>
+        
+    <div><BR/><br/>
+           <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</stron> Doon Po Sa Amin, Hamba, Makina at Kasuotan Aming Kabuhayan, Inyong Kalulugdan</br>
+              <strong>Location:</strong> Rizal<br/></br>
+              <strong>Subtitle:</strong> HAMAKA Festival</br>
+              <strong>Category:</strong> Activities to enjoy</br>
+              <strong>Summary: </strong> HAMAKA Festival is one of the most prestigious events in Taytay. The beautiful colors of costumes and amusing </br>
+                                         performances of different kinds are what made the parade interesting. Hamba, Makina, Kasuotan are the products </br>
+                                         featured. Our town emphasizes in Hamba which refers to the frame of doors but other than that are all kinds of </br>
+                                         wood products made in Taytay. Makina specifically sewing machines assembled in our town. And lastly the </br>
+                                         Kasuotan where we we’ve been called as the “Garment Capital of the Philippines</br></br>
+              <strong>School Name:</strong> Taytay National High School</br>
+              <strong>School Type:</strong> Public</br>
+              <strong>School Level:</strong> Secondary</br>
+              <strong>Teacher Coach:</strong> Mr. Cris F. Diñozo</br>
+              <strong>School Team: </strong>
+              <ul>  Cris F. Diñozo</br>
+                    Cristy R. Gestiada</br>
+                    Ma. Schanine Orig</br>
+                    Ma. Victoria Harria Borja</br>
+                    Rommel Dones</br>
+                    Deniel Tejor</br>
+                    Mheya Espiritu</br>
+                    Antoneth Pearl Olayao</br>
+                    Anthony Legarta</br>
+                    Marielle Aniceta</br>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          121.1309731
+          ,14.56746641
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_PARK</styleUrl>
+    </Placemark>
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        DPSA(People to Meet-NCS1)
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+           <iframe width="500" height="400" src="http://www.youtube.com/embed/JP_BQCtlG7c" frameborder="0" allowfullscreen></iframe></q></div>
+   <div><BR/><br/>
+           <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</stron> Doon Po Sa Amin: Kaidto Siisay Sana, Ngunyan Tinitingkalag Na</br>
+              <strong>Location:</strong> Naga City<br/></br>
+              <strong>Subtitle:</strong> Changed Lives, Changing Lives</br>
+              <strong>Category:</strong> People to meet</br>
+              <strong>Summary: </strong> "Nothing great will ever be achieved without great men, and men are great only if they are determined</br>
+                                         to be so." -- these words from Charles de Gaulle fittingly describe the stories of five people who, from </br>
+                                         nothing to greatness, exemplified the genuine character of a Nagueno and a Bikolano - the ORAGON.</br>
+                                         Naga City: City of SMILES - HOME of great people.</br></br>
+              <strong>School Name:</strong> Naga Central School 1</br>
+              <strong>School Type:</strong> Public</br
+              <strong>School Level:</strong> Primary</br>
+              <strong>Teacher Coach:</strong> Mr. Francis Andrew P. Conde, Ruby Bausas, Liezel Manondo</br>
+              <strong>School Team: </strong>
+              <ul>  Kyle Frances Marie Coralde</br>
+                    Marie Isabelle Tosoc</br>
+                    Lariz Jen Padillo</br>
+                    Jerlie Mae Naguna</br>
+                    Rochelle Sanares</br>
+                    Josef Ian Villarey</br>
+                    Paolo Carmelo Notorio</br>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          123.19949833974192
+
+          , 13.628118787470067
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_GOVERMENTOFFICE</styleUrl>
+    </Placemark>
+
+
+
+
+
+
+
+
+
+    <Placemark >
+
+      <name>
+        Atty. Leni G. Robredo's Residence
+      </name>
+      <description>
+        <![CDATA[<div align="center"><q>
+          <iframe src="http://player.vimeo.com/video/57436423" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></q></div>
+        
+        <div><BR/><br/>
+           <p style="margin-left: 20px;white-space:nowrap"><font face="tahoma" size="2"><strong>Entry Title:</stron> Doon Po Sa Amin: May Matatag Na Asawa, Ina, Babae, Nagueña</br>
+              <strong>Location:</strong> Naga City<br/></br>
+              <strong>Subtitle:</strong> DPSA There's a Strong Wife, Mother, Daughter, Nagueño</br>
+              <strong>Category:</strong> People to meet</br>
+              <strong>Summary: </strong> This is a short film conducted by the school team of Rosario V. Maramba Elementary School with an entry</br>
+                                         title: “Doon Po Sa Amin: May Matatag Na Asawa, Ina, Babae, Nagueña. Featuring Attorney Leonor “Leni” G. Robredo. </br>
+                                         This person inspires most people especially in Naga City. A steadfast wife, a loving mother, an empowered woman,</br>
+                                         a true blooded Nagueña.</br></br>
+              <strong>School Name:</strong>  Rosario V. Maramba Elementary School</br>
+              <strong>School Type:</strong> Public</br
+              <strong>School Level:</strong> Primary</br>
+              <strong>Teacher Coach:</strong> Miss Roma Jean D. Montero</br>
+              <strong>School Team: </strong>
+              <ul>  
+                    Angelyn Joyce R. Realda<br/>
+                    Khristine Sar B. Barbosa<br/>
+                    Kristianne Maureen D.C. Estefani<br/>
+                    Mary Joy O. Cornelio<br/>
+                    Ivan Francis T. Grijalvo<br/>
+                    Ilonah Grace C. Azaña<br/>
+                    Jessica V. Gabog<br/>
+                    Michelle A. Asico<br/>
+                    Maria Lakasdiwa S. Bagayawa<br/>
+                 </ul></font></p></br></div>
+          ]]>
+      </description>
+      <Point>
+        <coordinates>
+          123.1945499
+
+
+          , 13.6286333
+
+          ,0.000000
+        </coordinates>
+      </Point>
+      <styleUrl>#style_RESIDENTIAL</styleUrl>
+    </Placemark>
+
+
+
+  </Document>
+</kml>

@@ -1,0 +1,501 @@
+<?xml version='1.0' encoding='UTF-8'?>            
+<kml xmlns='http://www.opengis.net/kml/2.2'>            
+  <Document>            
+            
+                <Style id="style_ACTIVITIES">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/ACTIVITIES.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_FOODTOEAT">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/FOODTOEAT.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id="style_HISTORY">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/HISTORY.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+  
+  
+    <Style id="style_PEOPLETOMEET">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PEOPLETOMEET.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+  
+  
+
+    <Style id="style_PLACESTOGO">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLACESTOGO.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Style id="style_PRODUCTS">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PRODUCTS.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+
+    <Style id="style_PLANTSANIMALSTODISCOVER">
+      <IconStyle>
+        <scale>0</scale>
+        <Icon>
+          <href>/ICONS/30/PLANTSANIMALSTODISCOVER.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle >
+        <text>
+          <![CDATA[  
+        <ul class="nm_tabnav">  
+          <li class="nm_tab_current">STORY</li>
+          <li class="nm_tab">DETAILS</li>
+          </ul><h1>$[name]</h1>$[description]</BR>
+           <div align="center"><img src="./Headers/footer-revised.png"/></div>]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+    <Style id='tabbed'>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<ul class="nm_tabnav">
+      <li class="nm_tab_current">Excerpt</li>
+      <li class="nm_tab">Combatants</li>
+      </ul><h2>$[name]</h2></BR>$[description]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+  
+<Placemark id="8 ">
+   <name>Julian Felipe Monument</name>
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src="//www.youtube.com/embed/1AVB3g1E3Sc" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Cavite Bisitahin<BR><BR/><strong>Location: </strong>Cavite City, Cavite<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Cavite City is a wonderful destination for many. It is a small city, however, one can find many beautiful places to visit and to enjoy with.  This music video emphasizes this truth and it convinces others to come and drop by to Cavite City.  Moreover, the historical background of the place produces impact and the Cavite&#241;os, as well, strengthened the beauty of the whole city.  There will never be regrets to search for the itineraries described in the video.  Just be ready for an action and be prepared for a visit. Cavite City, a hooked-shape geographically, can win the hearts of many. <BR><BR/><strong>Team Members: </strong><ul>John Kenneth D.S. Samala</br>Cristine Aera D.C. Arcega</br>Laidel R. Rosete</br>Joven Roi S. Viray</br>Jaymark B. Abarro</br>Shaira Marie M. Santiago</br>Janeal Krayjn J. Rebutazo</br>Beverly A. Rom</br>Ana Angelica Q. Climaco</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.8876836,14.4724782,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="17 ">
+   <name>Tinago Falls</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="560" height="315" src="//www.youtube.com/embed/s_2aggawtTw" frameborder="0" ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong> Doon Po Sa Amin, May Paraisong Nakatago <BR><BR/><strong>Location: </strong>Iligan City, Lanao del Norte<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Iligan City East National High School<BR><BR/><strong>School Type: </strong>Public <BR><BR/><strong>School Level: </strong> Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">  This is a music video about the waterfalls and the fun-filled moments in Tinago falls, Buru-un, Iligan City. Tinago which means hidden in English is literally hidden in a ravine with an elevation of approximately 420 feet. Beautifully cascading into a pool, the waterfalls delights not only photographers but also nature lovers who love to swim in a clear and cold water. The physical challenge in going down just to be able to reach this marvelous beauty and the fun with its bamboo ride is unparalleled. <BR><BR/><strong>Team Members: </strong> <ul>Ann Monette P. Doplon</br>Ean Flem P. Doplon</br>Danielle D. Salaan</br>Jayven M. Vergara</br>Miguel M. Cortes</br>Raul G. Lucero</br>Emmanuel A. Escol</ul> </p><BR><BR/></div>]]></description>
+    <Point><coordinates>124.1861925,8.1593273,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+<Placemark id="24 ">
+   <name>DPSA, Nakakapigil hininga ang mga tanawin</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="853" height="480" src="//www.youtube.com/embed/l6r6X_nU1Ms" frameborder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Makapigil Hininga ang mga Tanawin<BR><BR/><strong>Location: </strong>Zamboanga City, Zamboanga Del Sur<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Zamboanga City High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Much like a puzzle, the Philippines as whole is way so beautiful and charming. But, have you ever, stop and think how awesomely unique the pieces are? Well one of those pieces is the city of Zamboanga. The proud residents want to share to you the wonders of the place popularly known as Asia&#8217;s Latin city. Our group showcased what our beloved city has to offer; a city with parks, restaurants, resorts, churches, and etc. Somewhat you may describe as TYPICAL, right? Wrong. It isn&#8217;t any ordinary city. It’s Zamboanga city for crying out loud. The crisis we, Zamboangue&#241;os faced cannot stop us from showing people that  there is more to Zamboanga than what we hear or see in the news. So, sit back, relax and be prepared to be amazed. <BR><BR/><strong>Team Members: </strong><ul>Johnny Jean N. Tigas</br>Paul Alejandrino</br>Andrea de Tomas</br>Gemie Pearl Lasay</br>John Joshua Suelan</br>Danniemae Joy Duhaylungsod</br>Queendel Vanee Garcia</br>Christian Francis Dayao</br>Rheizon Jon Partosa</br>Shekinah Benitez</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>122.0914887,6.9161033,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+<Placemark id="27 ">
+   <name>Lukan Adobo in Coconut Milk</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="640" height="360" src="//http://www.youtube.com/embed/sJoNF2r-ps4" frameborder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, sa Putik May Biyayang Pagkain<BR><BR/><strong>Location: </strong>Pola, Oriental Mindoro<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Domingo Yu Chu National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">The passion for cooking is inherent among Filipinos. This is true indeed among Pole&#241;os for they are known  of one native delicacy called adobo sa gatang lukan (clam adobo in coconut milk). With its special sauce made of natural coconut milk and other ingredients and flavoring, the meat of the clams (lukan) pleases everyone&#8217;s palate.  This native delicacy does not only satisfy a hungry stomach but also serve as a source of living for some people of the town.  So come and visit the town of Pola and taste the delectable and delicious adobo sa gatang lukan. <BR><BR/><strong>Team Members: </strong><ul>Ihra Yvanna Liwanagan</br>Christine Joy Lampas</br>Marie Eileen Navalez</br>Kimberly Lomocso</br>Jeck Lagsac</br>Mark Angel Cainguitan</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>121.4346832,13.1286389,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+
+
+<Placemark id="39 ">
+   <name>Dolphin Island</name>
+   <description><![CDATA[<div align ="center"><q><iframeE width="640" height="360" src="//www.youtube.com/embed/CXuzh38ZbGI" frameborder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, May MOAP na Kaakit-akit Bisitahin<BR><BR/><strong>Location: </strong>Oroquieta City, Misamis Occidental<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Misamis Occidental National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This entry promotes the Misamis Occidental Aquamarine Park (MOAP), a 40-minute ride away from Oroquieta City and is located at Libertad Bajo, Sinacaban, Misamis Occidental. It is owned by the provincial  government that features fish hatcheries and a mangrove forest. It houses variety of wildlife both land and water inhabitants. Its famous Dolphin Island catches the hearts of many for perhaps it is one of the  very few places in the Philippines where one can swim with and feed the dolphins up close. <BR><BR/><strong>Team Members: </strong><ul>Justine Chiarra C. Salomon</br>Cherry May G. Egonia</br>Hazel B. Cabural</br>Cris Bon C. Sabugal</br>Kezia M. Lumasag</br>Chen_mie L. Amores</br>Rimar M. Tripoli</br>Beau Benett L. Malinis</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>123.84324,8.27524,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="41 ">
+   <name>Enchanted River, Talisay, Hinatuan, Surigao del Sur</name>
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src="//www.youtube.com/embed/0JwCr6h9TFw" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Ilog na Mahiwaga, Dinadagsa!<BR><BR/><strong>Location: </strong>Barobo, Surigao del Sur<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Barobo National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Doon Po Sa Amin, Ilog Na Mahiwaga, Dinadagsa! is an entry of Barobo National High School to  the Doon Po Sa Amin Community Mapping Competition - Year 6 under Places to Go category. The entry  showcases the one of a kind tourist destination the province of Surigao del Sur is blest to have. Through a documentary,  Sheena V. Cuizon took the role as a journalist as she explored and experienced herself the beauty of  the magical and enchanting river of Talisay, Hinatuan, Surigao del Sur. As the title implies, the  documentary delved into why Enchanted River is visited not only by local tourists but by foreigners as well.  It also tackled why is it considered enchanted. The documentary aimed to further promote Enchanted River  as a distinct gift of Mother Nature not only to Filipinos but to foreigners as well. <BR><BR/><strong>Team Members: </strong><ul>Rechie Lee L. Cajes</br>Rhino A. Guzman</br>Loraine B. Rubi</br>Nhorlex May M. Balbin</br>Edmie Ann O. Espuerta</br>Clarence G. Cortes II</br>Dustin Jan Adlawan</br>Adrian Rafael T. Gacutan</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>126.3608367,8.4486468,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="50 ">
+   <name>Plaza de Rizal</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="420" height="315" src="//www.youtube.com/embed/sQ0h1UOW3YY" frameborder="0" ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Sa Plaza Rizal<BR><BR/><strong>Location: </strong>Pasig City, Metro Manila<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Manggahan High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Rizal Park or Plaza de Rizal is a place in Pasig with a touch of history to uncover and to honor our national hero Dr. Jose Rizal. Plaza Rizal is a place where you can find relaxation from busy city and it&#39;s a good starting  point if you want to make a tour in Pasig. Side by side of Plaza&#39;s quadrangle, a few steps, you will be amazed by the arts you will find in Pasig Museum, you can also approach the Mary Immaculate  Church, the Bahay na Tisa the oldest house in Pasig made of bricks, and the Colegio del Buen Consejo one of the oldest schools in Pasig. <BR><BR/><strong>Team Members: </strong><ul>Zarina Colleen L. Bizares</br>Jessa L. Torio</br>Hiedi Mae Igharas</br>Patrick Renzo Barreto</br>Angelicka Bullo</br>Jacqueline Catley</br>Camille Serrano</br>Ryan Penion</br>Duane C. Vargas</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>121.0760747,14.5607309,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="86 ">
+   <name>CamSur Watersports Complex</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME src="//prezi.com/embed/wyuaihlsw4h3/?bgcolor=ffffff&#38;amp;amp;lock_to_path=0&#38;amp;amp;autoplay=0&#38;amp;amp;autohide_ctrls=0&#38;amp;amp;features=undefined&#38;amp;amp;disabled_features=undefined" width="600" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, May Mga Kalocal-likes<BR><BR/><strong>Location: </strong>Naga City, Camarines Sur<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Naga City Science High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Why would one spend a huge sum of money to afford a vacationing experience anywhere else in the land when there are different remarkable spots and even more found in just one place? Take CamSur. Our  entry features some local destinations in Camarines Sur resembling places and spots around the country for which they have been known or were made famous. If Boracay has its pristine waters and white  sands, and Palawan its limestone formations, CamSur has its comparable natural wonders in Caramoan. Thus, our entry is titled Doon Po Sa Amin: May Mga Kalocal-likes (subtitled National Spots on Local  Maps: CamSur). With different activities and breathtaking views to enjoy in the province, to say that one can never be bored is not an exaggeration! So, San ka pa? CamSur na! (Where else would you rather  be? Experience CamSur!) <BR><BR/><strong>Team Members: </strong><ul>Jayson Gil Mariano</br>Nem Alec Savilla</br>Reymond Ian Morata</br>Arrem Christian Jusi</br>Kiara Loiuse Baliwag</br>Stephanie Anne Canabe</br>Ma. Theresa Ipo</br>Jose Maria Emmanuelle Manaog</br>Joretze Carandang</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>123.2538991,13.5962953,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="86 ">
+   <name>CamSur Watersports Complex</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME src="//prezi.com/embed/wyuaihlsw4h3/?bgcolor=ffffff&#38;amp;amp;lock_to_path=0&#38;amp;amp;autoplay=0&#38;amp;amp;autohide_ctrls=0&#38;amp;amp;features=undefined&#38;amp;amp;disabled_features=undefined" width="600" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, May Mga Kalocal-likes<BR><BR/><strong>Location: </strong>Naga City, Camarines Sur<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Naga City Science High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Why would one spend a huge sum of money to afford a vacationing experience anywhere else in the land when there are different remarkable spots and even more found in just one place? Take CamSur. Our  entry features some local destinations in Camarines Sur resembling places and spots around the country for which they have been known or were made famous. If Boracay has its pristine waters and white  sands, and Palawan its limestone formations, CamSur has its comparable natural wonders in Caramoan. Thus, our entry is titled Doon Po Sa Amin: May Mga Kalocal-likes (subtitled National Spots on Local  Maps: CamSur). With different activities and breathtaking views to enjoy in the province, to say that one can never be bored is not an exaggeration! So, San ka pa? CamSur na! (Where else would you rather  be? Experience CamSur!) <BR><BR/><strong>Team Members: </strong><ul>Jayson Gil Mariano</br>Nem Alec Savilla</br>Reymond Ian Morata</br>Arrem Christian Jusi</br>Kiara Loiuse Baliwag</br>Stephanie Anne Canabe</br>Ma. Theresa Ipo</br>Jose Maria Emmanuelle Manaog</br>Joretze Carandang</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>123.2538991,13.5962953,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+<Placemark id="93 ">
+   <name>Bugsukan Falls in Bugsukan, Butuan City</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="533" height="400" src="//www.youtube.com/embed/UUAeGcFO3vI?rel=0" frameborder="0" ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Maanindot na Busay ay Buhay<BR><BR/><strong>Location: </strong>Butuan City, Agusan del Norte<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Bugsukan Elementary School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Primary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Bugsukan Elementary School entry to DPSA feature about the beauty of Bugsukan Falls  and its importance to the community where it is located. Bugsukan Falls is located in barangay Bugsukan, Butuan City, in the province of Agusan Del Norte, in the island of Mindanao. This falls is not very known in the city or even in neighboring barangays. The hidden falls is surrounded with limestone, big rock formations and untouched vegetation that add to the beauty of the falls. For best view and experience of the falls, trek to the top where you’ll have many opportunities to cool down in the levels of the falls. The falls is very important in this place because this is source of irrigation in some rice fields in the city.  Local folks used the water from the falls to wash clothes and bathe themselves, carabaos used to wallow and local folks also catch fishes here. <BR><BR/><strong>Team Members: </strong><ul>Ellizane C. Arcilla</br>Mojeca Christy C. Galla</br>Charles V. Banate</br>Magno G. Sangalia Jr.</br>John Kennett Valderosa</br>Donna V. Banate</br>Sheila Mae T. Viscayno</br>John David Mejala</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>125.6627003,8.9306335,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="94 ">
+   <name>Dela Mar Resort</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="420" height="315" src="//www.youtube.com/embed/vcuuZrHuRNE" frameborder="0" ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Ang Mga Tao sa Pridyider Naliligo <BR><BR/><strong>Location: </strong>Iligan City, Lanao del Norte<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Iligan City East National High School<BR><BR/><strong>School Type: </strong>Public <BR><BR/><strong>School Level: </strong> Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px"> Sing and dance with the students of Iligan City East National High School in this music video about the icy cool water of Timoga cold springs situated at Timoga, Buru-un, Iligan City. Popular for its relaxing, refreshing, and overflowing cold water, people in Iligan City and neighboring towns flock to this place and take a plunge. What could be more enticing than a cool swimming pool especially when heartbreaking news (e.g., pork barrel scam, Zamboanga war) raise one’s blood pressure and body temperature? <BR><BR/><strong>Team Members: </strong><ul>Jazreel Quinn T. Coloyan</br>Eugen Reu L. Bulahan</br>Nina Jayne P. Ricablanca</br>Kurt Ian S. Andot</br>John Louise M. Dagting</br>Jayven M. Vergara</br>Ace H. Escol</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>124.1793479,8.1916223,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+<Placemark id="98 ">
+   <name>Lantaw Floating Restaurant</name>
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src="//www.youtube.com/embed/IpUUR1KQ1Hc" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Sarap ay Lilitaw sa Lantaw<BR><BR/><strong>Location: </strong>Lapu-Lapu City, Cebu<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Science and Technology Education Center<BR><BR/><strong>School Type: </strong>Public <BR><BR/><strong>School Level: </strong>Secondary <BR><BR/> <strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Ready for a new, authentic experience? If you are, then why not head down to "Lantaw"? This DPSA entry showcases the floating restaurant of "Lantaw", presenting it as one of the many potential places in the country for tourists to go visit. Found in the municipality of Cordova on the island of Lapu-Lapu, "Lantaw" is the place to go for those who want to spend a day floating by the seaside while basking in the local atmosphere of rustic, Filipino community life. Viewing the Cebu City skyline as the sun sets while you feast on local cuisine guarantees a memorable experience for the weary traveler.<BR><BR/><strong>Team Members: </strong><ul> Keenu Alan Manayon </br>Sheen Michael Manigo</br>Christian Louis Manabat</br>Jaime Capitan</br>Jay Ereka Valiente</br>Christian Gelbolingo</br>Robert Diez Maglasang</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>123.93456,10.25567,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="105 ">
+   <name>Aklatang Bayan at Museo</name>
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src="//www.youtube.com/embed/1AVB3g1E3Sc" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Cavite ay Bisitahin<BR><BR/><strong>Location: </strong>Cavite City, Cavite<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cavite National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Cavite City is a wonderful destination for many. It is a small city,  however, one can find many beautiful places to visit and to enjoy with.  This music video emphasizes this truth and it convinces others to come and drop by to Cavite City.  Moreover, the historical background of the place produces impact and the Cavite&#241;os, as well, strengthened the beauty of the whole city.  There will never be regrets to search for the itineraries described in the video.  Just be ready for an action and be prepared for a visit. Cavite City, a hooked-shape geographically, can win the hearts of many. <BR><BR/><strong>Team Members: </strong><ul>John Kenneth D.S. Samala</br>Cristine Aera D.C. Arcega</br>Laidel R. Rosete</br>Joven Roi S. Viray</br>Jaymark B. Abarro</br>Shaira Marie M. Santiago</br>Janeal Krayjn J. Rebutazo</br>Beverly A. Rom</br>Ana Angelica Q. Climaco</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>120.900952,14.4807081,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+<Placemark id="113 ">
+   <name>Campo Santo (Pola Catholic Public Cemetery)</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="640" height="390" src="http://www.youtube.com/embed/1BfqmKWb7Oc" frameborder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Ang Huling Hantungan Diretso sa Kalangitan<BR><BR/><strong>Location: </strong>Pola, Oriental Mindoro<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Domingo Yu Chu National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">At the heart of the Municipality of Pola, Oriental Mindoro is a Catholic and Public cemetery also known as Campo Santo. This graveyard towards heaven is located in barangay Batuhan was established in 1930 with a total land area of 3.353 hectares. From above, you will see the majestic and beautiful sceneries of Pola town proper, Pola bay and Calima mountain range. Come and watch as DYCNHS students sing, dance and scare you a bit while presenting the unique graveyard of Pola down the Lord’s feet.<BR><BR/><strong>Team Members: </strong><ul> Ivy D. Llave</br>Shaznay Shello Rine R. Mago</br>Gener Luigi M. Discaya</br>Gizelle Peñero</br>Karen T. Muhi</br>Khanulyao Orulyao A. Samson</ul></p><BR><BR/></div>]]></description>
+    <Point><coordinates>121.4380546,13.1400319,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+<Placemark id="114 ">
+   <name>Our Lady of Peace and Good Voyage</name>
+   <description><![CDATA[<div align ="center"><q><IFRAME width="560" height="315" src="//www.youtube.com/embed/HoD8dwo3B38" frameborder="0" ></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"<strong><strong>Entry Title: </strong>Doon Po Sa Amin, Gandang Antipolo, Gandang Paraiso<BR><BR/><strong>Location: </strong>Antipolo City, Rizal<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Bagong Nayon II National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Our entry DPSA: Gandang Antipolo, Gandang Paraiso  (Wonderful Antipolo, Captivating Paradise) is all about the beautiful places  and tourist destination in our city. At first, the boy singer invites his friends to visit the place somewhere in Southern Tagalog for it offers the stunning beauty  of its natural resources where all of them would enjoy. Then, the girl singer would mention those picturesque views and present them through video presentation. As they visit those places, they would not just enjoy seeing   them but they would also witness the strong family bond of its townspeople. <BR><BR/><strong>Team Members: </strong><ul>Carlo Angelo M. Correa</br>Jordan Jawo C. Jayme</br>Andrea Mae </br>N. Novales</br>Theodoric M. Layos</br>Jan Robert A. Robedillo</br>Miguel S. Aunario</br>Lorraine S. Malabad</br>Errol Christian L. Rocapor</br>Jeffrey D. Diesta</p><BR><BR/></div>]]></description>
+    <Point><coordinates>121.1757025,14.5876477,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="2 ">
+   <description><![CDATA[<div align ="center"><q> <img src="/img/Icon_Places.jpg" style="width:100%;"></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po sa Amin, May Tunay na Kanlungan ang Haring Ibon<BR><BR/><strong>Location: </strong>Davao City<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Ananda Marga Special Academic Institution<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Primary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Tales of the Wild: an animated program features the life story of Kaibigan  - a Philippine Eagle captured by two kids in the island of Mindanao.  She was brought to the Philippine Eagle Center where she recovered her health.  There, she reminisces how she came to find the Center as her  new home. The Philippine Eagle Center (PEC) is home to the Philippine Eagle Foundation.  The Foundation is tasked to save the endangered &#39;Haribon&#39; from extinction  as well as the environment. Aside from being a scientific observation laboratory,  the PEC is one of the most influential tourist attraction in Davao City given  its benevolent mission to help the environment and its offer of a peek to  the natural beauty and wonder of the wild. <BR><BR/><strong>Team Members: </strong><ul>Prema Devii B. Ramirez</br>Miraflor A. Jandayan</br>Zyne Justine S. Lomocso</br>Matthew John P. Tero</br>Lyka S. Almirante</br>Alcid S. Virtudazo</br>Hazel A. Labuan</br>Abegail B. Butron</br>Claire Ann S. Diana</br>Stephanie Dawn C. Beloy</ul></p><BR><BR/></div>]]></description>
+   <address>Davao City</address>
+    <Point><coordinates>125.61101,7.06568,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+<Placemark id="5 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src=https://www.youtube.com/embed/V-7kRdkCwWc frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Ngiti sa Bibig ang Babaunin<BR><BR/><strong>Location: </strong>Albay<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Bicol College High School<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">The Bicol College High School Doon po sa amin team created a video  to show the natural beauty of Albay .In this video we created our own song.  In this video, you can see the tourist spots where you can spend your  time with family,relatives, and friends. So let us all witness the Albay Province and let us all be ready to be amazed as we take our tour in our province. We will never fail to amaze you! Enjoy as you watch our video.Thank you! <BR><BR/><strong>Team Members: </strong><ul>Lance Laguilles</br>Vanessa Marana</br>Neah Ainel Gaviola</br>Jan Alexis Batalla</br>Darla Lorgen Mantes</br>Terence Joshua Pintor</br>Dahril Chris Mahinay</br>Christian Joshua Galan</ul></p><BR><BR/></div>]]></description>
+   <address>ALBAY</address>
+    <Point><coordinates>123.73289,13.13832,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+<Placemark id="18 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/FdV6GQybaLo frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Sa Di Malilimutang Kutangbato<BR><BR/><strong>Location: </strong>Cotabato City<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Cotabato City National High School - Main Campus<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This documentary relates the homecoming of Yasser, who came  back to Cotabato City after studying abroad. In his return, he made a tour to  the beautiful landmarks of the city, after a warm welcome from  his family, friends, and classmates. It was a very happy and memorable reunion, and was made even  colorful when they went to the places that are unique in the city, discovering and exploring  Cotabato City in this short video is truly amazing, wonderful, and unforgettable experience. <BR><BR/><strong>Team Members: </strong><ul>Elleine Joy De Leon</br>Normina Casim</br>Abdulbasir Endong</br>Riezel Mae Ada</br>Yasser Ali Untong</br>Rain Cyrene Quitiol</br>Maria Jannel Andrade</br>Susan C. Villano</ul></p><BR><BR/></div>]]></description>
+   <address>Cotabato City</address>
+    <Point><coordinates>124.25149,7.2009,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="19 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src=https://www.youtube.com/embed/AAF-Lp4bv4s frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, May Nakatagong Kayamanan<BR><BR/><strong>Location: </strong>Polomolok, South Cotabato<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Dole Philippines School<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Polomolok, Yakapin Mo Ako is the title of the music video.  This music video uses a stop motion concept. There are more than 500 images used to come  up with this music video. The group wants to illustrate the beauty of  Polomolok through free hand drawing. This aims also to promote not only the beautiful  places of Polomolok, and its culture but it amis also to promote the people  who lived there. This is an amazing place to stay. Polomolok, Yakapin Mo! <BR><BR/><strong>Team Members: </strong><ul>Adrian Q. Peria</br>Adrian Almencion</br>Trisha Dulla</br>Julian Bernal</br>Ramon Alvarez</br>Giorgio Ejercito</br>Rusell Gutierrez</br>Carlton Delfino</br>Eloisa Sanson</ul></p><BR><BR/></div>]]></description>
+   <address>Polomolok, South Cotabato</address>
+    <Point><coordinates>125.03367,6.24408,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="21 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/_VDp4s6yb4A frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Diez Centavos na lang ang Kulang, Langit na ang Maabtan<BR><BR/><strong>Location: </strong>Toril, Davao City<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Do&#241;a Carmen Denia National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Doon Po Sa Amin, Diez Centavos na lang ang Kulang Langit na ang Maabtan" (Diez centavos nalang ang kulang)  emphasizes not its literal term but gives a message that simply says, "you are  only a step ahead to heaven". Old folks, near the said place, invite many of us to experience  the said heaven estate. Long years of existence let them witness a lot of it.  And now it is our turn to be amazed. Eden nature park gives heaven another definition---  its about the profound happiness and satisfaction that is assured by the time you reach it.  For within 35 minutes or more from Toril,  Davao City proper, any form of transportation will bring you to Eden Nature Park.  The video displayed a view of the whole land.  From the green trees to the colorful flowers and a preview some of its facilities to enjoy. <BR><BR/><strong>Team Members: </strong><ul>Dave H. Marayag</br>Danielle Grace C. Su&#241;er</br>Justine P. Nipas</br>Christian Lorenz G. Gana-an</br>Arnel dela Cerna</br>Blessy A. Remolleno</br>Ellah Mae P. Villalongja</ul></p><BR><BR/></div>]]></description>
+   <address>Toril, Davao City</address>
+    <Point><coordinates>125.50475,7.02592,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+<Placemark id="22 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/_ywkxXo_zR4 frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Tara at Tuklasin ang Kariktan ng La Carlota<BR><BR/><strong>Location: </strong>La Carlota City, Negros Occidental<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Do&#241;a Hortencia Salas Benedicto National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Doon Po Sa Amin Tara at Tuklasin Ang kariktan ng La Carlota (Let&#39;s Discover the Beauty  of La Carlota) features the natural beauty spots in La Carlota. It also Describes the places History. The Fun, Enjoyments and  Adventures also awaits you, and offers calmness. Even its way, reveals the beauty of  La Carlota from it&#39;s landmarks, church, antiques and up to the relaxing places, such  as resorts and its Mountain parks that would truly amaze, and would fill  your eyes with exquisite scenery. La Carlota Brings paradise, places that would  make Philippines the best out of it! <BR><BR/><strong>Team Members: </strong><ul>Raeceph Jude Sayson</br>Edmar Tejido</br>Edvince Vel Samson</br>Lawrence Sunico</br>Victor John Fuertes</br>Raven Tirante</br>Danilyn Albay</br>Paula Mae Pagasita</ul></p><BR><BR/></div>]]></description>
+   <address>La Carlota City, Negros Occidental</address>
+    <Point><coordinates>122.9209,10.4235,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="26 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/f_XyutNUHqw  frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Bundok ang Bakod<BR><BR/><strong>Location: </strong>Irosin, Sorsogon<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Gallanosa National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">The small town of Irosin is located in Sosogon. This town is believed  to be located in a caldera, it is also believed to look like a basin surrounded  by mountain ranges. These mountain ranges are the barriers of  the town against erosion, strong typhoons, air pollution and other calamities.  We traveled and climbed these mountain ranges. We saw the uniqueness  of each mountain. Some mountains remain unexplored by people and some  are being restored by people, like the mountain in barangay Salvacion.  There are also a lot of places in Irosin wherein you can see the mountains,  such as in Valley View, Irosin Hilltop Church  and on the elevated places. During this journey,  we uncovered the hidden natural treasures of Irosin. <BR><BR/><strong>Team Members: </strong><ul>Collin Claire Arnaldo Ubalde</br>Alysa De Villa Gautane</br>Claire Ann Quiambao Gamba</br>Krissa Mae Gojit Aycardo</br>Yssa Mae Baloloy Rebamba</br>Kriza Lynne Gabito Pe&#241;aflor</br>Patricia Mae Balaguer Lopez</br>Mary Grace Lanes<\ul></p><BR><BR/></div>]]></description>
+   <address>Irosin, Sorsogon</address>
+    <Point><coordinates>124.0352,12.70337,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="28 ">
+   <description><![CDATA[<div align ="center"><q><iframe src=https://prezi.com/embed/gcnzherxr0oy/?bgcolor=ffffff&#38;lock_to_path=0&#38;autoplay=0&#38;autohide_ctrls=0&#38;features=undefined&#38;disabled_features=undefined  width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Paggao'y Matarik, Alapaap na Marikit, Kayumiha'y Humahapit<BR><BR/><strong>Location: </strong>Gen. E. Aguinaldo, Cavite<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Gen. E. Aguinaldo National High School-Bailen<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This project aims to promote the wealth our town has. Even Gen. E. Aguinaldo  is a fifth class municipality in the province of Cavite,  and not that popular still we are proud to be blessed with natural resources like rivers  and spring. Mag-asawang Bato River is just one of numerous rivers in town  that can be a tourist spot if given the opportunity to be developed by the Local or  Provincial Government. With the challenging hiking experience of 160 steps, the  river has a pool area good for family or group outing. It has also cottages built by the  officials and residents of the barangay. Come and visit our town and be amazed  of what our town has to offer in the world of tourism. <BR><BR/><strong>Team Members: </strong><ul>Angel M. Esteron</br>Jeline Mikaela Casambros</br>Estella Mariz San Andres</br>Krishia Anne Mendoza</br>Sharlaine Gluton</br>Jean Ferrence Malimban</br>Sybergold Dilao</br>Dianne Dimapilis</br>Dr. Aurelia Dejan</ul></p><BR><BR/></div>]]></description>
+   <address>Gen. E. Aguinaldo, Cavite</address>
+    <Point><coordinates>120.8797913,14.3698902,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="33 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="480" height="360" src=https://www.youtube.com/embed/GxXIt8Kraf0?rel=0 frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Tacub Falls ang Nakatagong Yaman ng Buenavista<BR><BR/><strong>Location: </strong>Buenavista, Agusan del Norte<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Guinabsan National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">There is that Hidden Place worthy to be visited by everyone located  in Macalang, Buenavista, Agusan del Norte and that is the Tacub Falls.  That is why the students have chosen this as a topic for the 6th DOON PO SA AMIN  COMMUNITY MAPPING COMPETITION. The fast growing  municipality of Buenavista with its natural beauty and fascinating places transform into  a mysterious municipality of beautiful scenery. One may think how these things has  brought glory to Buenavista and the constituents&#8217; attitudes in sharing their ideas  that finally made up to improve the scenery. It is imperative therefore that we hunt  to choose the category ?Places to Go&#8217;&#8217; that&#8217;s why it is very overwhelming for us to  show the beauty of BUENAVISTA , so that everyone who may have viewed  our entry will have an idea of the hidden beauty of TACUB FALLS in Buenavista. <BR><BR/><strong>Team Members: </strong><ul>Judy Ann Delauro</br>Nikki Caryl Zafra</br>Ma. Mercedes Rebita</br>Mary FlorMontebon</br>Mimae Jane mERCADO</br>Charmie Apos</br>Krisne Cadano</br>Angela Nina Calope</br>Janet Hotahot</ul></p><BR><BR/></div>]]></description>
+   <address>Buenavista, Agusan del Norte</address>
+    <Point><coordinates>125.42436,8.87864,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="35 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="480" height="360" src=https://www.youtube.com/embed/iTVakb7ZiHI?rel=0 frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Protektahan Ta ang Calayagon Watershed<BR><BR/><strong>Location: </strong>Buenavista, Agusan del Norte<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Guinabsan National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">A watershed is an area of land that drains rain water into one location  such as a stream, lake or wetland. These water bodies supply our  drinking water, water for agriculture and manufacturing, offer opportunities for  recreation and provide habitat to numerous plants and animals.  Unfortunately various forms of pollution, including runoff and erosion, can interfere with  the health of the watershed. Therefore, it is important to protect the quality of  our watershed. It is very important to protect our water resources such as  water dams, creeks, and watersheds. These water resources contributes to what  it is used for washing clothes/dishes, drinking and many more. That&#8217;s  why we the members of the YES-O of Guinabsan National High School has the honor to say  &#8216;&#8217; LETS PROTECT THE CALAYAGON WATERSHED&#8217;&#8217;. <BR><BR/><strong>Team Members: </strong><ul>Nikki Caryl Zafra</br>Chariza Khea Caila</br>Lorena Balicoco</br>Judy Ann Delauro</br>Angela Nina Calope</br>Janet Hotahot</br>Helanovelyn Armayan</br>Rosemarie Baclayo</br>Sweet Aiben Z. Licayan</ul></p><BR><BR/></div>]]></description>
+   <address>Buenavista, Agusan del Norte</address>
+    <Point><coordinates>125.42436,8.87864,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="36 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/GrCYEMnxLR8 frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Yamang Kalikasan<BR><BR/><strong>Location: </strong>Iligan City, Lanao del Norte<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Iligan City East National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Mimbalot Falls is one of the 39 amazing waterfalls in Iligan City.  It also belongs to the so-called Tourism Triangle in the city, along with Tinago  Falls and the Maria Cristina Falls. This place is a great spot to visit especially  for nature lovers who enjoys virgin beauty. The waterfall is actually part  of Iligan Paradise Resort and Eco Park where you can find a number of fun activities  to enjoy. Inside the resort, you can also enjoy zip line rides over majestic views.  The zip lines come with different harnesses that you can choose based on your own preference.  You can try the single harness or the superman.  Those who would love to try the zip line but afraid to do it alone can ride in tandem secured on a double harness  with a companion. <BR><BR/><strong>Team Members: </strong><ul>Keith Acham</br>Novie Eroa</br>Janille Bas</br>Jonathan Generalao</br>Zyfer Boysillo</br>Jayven Vergara</br>Adrian Buan</br>Jeremias Omelig</ul></p><BR><BR/></div>]]></description>
+   <address>Iligan City, Lanao del Norte</address>
+    <Point><coordinates>124.21971,8.20947,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+<Placemark id="40 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/TJU9v9TOHK0 frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, May Natatanging Syudad na Matatawag na Pamana ng Nakaraan at Magsisilbing Yaman sa Kasalukuyan<BR><BR/><strong>Location: </strong>Vigan City, Ilocos Sur<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Ilocos Sur National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This entry is about the preserved heritage of Vigan City. A place that you  will never forget and a destination that you will never regret. Our city is  well-known for its old houses and spots. It is in the Spanish Era wherein Vigan preserved it.  Tour around Vigan and make your day historical.  Fasten your seat belts and ride the kalesa. Explore the old houses and taste  those delicacies that Vigan are proud of. Viva Vigan! <BR><BR/><strong>Team Members: </strong><ul>Emmanuel Padaong</br>Monique Tubera</br>Russel Quidulit</br>Bee Jay Miguel</ul></p><BR><BR/></div>]]></description>
+   <address>Vigan City, Ilocos Sur</address>
+    <Point><coordinates>120.38799,17.56497,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="41 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src="//www.youtube.com/embed/dpEuLERhYz8" frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Igto sa Amon Abu-abong Taeanawun nga Kanami Guid Bisitahon<BR><BR/><strong>Location: </strong>Kalibo, Aklan<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Infant Jesus Academy<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This entry portrays the wonders of Aklan and  different places to visit. These places are not well-known and cannot be easily found in the map,  we take you on a road trip to showcase the majestic sceneries around our golden province,  Jawilli falls, Hurom-hurom and Boracay are only few of the many  destinations where you can surely enjoy and make a bonding with  your family and friends. if you want to experience adventure come to Aklan now, THE LAND OF SAND, SOUND AND FIBER! <BR><BR/><strong>Team Members: </strong><ul>Mark Anthony Roberts</br>Via Suerte Felipe</br>Arvin Francisco</br>Louie Jay Sabino</br>Mitchka Inocito</br>Princess Danica Lopez</br>Mary Diane Garcia</br>Giuliene Isberto</br>Joseph Lawrence Constantino</ul></p><BR><BR/></div>]]></description>
+   <address>Kalibo, Aklan</address>
+    <Point><coordinates>122.36703,11.69667,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="42 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=https://www.youtube.com/embed/v4QJ6xFlLnQ?rel=0 frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Grasya'y Tuklasin<BR><BR/><strong>Location: </strong>Pampanga<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Information and Communication Technology High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Pampanga Pampanga derived its name from the word  Pampang which means river bank. During the Spanish era, it is said to be the  reigning province of Region III because of its economical abundance, geographical advantage, terrain,  rich soil, agriculture, productive and skilled folks. Today,  Pampanga is known to be an industrialized province in Central Luzon but  was still able to preserve its cultural heritage, enhance its natural resources  and enriched its different industries. Aside  for being the Christmas Capital of the Philippines it is also said to be the culinary capital of the Philippines. A day at  Pampanga will not only satisfy your taste buds but will also refresh your eyes from wilderness  of urban living. Fascinating sceneries, recreational avenues, mouth  watering dishes and delicacies, friendly locals is what Pampanga all about <BR><BR/><strong>Team Members: </strong><ul>Bryan Angelo G. Bawanan</br>Francis Christian S. Llorin</br>Ioel Cornelio O. Briones</br>Gilea Angelie Janina V. Fabros</br>Clarisse Ariel V. Nacianceno</br>Sobel Keith G. Panes</br>Luke P. Bengco</br>Angelo Miguel Manalo</br>King Raymond Jerald De Jesus</ul></p><BR><BR/></div>]]></description>
+   <address>Pampanga</address>
+    <Point><coordinates>120.65497,15.06137,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="43 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="1280" height="720" src=https://www.youtube.com/embed/mhLf5JEOKXo?rel=0 frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, May RAVE na Kay Ganda at Kay Saya Saya<BR><BR/><strong>Location: </strong>Pasig City, NCR<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Kapitolyo High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Exploring RAVE (Rainforest Adventure Experience). The most visited park of Pasig City,  Manila. Showing how much fun and  convenient for a Public Park. A very affordable park for family, friends, peer and love ones.  An excitement yet natural park for Pasiguenos and for those who want to visit it.  Having facilities like Adventure Park, zipline, wall climbing, Amaze garden,  Flower fields , RAVE mini zoo, Butterfly House, Mini Train Ride, Water Park, Mini olympic pool, Water Rapid and so  much more. <BR><BR/><strong>Team Members: </strong><ul>Juan B. Reluba</br>Christian Ashley Maliwat</br>Charles Ian Cunanan</br>Ian Joseph Santiago</br>Jade Baguhin</br>Joan Claire Bartolo</br>Louella Maribbay</br>Angela Degesica</ul></p><BR><BR/></div>]]></description>
+   <address>Pasig City, NCR</address>
+    <Point><coordinates>121.08137,14.56002,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="46 ">
+   <description><![CDATA[<div align ="center"><q><iframe src=https://prezi.com/embed/bxyrc8hn36tw/?bgcolor=ffffff&#38;lock_to_path=0&#38;autoplay=0&#38;autohide_ctrls=0&#38;features=undefined&#38;disabled_features=undefined width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Abot Kamay ang Langit<BR><BR/><strong>Location: </strong>Muzon Taytay Rizal<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Manuel I. Santos Memorial National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This prezi/video presentation was made to highlight the beauty of Christ the King  Parish in Muzon, Taytay, Rizal also known as  Church in the Sky. It was built on top of Dela Cuesta Hills, overlooking the whole province  of Rizal, and the bright lights of Metro Manila. It was situated in a location  wherein you will see the calmness of nature surrounding the Church. It became known  as Church in the Sky, for residents and local tourists, because whenever you are in the place,  you will learn to appreciate nature. <BR><BR/><strong>Team Members: </strong><ul>Reggie S. Besa</br>Danieze Tabios</br>Ma. Nykha A. Domondon</br>Rhovina P. Abe</br>Mark Anthony S. Abordo</br>Angelo S. Padecio</br>Jean Nicole G. Zapanta</ul></p><BR><BR/></div>]]></description>
+   <address>Muzon Taytay Rizal</address>
+    <Point><coordinates>121.14057,14.54954,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="50 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="640" height="360" src=https://www.youtube.com/embed/hSLnR6lFvXM frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, May La Playa Azul na Kapanabik-panabik Puntahan<BR><BR/><strong>Location: </strong>Panaon, Misamis Occidental<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Misamis Occidental National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This entry promotes the beautiful beach, La Playa Azul of Regalado in  Panaon, Misamis Occidental. Panaon is a nearby municipality  of Oroquieta City. It features the different beautiful spots of the beach,  its amenities and corresponding amount. It likewise includes some travel tips that gives  local and foreign tourists an idea of what to bring and what to do when the  visiting the place. The MONHS DPSA team is hopeful that through this entry it could attract local  and foreign tourist that eventually boost the tourism industry of the province and  thus generate employment to our locals. <BR><BR/><strong>Team Members: </strong><ul>Charmane Irea Calo</br>Raniela Joy Poliran</br>Hannah Trisha Manabat</br>Shenna Nice Gregorio</br>Kenn Robert S. Lamparas</br>Kisha May Tacastacas</br>Jelle Aaron A. Japay</br>Doumar Anthony N. Tubac</ul></p><BR><BR/></div>]]></description>
+   <address>Panaon, Misamis Occidental</address>
+    <Point><coordinates>123.83629,8.35813,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="55 ">
+   <description><![CDATA[<div align ="center"><q><img src="/img/Icon_Places.jpg" style="width:100%;"></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Tatalon-talon na Tanawin Tiyak na Kagiliw-giliw<BR><BR/><strong>Location: </strong>Cabanatuan City, Nueva Ecija<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Nueva Ecija High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Palasapas falls and General Luna falls are only two bewitching  examples of God&#8217;s nature&#8217;s gift for us. Why? It&#8217;s simply because one can&#8217;t  help to say &#8220;wow&#8221; once he witnessed these falls. Palasapas falls can be reached  easily since it is located a few meters away from the highway and it will take  you for less than five minutes of walking and you can hear the sound of running and falling  water at the same time. In General Luna falls, although it will take you  almost two and a half hours before you reached it, you may find it enjoyable since you can experienced mountain  climbing, walking along the river and crossing the river as well.  That&#8217;s the reason why in spite of that long journey, you had fun and surely what you witnessed  will etch into your memory as long as you live because the falls is really amazing. <BR><BR/><strong>Team Members: </strong><ul>Innah Myrna O. Siblag</br>Sheila Mae Jasmine C. Suba</br>Princess Gazzelle P. Zabala</br>Ma. Divina Patricia S. Villalon</br>Danielle C. Abando</br>FitzGerald F. Gendraule</br>Ma.Joevan A. Tamayao</br>Eden S. Estrada</br>Virgie E. Bulalayao</ul></p><BR><BR/></div>]]></description>
+   <address>Cabanatuan City, Nueva Ecija</address>
+    <Point><coordinates>120.96866,15.48466,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="66 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src=https://www.youtube.com/embed/OukfHiE04bo frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, A Day in Kiokong<BR><BR/><strong>Location: </strong>Quezon, Bukidnon<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Quezon National High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">"A very wonderful place for you to reflect, Kiokong"  The municipality of Kiokong is located at the southern portion of the province  of bukidnon.  The municipality of Kiokong has the total land area  of 409.41 square kilometers (71.128 hectares) per CAD 895 with 31 barangays.  It represents in about 4.94% of the total land area of the province of Bukidnon. Kiokong  also known as Quezon has its large chunks of fertile plains, breathtaking inland valleys,  mysterious virgin forest which is well maintained by the said municipality, rolling  hills and mountain ranges which is bounded in the south by the municipality  of Kitaotao, north by the city of Valenceia, west by the municipality of Maramag and Don  Carlos and east by the municipality of San Fernando. The first class municipality has the following  scenic spots that can attract and visited by the local and international tourist. <BR><BR/><strong>Team Members: </strong><ul>Philip R. Florenosos</br>Miraflor M. Armian</br>Clyde Joseph A. Baguio</br>Alexa Camille Q. Bongabong</br>Cherry S. Ponteras</br>Baby Jane Q. Anay</br>April Rose B. Cadorna</br>Jiego S. Menguez</br>Caryl Faye M. Clavacio</ul></p><BR><BR/></div>]]></description>
+   <address>Quezon, Bukidnon</address>
+    <Point><coordinates>125.17448,7.81433,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="70 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src=https://www.youtube.com/embed/wy5r-IbH3oA frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Reynang Maanyag atong Ilailahon<BR><BR/><strong>Location: </strong>Minglanilla, Cebu City<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Science and Technology Education Center- High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">Stay chilled at Tubod Flowing Waters Resort. Along  with your swimsuits, sun block lotions, packed foods (Yeah, you read it right, you  may bring food as many as you want), and camera, prepare yourselves for the  beauty that will arise in front of your view and beware because you might get  in trouble for overstaying. You have the whole day but certainly not long enough for the dazzling poo l and exercises to set in and all those will surely tempt you to stay and come back.  No safety and precautions to take care for everything is all set. Visit and  perform your butterfly, backstrokes and other intriguing techniques  you prepared to brag or rather share. What&#39;s not to love about this place?  Well this place is just the perfect opening to your wonderful journey to knowing Cebu,  the Queen City of the South! Ali na! Atong ila-ilahon ang Reynang Maanyag! <BR><BR/><strong>Team Members: </strong><ul>Fatima T. Villanueva</br>Alvin S. Pino</br>Kiara Nicole P. Civil</br>Valerie Mae C. Jequinto</br>Ariel Dimataga</br>John Junnel H. Mabugnon</br>Edralaine Anne L. Casipe</br>Syrum Joseph M. Quinto</ul></p><BR><BR/></div>]]></description>
+   <address>Minglanilla, Cebu City</address>
+    <Point><coordinates>123.79546,10.2453,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+<Placemark id="73 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src=https://www.youtube.com/embed/89MwUT9gNsM frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Sa Bawat Kanto ng Batangas Kagandahan ay Likas<BR><BR/><strong>Location: </strong>Batangas City<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Sovereign Shepherd School of Values and Learning<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This DPSA entry features the beauty and splendor  of nature, the mighty works of God&#39;s hands in Sorosoro Ibaba, Batangas City.  Have an adventure with the group as they tour you on one of the newest spot in Batangas City.  Behind the tall trees and dusty roads in a barangay, a magical work  of nature unfolds in this site- Sorosoro Spring. This place is best for leisure and even  team building activities for all groups of people, from children to young people and professionals.  Enjoy the waters and the scenery! Doon Po Sa Amin Bawat Kanto ng Batangas, Kagandahan ay Likas! <BR><BR/><strong>Team Members: </strong><ul>Raymond R. Cultura</br>Jemar B. Dimaano</br>Nikko M. Dimaano</br>John Michael B. Gutierrez</br>John David R. Plata</br>Princess Eunice Baes</br>Maryjane C. Caoc</br>Angelique May Daquio</br>Dezrah F. Marasigan</br>Jearish Mikee B. Valencia</ul></p><BR><BR/></div>]]></description>
+   <address>Batangas City</address>
+    <Point><coordinates>121.05709,13.76229,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="75 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="420" height="315" src=https://www.youtube.com/embed/v3PcuWtv8ao frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Mga Banal na Tahanan<BR><BR/><strong>Location: </strong>Batangas<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Sovereign Shepherd School of Values and Learning<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">This DPSA entry showcases the holiness of Batangue&#241;os  by a tour on the different churches in Batangas City.  The group features six different churches. The video clip also shows the history that lies beneath  the establishment of every church. Travel with the group as they tour you to the  spiritual places in Batangas and feel the presence of the Almighty while viewing the  pictures and different spiritual activities done in these places. Get ready for a holy adventure.  Doon Po sa Amin, Mga Banal na Tahanan! <BR><BR/><strong>Team Members: </strong><ul>Grizelle Anne J. Bagu</br>Vanessa Lyn P. Ante</br>Joy Grace W. Bagui</br>Peter Gabriel Rosales</br>Mariel Barte</br>Jennifer Arias</br>Via Marie Arevalo</br>Meryll Barte</br>Mark Ivan Pintor</ul></p><BR><BR/></div>]]></description>
+   <address>Batangas</address>
+    <Point><coordinates>121.05709,13.76229,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="77 ">
+   <description><![CDATA[<div align ="center"><q><iframe src=https://prezi.com/embed/xyfcogdyvah7/?bgcolor=ffffff&#38;lock_to_path=0&#38;autoplay=0&#38;autohide_ctrls=0&#38;features=undefined&#38;disabled_features=undefined width="550" height="400" frameBorder="0"></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Nindot ang Palibot<BR><BR/><strong>Location: </strong>General Santos City<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Stratford International School<BR><BR/><strong>School Type: </strong>Private<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">General Santos City or GenSan as locals refer to it, is  one of the up-and-booming cities in the Philippines. The city has two world-famous  prized possessions; yellow fin tuna and the world&#39;s most famous boxer, Manny Pacquiao.  Their marks are everywhere! With the newly discovered and built scenery,  you would tell yourself, "There&#39;s no place like Gensan!". It&#39;s easy to get around in  Gensan. Be mesmerized with the beauty of General Santos City and it will  surely arouse you to an ecstatic admiration! Get on that flight and head on over! <BR><BR/><strong>Team Members: </strong><ul>Philline Dennieze Julle M. Crisostomo</br>Hassan Saleh A. Cabrera</br>Hussein Saleh A. Cabrera</br>Angel Unaysah Abutazil</br>Lykha Mae R. Gaborne</br>Alyssa Mari P. Morales</br>Melissa Jane T. Agbong</br>Angelica Tagolabong</ul></p><BR><BR/></div>]]></description>
+   <address>General Santos City</address>
+    <Point><coordinates>125.17399,6.11886,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+
+<Placemark id="83 ">
+   <description><![CDATA[<div align ="center"><q><iframe width="560" height="315" src=//www.youtube.com/embed/1rq9oKjWC0I frameborder="0" allowfullscreen></iframe></q></div><div><br/><br/><font face ="tahoma" size ="2"><p style="margin-left:20px;"><strong>Entry Title: </strong>Doon Po Sa Amin, Dila Mo'y Patatakamin, Tiyan Mo Pa Ay Bubusugin<BR><BR/><strong>Location: </strong>Daet, Camarines Norte<BR><BR/><strong>Category: </strong>Places to Go</p><p style ="margin-left:20px; word-wrap: break-word; width:650 px;"><strong>School: </strong>Vinzons Pilot High School<BR><BR/><strong>School Type: </strong>Public<BR><BR/><strong>School Level: </strong>Secondary<BR><BR/><strong>Summary: </strong><p align="justify" style="margin-left:20px; width:100%;padding-right:20px">The music video showcases not only the unique talents  of the personas on the presentation, but most importantly look  in depth the delightful original cuisine served and presented with such honor and pride.  The product of our hard work in creating this was inspired for us to  achieve our ultimate goal, to promote our dear province. We have come up with this  idea to endorse mouth- watering cuisines that can only be found In Camarines Norte.  Foods that can make you forget your problems after you have tasted it. <BR><BR/><strong>Team Members: </strong><ul>Anthony S. Capistrano</br>Adrian R. Andal</br>Mark Lemuel R. Romales</br>Mel Jones Abanto</br>Christopher D. Tuazon</br>John Michael Mirasol</br>Marianne O. Guinto</br>Jonerec L. Cereno</br>Jericho Vega</br>Ni&#241;o Barrios</ul></p><BR><BR/></div>]]></description>
+   <address>Daet, Camarines Norte</address>
+    <Point><coordinates>122.95112,14.10463,0</coordinates></Point>
+    <styleUrl>#style_PLACESTOGO</styleUrl>
+</Placemark>
+
+
+</Document></kml>
